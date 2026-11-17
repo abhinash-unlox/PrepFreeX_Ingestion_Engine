@@ -13,13 +13,15 @@ import { Area, AreaChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YA
 import { assessmentKinds, type AssessmentKind } from '@/lib/prepfreex-data';
 import { apiClient } from '@/lib/api-client';
 import { getDefaultChapters, getDefaultTopics } from '@/lib/jee-syllabus';
+import { StagingReviewView } from '@/components/staging-review';
 
-type View = 'Dashboard' | 'Assessments' | 'Practice' | 'Image Test' | 'Performance' | 'Test History' | 'Profile';
+type View = 'Dashboard' | 'Assessments' | 'Practice' | 'Image Test' | 'Staging Review' | 'Performance' | 'Test History' | 'Profile';
 const navItems: { name: View; icon: typeof Home }[] = [
   { name: 'Dashboard', icon: Home },
   { name: 'Assessments', icon: Compass },
   { name: 'Practice', icon: Target },
   { name: 'Image Test', icon: ImageIcon },
+  { name: 'Staging Review', icon: Layers3 },
   { name: 'Performance', icon: BarChart3 },
   { name: 'Test History', icon: CalendarDays },
   { name: 'Profile', icon: Settings2 },
@@ -2496,6 +2498,7 @@ export default function PrepFreeXApp() {
   if (view === 'Assessments') body = assessmentsPage;
   if (view === 'Practice') body = practicePage;
   if (view === 'Image Test') body = imageTestPage;
+  if (view === 'Staging Review') body = <StagingReviewView />;
   if (view === 'Performance') body = examResults ? resultPage : analyticsPage;
   if (view === 'Test History') body = historyPage;
   if (view === 'Profile') body = profilePage;

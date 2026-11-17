@@ -16,6 +16,7 @@ from apps.api.routes.questions import router as questions_router
 from apps.api.routes.taxonomy_review import router as taxonomy_review_router
 from apps.api.routes.question_variation import router as question_variation_router
 from apps.api.routes.storage import router as storage_router
+from apps.api.routes.staging import router as staging_router
 
 app = FastAPI(
     title="PrepFreeX Core Assessment & Ingestion API",
@@ -55,6 +56,7 @@ app.include_router(questions_router)
 app.include_router(taxonomy_review_router)
 app.include_router(question_variation_router)
 app.include_router(storage_router)
+app.include_router(staging_router)
 
 
 @app.get("/health")
