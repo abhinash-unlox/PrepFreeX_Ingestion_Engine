@@ -154,8 +154,8 @@ def export_all():
 
     # 5. Also copy/sync into reports/
     import shutil
-    shutil.copyfile(ready_csv_path, "reports/eligible_questions_database_export.csv")
-    shutil.copyfile(counts_csv_path, "reports/05_subtopic_question_distribution.csv")
+    shutil.copyfile(ready_csv_path, "reports/PrepFreeX_Ready_Questions_Review.csv")
+    shutil.copyfile(counts_csv_path, "reports/PrepFreeX_Subtopic_Question_Counts.csv")
     print("Synced updated files to reports/ directory.")
 
 if __name__ == "__main__":

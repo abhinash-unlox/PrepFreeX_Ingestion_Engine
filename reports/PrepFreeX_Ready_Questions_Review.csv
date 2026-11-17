@@ -556,21 +556,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
 \textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
-5546,pyq_eg_7ba2ad624f,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"Elements P and Q form two types of non-volatile, non-ionizable compounds PQ and . When 1 g
-of  is dissolved in 50 g of solvent '  was 1.176 K while when 1 g of  is dissolved in 50
-g of solvent '  was 0.689 K . (  of '  ). The molar masses of elements P
-and Q (in  ) respectively, are :","25, 60","60, 25","65, 145","70, 110",1,,,"\textbf{1. Governing Principle:}
-From CHEMISTRY (Some Basic Concepts of Chemistry — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{25, 60}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
 6715,CHEM_U01_SUB_CHEM_01_01_0f089a19,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"The number of moles of methane required to produce 11 gCO2( g) after complete combustion is :
 (Given molar mass of methane in gmol−1 : 16 )",0.35,0.5,0.75,0.25,4,,,"gives 
  (or 
@@ -610,9 +595,6 @@ weight (in g) of CO2(g) formed when 3.38 g of this hydrocarbon is completely bur
 Assume iron is present in excess:",2.1 g,4.2 g,21 g,42 g,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2026 JEE Main 2026 (Online) 2nd April Morning Shift,MEDIUM,MODEL_REVIEWED
 10336,pyq_2021_jee_main_s_q062_4cba68,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"The exact volumes of 1 M NaOH solution required to neutralise 50 mL of 1 M H3PO3 solution and
 100 mL of 2 M H3PO2 solution, respectively, are :",100 mL and 50 mL,100 mL and 200 mL,100 mL and 100 mL,50 mL and 50 mL,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 16th March Evening Shift,MEDIUM,MODEL_REVIEWED
-10338,pyq_2018_jee_main_s_q084_3c9e11,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"An unknown chlorohydrocarbon has 3.55% of chlorine. If each molecule of the hydrocarbon has one
-chlorine atom only; chlorine atoms present in 1 g of chlorohydrocarbon are :
-(Atomic wt. of Cl = 35.5 u; Avogadro constant = 6.023  1023 mol-1)",6.023  1020,6.023  109,6.023  1021,6.023  1023,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2018 JEE Main 2018 (Online) 16th April Morning Slot,MEDIUM,MODEL_REVIEWED
 10340,pyq_2018_jee_main_s_q086_b51c2b,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"For per gram of reactant, the maximum quantity of N2 gas is produced in which of the following
 thermal decomposition reactions ?
 (Given : Atomic wt. - Cr = 52 u, Ba = 137 u)",(NH4)2Cr2O7(s)  N2(g) + 4H2O(g) + Cr2O3(s),2NH4NO3(s)  2 N2(g) + 4H2O(g) + O2(g),Ba(N3)2(s)  Ba(s) + 3N2(g),2NH3(g)  N2(g) + 3H2(g),4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2018 JEE Main 2018 (Online) 15th April Evening Slot,MEDIUM,MODEL_REVIEWED
@@ -647,7 +629,6 @@ mass unit, the mass of one mole of the substance will",be a function of the mole
 10380,pyq_2024_jee_main_s_q126_6fecdb,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"To neutralise completely 20 mL of 0.1 M aqueous solution of phosphorous acid (H3PO3), the
 volume of 0.1 M aqueous KOH solution required is",40 mL,20 mL,10 mL,60 mL,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 10384,pyq_2024_jee_main_s_q130_2d1e91,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"With increase of temperature, which of these changes?",molality,weight fraction of solute,molarity,mole fraction,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
-10385,pyq_2024_jee_main_s_q131_4d86fb,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,Number of atoms in 558.5 gram Fe (at. wt. of Fe = 55.85 g mol-1) is,twice that in 60 g carbon,6.023  1022,half that in 8 g He,558.5  6.023  1023,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
 16858,Q_CF9291EBF799,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T01,"Matter, Dalton's Atomic Theory & Laws of Chemical Combination",SINGLE_CHOICE,"Choose the correct statements.
 (A) Weight of a substance is the amount of matter present in it.
 (B) Mass is the force exerted by gravity on an object.
@@ -996,9 +977,6 @@ mol–1s–1 at 527°C. The activation energy for the reaction, in kJ mole–1 i
 7453,pyq_2019_jee_main_201_q01_6b75fb,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T02,"Atomic and Molecular Masses, Mole Concept & Percentage Composition",SINGLE_CHOICE,"A reaction of cobalt (III) chloride and ethylenediamine in a 1 : 2 mole ratio generates two isomeric
 products A (violet coloured) and B (green coloured). A can show optical activity, but B is optically
 inactive. What type of isomers do A and B represent?",Ionisation isomers,Linkage isomers,Coordination isomers,Geometrical isomers,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-7466,pyq_2019_jee_main_201_q14_e40aeb,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T02,"Atomic and Molecular Masses, Mole Concept & Percentage Composition",SINGLE_CHOICE,"5.1 g NH4SH is introduced in 3.0 L evacuated flask at 327ºC. 30% of the solid NH4SH decomposed
-to NH3 and H2S as gases . The Kp of the reaction at 327oC is (R = 0.082 L atm mol–1 K–1, Molar
-mass of S = 32 g mol–1 molar mass of N = 14 g mol–1)",0.242  104 atm2,1  10–4 atm2,4.9  103 atm2,0.242 atm2,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 7660,pyq_2019_jee_main_201_q05_d7b795,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T02,"Atomic and Molecular Masses, Mole Concept & Percentage Composition",SINGLE_CHOICE,"A 10 mg effervescent tablet containing sodium bicarbonate and oxalic acid releases 0.25 ml of CO2
 at T = 298.15 K and p = 1 bar. If molar volume of CO2 is 25.0 L under such condition, what is the
 percentage of sodium bicarbonate in each tablet ?
@@ -1064,20 +1042,6 @@ is 1.15 g/mL. The molarity of this solution is :",0.50 M,1.78 M,1.02 M,2.05 M,4,
 first solution + 520 ml of 1.2 M second solution. What is the molarity of the final mixture?",2.70 M,1.344 M,1.50 M,1.20 M,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 10382,pyq_2024_jee_main_s_q128_2045f0,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T02,"Atomic and Molecular Masses, Mole Concept & Percentage Composition",SINGLE_CHOICE,"25 ml of a solution of barium hydroxide on titration with a 0.1 molar solution of hydrochloric acid
 gave a titre value of 35 ml. The molarity of barium hydroxide solution was",0.14,0.28,0.35,0.07,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-2212,pyq_eg_5885d2597a,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T03,Empirical and Molecular Formulae Calculations,SINGLE_CHOICE,"The minimum energy that must be possessed by photons in order to produce the photoelectric
-effect with platinum metal is :
-[Given : The threshold frequency of platinum is 1.3  1015 s1 and h = 6.6  1034 J s.]",3.21  1014 J,6.24  1016 J,8.58  1019 J,9.76  1020 J,3,,,"\textbf{1. Governing Principle:}
-From CHEMISTRY (Some Basic Concepts of Chemistry — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{8.58  1019 J}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 3051,pyq_eg_18411c56f5,Chemistry,Some Basic Concepts in Chemistry,CHEM_U01,CHEM_U01_T03,Empirical and Molecular Formulae Calculations,SINGLE_CHOICE,"A solution is prepared by adding  of """" to 1 mole of water. Mass percent of """" in the solution is :",20%,10%,2%,5%,2,,,"\textbf{1. Governing Principle:}
 From CHEMISTRY (Some Basic Concepts of Chemistry — Core Concept Principles), apply the governing physical and mathematical theorems.
 
@@ -2205,19 +2169,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
 \textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
-2870,pyq_eg_3c8f6b4100,Chemistry,Atomic Structure,CHEM_U03,CHEM_U03_T01,"EM Radiation, Photoelectric Effect & Bohr Model of Hydrogen Atom",SINGLE_CHOICE,"A vessel contains 16g of hydrogen and 128g of oxygen at standard temperature and pressure. The
-volume of the vessel in cm3 is :",72  105,32  105,27  104,54  104,3,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{27  104}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 2898,pyq_eg_97d14409f8,Chemistry,Atomic Structure,CHEM_U03,CHEM_U03_T01,"EM Radiation, Photoelectric Effect & Bohr Model of Hydrogen Atom",SINGLE_CHOICE,The electronic configuration of Pt (atomic number 78) is :,[Xe] 4f14 5d9 6s1,[Kr] 4f14 5d10,[Xe] 4f14 5d10,[Xe] 4f14 5d8 6s2,1,,,"\textbf{1. Governing Principle:}
 From CHEMISTRY (Structure of Atom — Bohr Model, Quantum Numbers & Electron Configuration), apply the governing physical and mathematical theorems.
 
@@ -2794,8 +2745,6 @@ JEE Main 2024 January",NO,,JEE Main 2024 31 Jan Shift 2,MEDIUM,MODEL_REVIEWED
 enthalpy is :",a more negative value than the first,almost the same as that of the first,"negative, but less negative than the first",a positive value,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 8333,pyq_2019_jee_main_201_q11_df4f35,Chemistry,Atomic Structure,CHEM_U03,CHEM_U03_T02,"Dual Nature of Matter, de Broglie Relation & Heisenberg Uncertainty",SINGLE_CHOICE,"In general, the properties that decrease and increase down a group in the periodic table,
 respectively, are :",Atomic Radius and Electronegativity,Electron Gain Enthalpy and Electronegativity.,Electronegativity and Atomic Radius.,Electronegativity and Electron Gain Enthalpy.,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-8489,pyq_2020_jee_main_202_q03_ab3b2d,Chemistry,Atomic Structure,CHEM_U03,CHEM_U03_T02,"Dual Nature of Matter, de Broglie Relation & Heisenberg Uncertainty",SINGLE_CHOICE,"Consider the hypothetical situation where the azimuthal quantum number, , takes values 0, 1, 2, .....,
-n + 1, where n is the principal quantum number. Then, the element with atomic number :",13 has a half-filled valence subshell,9 is the first alkali metal,8 is the first noble gas,6 has a 2p-valence subshell,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2020 Evening,MEDIUM,MODEL_REVIEWED
 8734,pyq_2020_jee_main_202_q13_45c1c4,Chemistry,Atomic Structure,CHEM_U03,CHEM_U03_T02,"Dual Nature of Matter, de Broglie Relation & Heisenberg Uncertainty",SINGLE_CHOICE,"In the sixth period, the orbitals that are filled are :","6s, 5d, 5f, 6p","6s, 4f, 5d, 6p","6s, 6p, 6d, 6f","6s, 5f, 6d, 6p",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2020 Morning,EASY,MODEL_REVIEWED
 8868,pyq_2020_jee_main_202_q12_6d7093,Chemistry,Atomic Structure,CHEM_U03,CHEM_U03_T02,"Dual Nature of Matter, de Broglie Relation & Heisenberg Uncertainty",SINGLE_CHOICE,"Within each pair of elements F & Cl, S & Se, and Li & Na, respectively, the elements that release more
 energy upon an electron gain are :","F, S and Li","Cl, Se and Na","Cl, S and Li","F, Se and Na",3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2020 Evening,MEDIUM,MODEL_REVIEWED
@@ -3651,10 +3600,6 @@ Process Condition
 (II) Isothermal (2) Q = 0
 (III) Isochoric (3) U 0, W 0, Q 0
 (IV) Isobaric (4) U = 0","(I) - (1), (II) - (1), (III) - (2), (IV) - (3)","(I) - (2), (II) - (4), (III) - (1), (IV) - (3)","(I) - (1), (II) - (2), (III) - (4), (IV) - (4)","(I) - (2), (II) - (1), (III) - (4), (IV) - (3)",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2020 Evening,HARD,MODEL_REVIEWED
-9590,pyq_2024_jee_main_c_q078_db3951,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T01,"System and Surroundings, State Functions & Types of Processes",SINGLE_CHOICE,"For the reaction equilibrium
-N2O4 (g)  2NO2 (g)
-the concentrations of N2O4 and NO2 at equilibrium are 4.8  10-2 and 1.2  10-2 mol L-1
-respectively. The value of Kc for the reaction is",3  10-1 mol L-1,3  10-3 mol L-1,3  103 mol L-1,3.3  102 mol L-1,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 9593,pyq_2024_jee_main_c_q081_cd8337,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T01,"System and Surroundings, State Functions & Types of Processes",SINGLE_CHOICE,"For the reaction CO (g) + (1/2) O2 (g)  CO2 (g), Kp/Kc is :",RT,(RT)-1,(RT)-1/2,(RT)1/2,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
 10149,pyq_2018_jee_main_i_q067_227c7c,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T01,"System and Surroundings, State Functions & Types of Processes",SINGLE_CHOICE,"An aqueous solution contains 0.10 M H2S and 0.20 M HCl. If the equilibrium constants for the
 formation of HS– from H2S is 1.0  10–7 and that of S2- from HS– ions is 1.2  10–13 then the
@@ -3745,21 +3690,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (4) is the mathematically consistent solution.
 \textbf{Correct Option:} (4)",NO,,,EASY,MODEL_REVIEWED
-5325,pyq_eg_21452eaad2,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T02,"First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions",SINGLE_CHOICE,"For 
- for forward and backward reaction are 180 and  respectively
-If catalyst lowers  for both reactions by .
-Which of the following statement is correct?",Catalyst does not alter the Gibbs energy change of a reaction.,The enthalpy change for the reaction is .,Catalyst can cause non-spontaneous reactions to occur.,The enthalpy change for the catalysed reaction is different from that of uncatalysed reaction.,1,,,"\textbf{1. Governing Principle:}
-From CHEMISTRY (Some Basic Concepts of Chemistry — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{Catalyst does not alter the Gibbs energy change of a reaction.}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
 7525,pyq_2019_jee_main_201_q04_f59fb6,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T02,"First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions",SINGLE_CHOICE,"The values of Kp/Kc for the following reactions at 300 K are, respectively : (At 300 K, RT = 24.62 dm3
 atm mol–1)
 N2(g) + O2(g)   2 NO(g)
@@ -3784,10 +3714,6 @@ Using the Le Chatelier’s principle, predict which one of the following will no
 2 SO2 (g) + O2 (g)  2 SO3 (g);  = -198 kJ
 One the basis of Le Chatelier's principle, the condition favourable for the forward reaction is :",increasing temperature as well as pressure,lowering the temperature and increasing the pressure,any value of temperature and pressure,lowering temperature as well as pressure,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 9592,pyq_2024_jee_main_c_q080_a21fa4,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T02,"First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions",SINGLE_CHOICE,Change in volume of the system does not alter which of the following equilibria?,N2(g) + O2(g)  2NO (g),PCl5(g)  PCl3 (g) + Cl2 (g),N2(g) + 3H2(g)  2NH3 (g),SO2Cl2 (g)  SO2 (g) + Cl2 (g),1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
-10146,pyq_2021_jee_main_i_q044_01d407,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T02,"First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions",SINGLE_CHOICE,"The solubility of Ca(OH)2 in water is :
-[Given : The solubility product of Ca(OH)2 in water = 5.5  106]",1.11  106,1.11  102,1.77  106,1.77  102,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 25th February Evening Shift,MEDIUM,MODEL_REVIEWED
-10147,pyq_2021_jee_main_i_q045_e2b141,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T02,"First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions",SINGLE_CHOICE,"The solubility of AgCN in a buffer solution of pH = 3 is x. The value of x is : [Assume : No cyano
-complex is formed; Ksp(AgCN) = 2.2  1016 and Ka(HCN) = 6.2  1010]",1.9  105,1.6  106,2.2  1016,0.625  106,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 25th February Morning Shift,MEDIUM,MODEL_REVIEWED
 10154,pyq_2018_jee_main_i_q072_42a79a,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T02,"First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions",SINGLE_CHOICE,"The minimum volume of water required to dissolve 0.1 g lead (II) chloride to get a saturated solution
 (Ksp of PbCl2 = 3.2  10-8, atomic mass of Pb = 207 u ) is :",0.36 L,17.98 L,0.18 L,1.798 L,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2018 JEE Main 2018 (Online) 15th April Morning Slot,MEDIUM,MODEL_REVIEWED
 2171,pyq_eg_d4335be907,Chemistry,Chemical Thermodynamics,CHEM_U05,CHEM_U05_T03,Hess's Law of Constant Heat Summation & Bond Enthalpies,SINGLE_CHOICE,"Given below are two statements.
@@ -4684,9 +4610,6 @@ acid or strong base are added to them. These solutions are known as :",Ideal sol
 acid is :",3  10–1,1  10–3,1  10–5,1  10–7,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 10182,pyq_2024_jee_main_i_q100_2b712a,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T01,"Physical Equilibrium (Solid-Liquid, Liquid-Gas) & Henry's Law",SINGLE_CHOICE,"The pKa of a weak acid, HA, is 4.80. The pKb of a weak base, BOH, is 4.78. The pH of an aqueous
 solution of the corresponding salt, BA, will be",9.58,4.79,7.01,9.22,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-10183,pyq_2024_jee_main_i_q101_d46e8f,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T01,"Physical Equilibrium (Solid-Liquid, Liquid-Gas) & Henry's Law",SINGLE_CHOICE,"The first and second dissociation constants of an acid H2A are 1.0  10−5 and 5.0  10−10
-respectively. The overall dissociation constant of the acid will be :",5.0  10−5,5.0  1015,5.0  10−15,5.0  105,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-10187,pyq_2024_jee_main_i_q105_27c15f,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T01,"Physical Equilibrium (Solid-Liquid, Liquid-Gas) & Henry's Law",SINGLE_CHOICE,Hydrogen ion concentration in mol / L in a solution of pH = 5.4 will be :,3.98  10-6,3.68  10-6,3.88  106,3.98  108,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
 10194,pyq_2024_jee_main_i_q112_58c264,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T01,"Physical Equilibrium (Solid-Liquid, Liquid-Gas) & Henry's Law",SINGLE_CHOICE,Species acting as both Bronsted acid and base is :,(HSO4)-1,Na2CO3,NH3,OH-1,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
 2132,pyq_eg_785c44e8a3,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T02,"Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle",SINGLE_CHOICE,Which of the following is an example of polyester?,Butadiene-styrene copolymer,Melamine polymer,Neoprene,Poly--hydroxybutyrate-co--hydroxyvalerate,4,,,"\textbf{1. Governing Principle:}
 From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
@@ -4997,14 +4920,10 @@ Fe3+ (aq) + e-  Fe2+ (aq) will be",-0.072 V,0.385 V,0.770 V,-0.270 V,3,,,Evaluat
  = -0.14 V
 Under standard conditions the potential for the reaction
 Sn(s) + 2Fe3+(aq)  2Fe2+(aq) + Sn2+(aq) is :",1.68 V,0.63 V,0.91 V,1.40 V,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-9912,pyq_2024_jee_main_e_q131_4ab1a1,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T02,"Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle",SINGLE_CHOICE,"The standard e.m.f of a cell, involving one electron change is found to be 0.591 V at 25oC. The
-equilibrium constant of the reaction is (F = 96,500 C mol-1: R = 8.314 JK-1 mol-1)",1.0  101,1.0  1030,1.0  1010,1.0  105,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 9914,pyq_2024_jee_main_e_q133_f82610,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T02,"Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle",SINGLE_CHOICE,"In a cell that utilises the reaction Zn(s) + 2H+ (aq)  Zn2+(aq) + H2(g) addition of H2SO4 to cathode
 compartment, will",lower the E and shift equilibrium to the left,increases the E and shift equilibrium to the left,increase the E and shift equilibrium to the right,Lower the E and shift equilibrium to the right,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 9915,pyq_2024_jee_main_e_q134_f57d0f,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T02,"Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle",SINGLE_CHOICE,"The  values for Cr, Mn, Fe and Co are – 0.41, +1.57, + 0.77 and +1.97 V respectively. For
 which one of these metals the change in oxidation state from +2 to +3 is easiest?",Fe,Mn,Cr,Co,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-9916,pyq_2024_jee_main_e_q135_ad1342,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T02,"Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle",SINGLE_CHOICE,"For a cell reaction involving a two-electron change, the standard e.m.f. of the cell is found to be
-0.295 V at 25oC. The equilibrium constant of the reaction at 25oC will be",29.5  10-2,10,1  1010,1  10-10,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 9917,pyq_2024_jee_main_e_q136_c63aeb,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T02,"Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle",SINGLE_CHOICE,"Standard reduction electrode potentials of three metals A,B&C are respectively +0.5 V, -3.0 V & -1.2
 V. The reducing, powers of these metals are",A > B > C,C > B > A,A > C > B,B > C > A,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 9918,pyq_2024_jee_main_e_q137_55dd25,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T02,"Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle",SINGLE_CHOICE,"When during electrolysis of a solution of AgNO3, 9650 coulombs of charge pass through the
@@ -5092,18 +5011,6 @@ the addition does not change in volume and Ksp(AgCl) = 1.7  1010 M2 and Ksp(Ag2C
 1012 M3.
 Select correct statement from the following :",AgCl precipitates first because its Ksp is high.,Ag2CrO4 precipitates first as its Ksp is low.,Ag2CrO4 precipitates first because the amount of Ag+ needed is low.,AgCl will precipitate first as the amount of Ag+ needed to precipitate is low.,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 20th July Evening Shift,MEDIUM,MODEL_REVIEWED
 10193,pyq_2024_jee_main_i_q111_da9e30,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T03,"Ionic Equilibrium: Weak/Strong Electrolytes, pH Scale & Ionization",SINGLE_CHOICE,1 M NaCl and 1 M HCl are present in an aqueous solution. The solution is,not a buffer solution with pH < 7,not a buffer solution with pH > 7,a buffer solution with pH < 7,a buffer solution with pH > 7,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
-2218,pyq_eg_9e82d71f47,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T04,"Common Ion Effect, Salt Hydrolysis, Buffer Solutions & Ksp",SINGLE_CHOICE,The Ksp for bismuth sulphide (Bi2S3) is 1.08  1073. The solubility of Bi2S3 in mol L1 at 298 K is :,1.0  1015,2.7  1012,3.2  1010,4.2  108,1,,,"\textbf{1. Governing Principle:}
-From CHEMISTRY (Chemical Equilibrium — Chemical & Ionic Equilibrium, Buffer & Ksp), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{1.0  1015}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,EASY,MODEL_REVIEWED
 9903,pyq_2024_jee_main_e_q122_448496,Chemistry,Equilibrium,CHEM_U07,CHEM_U07_T04,"Common Ion Effect, Salt Hydrolysis, Buffer Solutions & Ksp",SINGLE_CHOICE,"Given the data at 25oC,
 Ag + I-  AgI + e- , Eo = 0.152 V
 Ag  Ag+ + e-, Eo = -0.800 V
@@ -5786,10 +5693,6 @@ from 50 mm Hg to 87.5 mm Hg in 30 min. The pressure exerted by the gases after 6
 9636,pyq_2014_jee_main_c_q088_3e2b70,Chemistry,Chemical Kinetics,CHEM_U09,CHEM_U09_T01,"Rate of Reaction, Factors Affecting Rate & Order and Molecularity",SINGLE_CHOICE,"The rate coefficient (k) for a particular reaction is 1.3  104 M1 s1 at 100oC, and 1.3  103 M
 1 s1 at 150oC. What is the energy of activation (Ea) (in kJ) for this reaction ? (R = molar gas
 constant = 8.314 JK1 mol1)",16,60,99,132,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2014 JEE Main 2014 (Online) 12th April Morning Slot,MEDIUM,MODEL_REVIEWED
-9637,pyq_2014_jee_main_c_q089_27f8f8,Chemistry,Chemical Kinetics,CHEM_U09,CHEM_U09_T01,"Rate of Reaction, Factors Affecting Rate & Order and Molecularity",SINGLE_CHOICE,"In the reaction of formation of sulphur trioxide by contact process
-2SO2 + O2    2SO3 the rate of reaction was measured as
- =  2.5  104 mol L1 s1.
-The rate of reaction in terms of   [SO2] in mol L1 s1",1.25  104,2.50  104,3.75  104,5.00  104,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2014 JEE Main 2014 (Online) 11th April Morning Slot,MEDIUM,MODEL_REVIEWED
 9638,pyq_2014_jee_main_c_q090_21eafc,Chemistry,Chemical Kinetics,CHEM_U09,CHEM_U09_T01,"Rate of Reaction, Factors Affecting Rate & Order and Molecularity",SINGLE_CHOICE,"For the reaction, 2N2O5  4NO2 + O2, the rate equation can be
 expressed in two ways   =  k [N2O5]  
 and  +  =  k' [N2O5]   
@@ -6980,23 +6883,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
 \textbf{Correct Option:} (2)",NO,,,EASY,MODEL_REVIEWED
-4222,pyq_eg_4a2c7895e2,Chemistry,Coordination Compounds,CHEM_U17,CHEM_U17_T01,"Werner's Theory, Ligands, Coordination Number & IUPAC Nomenclature",SINGLE_CHOICE,"Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason
-R:
-Assertion A: Alcohols react both as nucleophiles and electrophiles.
-Reason R: Alcohols react with active metals such as sodium, potassium and aluminum to yield
-corresponding alkoxides and liberate hydrogen.
-In the light of the above statements, choose the correct answer from the options given below:",is false but  is true.,Both  and  are true but  is NOT the correct explanation of .,Both  and  are true and  is the correct explanation of .,is true but  is false.,2,,,"\textbf{1. Governing Principle:}
-From CHEMISTRY (Some Basic Concepts of Chemistry — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{Both  and  are true but  is NOT the correct explanation of .}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
 4794,pyq_eg_60f0491ced,Chemistry,Coordination Compounds,CHEM_U17,CHEM_U17_T01,"Werner's Theory, Ligands, Coordination Number & IUPAC Nomenclature",SINGLE_CHOICE,"Given below are two statements:
 Consider the following reaction
 Statement (I): In the case of formaldehyde
@@ -7568,20 +7454,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
 \textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
-4527,pyq_eg_fc9a194ea1,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"Combustion of glucose  produces  and water. The amount of oxygen (in ) required
-for the complete combustion of  of glucose is :
-[Molar mass of glucose in ]",32,480,800,960,4,,,"\textbf{1. Governing Principle:}
-From CHEMISTRY (Some Basic Concepts of Chemistry — Mole Concept, Molar Mass & Stoichiometry), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{960}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (4) is the mathematically consistent solution.
-\textbf{Correct Option:} (4)",NO,,,MEDIUM,MODEL_REVIEWED
 5074,pyq_eg_d12610da57,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"500 J of energy is transferred as heat to 0.5 mol of Argon gas at 298 K and 1.00 atm. The final
 temperature and the change in internal energy respectively are: Given: R = 8.3 J K-1 mol-1",368 K and 500 J,348 K and 300 J,378 K and 300 J,378 K and 500 J,2,,,"\textbf{1. Governing Principle:}
 From CHEMISTRY (Some Basic Concepts of Chemistry — Core Concept Principles), apply the governing physical and mathematical theorems.
@@ -7763,11 +7635,6 @@ magnetic moment (BM) of Gd3+ (Z = 64), respectively, are :",[Xe]5f7 and 8.9,[Xe]
 A.P. is:",66,81,65,78,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2020 Morning,EASY,MODEL_REVIEWED
 8745,pyq_2020_jee_main_202_q30_9c6706,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"If (a, b, c) is the image of the point (1, 2, -3) in
 the line , then a + b + c is :",1,2,3,-1,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2020 Morning,EASY,MODEL_REVIEWED
-8767,pyq_2020_jee_main_202_q56_f41243,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"A balloon is moving up in air vertically above a point A on the ground. When it is at a height h1, a girl
-standing at a distance d (point B) from A (see figure) sees it at an angle 45o with respect to the
-vertical. When the balloon climbs up a further height h2, it is seen at an angle 60o with respect to the
-vertical if the girl moves further by a distance 2.464 d (point C). Then the height h2 is (given tan 30o
-= 0.5774)",0.464d,d,0.732d,1.464d,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
 8786,pyq_2020_jee_main_202_q22_6f3a5a,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"Let f : R  R be a function defined by
 f(x) = max {x, x2}. Let S denote the set of all points in R, where f is not differentiable. Then S is equal
 to :","{0, 1}",{0},(an empty set),{1},1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2020 Evening,MEDIUM,MODEL_REVIEWED
@@ -7776,11 +7643,6 @@ to :","{0, 1}",{0},(an empty set),{1},1,,,Evaluated according to official NTA ke
 (a2 + b2 + c2)p2 – 2(ab + bc + cd)p + (b2 + c2 + d2) = 0. Then :","a, c, p are in G.P.","a, b, c, d are in G.P.","a, b, c, d are in A.P.","a, c, p are in A.P.",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
 8841,pyq_2020_jee_main_202_q40_98d13a,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"An electron, a doubly ionized helium ion (He++) and a proton are having the same kinetic energy. The
 relation between their respective de-Broglie wavelengths e, He++ and p is :",e > He++ > p,e < p < He++,e > p > He++,e < He++ = p,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
-8845,pyq_2020_jee_main_202_q44_a89c79,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"You are given that Mass of  = 7.0160u,
-Mass of  = 4.0026u
-and Mass of  = 1.0079u.
-When 20 g of  is converted into  by proton capture, the energy liberated, (in kWh), is :
-[Mass of nucleon = 1 GeV/c2]",6.82  105,4.5  105,8  106,1.33  106,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
 8851,pyq_2020_jee_main_202_q50_bc3388,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"A point like object is placed at a distance of 1 m in front of a convex lens of focal length 0.5 m. A
 plane mirror is placed at a distance of 2 m behind the lens. The position and nature of the final
 image formed by the system is :","2.6 m from the mirror, real","1 m from the mirror, real","2.6 m from the mirror, virtual","1 m from the mirror, virtual",1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
@@ -7799,8 +7661,6 @@ The product 'X' is used :",as food grade colourant,in acid base titration as an 
 2x + 3by + bz = 0
 2x + 4cy + cz = 0,
 where a, b, c  R are non-zero distinct; has a non-zero solution, then:",are in A.P.,a + b + c = 0,"a, b, c are in G.P.","a,b,c are in A.P.",1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
-8944,pyq_2020_jee_main_202_q51_c24626,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"The time period of revolution of electron in its ground state orbit in a hydrogen atom is 1.6  10-16
-s. The frequency of revolution of the electron in its first excited state (in s-1) is :",5.6  1012,1.6  1014,7.8  1014,6.2  1015,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
 8955,pyq_2020_jee_main_202_q62_73bd09,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"A litre of dry air at STP expands adiabatically to a volume of 3 litres. If  = 1.40, the work done by air
 is : (31.4 = 4.6555) [Take air to be an ideal gas]",60.7 J,100.8 J,90.5 J,48 J,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
 8977,pyq_2020_jee_main_202_q30_2e3576,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T01,"Purification: Crystallization, Sublimation, Distillation & Chromatography",SINGLE_CHOICE,"The mean and variance of 20 observations are found to be 10 and 4, respectively. On rechecking, it
@@ -8382,12 +8242,6 @@ by an applied magnetic field (west to east). The value of magnetic field : (Rest
 9096,pyq_2020_jee_main_202_q56_9574d8,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T04,Calculations of Empirical & Molecular Formulae and Numerical Problems,SINGLE_CHOICE,"Planet A has mass M and radius R. Planet B has half the mass and half the radius of Planet A. If the
 escape velocities from the Planets A and B are vA and vB, respectively, then . The value of n
 is :",1,2,4,3,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2020 Evening,MEDIUM,MODEL_REVIEWED
-9149,pyq_2020_jee_main_202_q62_bec980,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T04,Calculations of Empirical & Molecular Formulae and Numerical Problems,SINGLE_CHOICE,"Water flows in a horizontal tube (see figure).
-The pressure of water changes by 700 Nm–2
-between A and B where the area of cross section
-are 40 cm2 and 20 cm2, respectively. Find the
-rate of flow of water through the tube.
-(density of water = 1000 kgm–3)",1810 cm3/s,2420 cm3/s,3020 cm3/s,2720 cm3/s,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2020 Morning,MEDIUM,MODEL_REVIEWED
 9292,pyq_2026_jee_main_b_q001_87c9e0,Chemistry,Purification and Characterisation of Organic Compounds,CHEM_U19,CHEM_U19_T04,Calculations of Empirical & Molecular Formulae and Numerical Problems,SINGLE_CHOICE,"Given below are two statements :
 Statement I : Vapours of the liquid with higher boiling point condense before vapours of the liquid
 with lower boiling points in fractional distillation.
@@ -8708,41 +8562,6 @@ testing. A and B were separately taken in test tubes and boiled with NaOH soluti
 in each tube was made acidic with dilute HNO3 and then some AgNO3 solution was added.
 Substance B gave a yellow precipitate. Which one of the following statements is true for this
 experiment?",A was C6H5CH2I,B was C6H5I,Addition of HNO3 was unnecessary,A was C6H5I,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-14723,Q_DE9F678F0BB3,Chemistry,Organic Compounds Containing Halogens,CHEM_U22,CHEM_U22_T01,"Haloalkanes & Haloarenes: Preparation, Properties & Nature of C-X Bond",SINGLE_CHOICE,"The correct order of the rate of reaction of the following reactants with nucleophile by SN1 mechanism is:
-(Given : Structure I and II are rigid)",III  I  II  IV,IV  III  II  I,I  II  III  IV,"II  I  III  IV
- 
-Haloalkanes and Haloarenes
-
-
-
-
-
-RMgBr(P)
-1.4dm3
-H3O+
-____
-[P]
-C9H10Br2
-[Q]
-[Q]
-[R]
-[P]
-<
-<
-<
-<
-<
-<
-<
-<
-<
-<
-<
-<",4,,,"7. (4) Rate of 
- Stability of 
- formed
-(I) and (II) are unstable due to Bredt's rule, (I) has more +I effect.
-(II) < (I) < (III) < (IV)",NO,,JEE Main 2026 22 January Shift 1,MEDIUM,MODEL_REVIEWED
 16949,Q_DE6C70078928,Chemistry,Organic Compounds Containing Halogens,CHEM_U22,CHEM_U22_T01,"Haloalkanes & Haloarenes: Preparation, Properties & Nature of C-X Bond",SINGLE_CHOICE,"Given below are two statements:
 involving lone pair of electrons on nitrogen.
 In the light of the above statements, choose the most appropriate answer from the options given below",Statement I is incorrect but Statement II is correct,Statement I is correct but Statement II is incorrect,Both Statement I and Statement II are correct,Both Statement I and Statement II are incorrect,3,,,Rate of (a) is faster than rate of (b) because it is a intramolecular substitution.,NO,,JEE Main 2025 JEE Main 2025 January,MEDIUM,MODEL_REVIEWED
@@ -8868,22 +8687,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
 \textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
-4230,pyq_eg_a59eeab4bb,Chemistry,Organic Compounds Containing Oxygen,CHEM_U23,CHEM_U23_T01,"Alcohols: Identification of 1°, 2°, 3° Alcohols & Dehydration Mechanism",SINGLE_CHOICE,"Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason
-R:
-Assertion A:  value of phenol is 10.0 while that of ethanol is 15.9 .
-Reason R: Ethanol is stronger acid than phenol.
-In the light of the above statements, choose the correct answer from the options given below:",A is false but R is true.,Both  and  are true but  is NOT the correct explanation of .,Both  and  are true and  is the correct explanation of .,is true but  is false.,4,,,"\textbf{1. Governing Principle:}
-From CHEMISTRY (Aldehydes, Ketones and Carboxylic Acids — Named Organic Reactions & Carbonyl Compounds), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{is true but  is false.}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (4) is the mathematically consistent solution.
-\textbf{Correct Option:} (4)",NO,,,MEDIUM,MODEL_REVIEWED
 5600,pyq_eg_b4feb3d3a7,Chemistry,Organic Compounds Containing Oxygen,CHEM_U23,CHEM_U23_T01,"Alcohols: Identification of 1°, 2°, 3° Alcohols & Dehydration Mechanism",SINGLE_CHOICE,"Given below are two statements :
 Statement I : Phenol on treatment with  /aq. KOH under refluxing condition, followed by
 acidification produces -hydroxy benzaldehyde as the major product and -hydroxy benzaldehyde as
@@ -9021,13 +8824,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
 \textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
-8804,pyq_2020_jee_main_202_q46_92a7b5,Chemistry,Organic Compounds Containing Oxygen,CHEM_U23,CHEM_U23_T02,"Phenols: Acidity, Electrophilic Substitution & Reimer-Tiemann Reaction",SINGLE_CHOICE,"Three rods of identical cross-section and lengths are made of three different materials of thermal
-conductivity K1 , K2 and K3 , respectively. They are joined together at their ends to make a long rod
-(see figure). One end of the long rod is maintained at 100oC and the other at 0oC (see figure). If the
-joints of the rod are at 70oC and 20oC in steady state and there is no loss of energy from the
-surface of the rod, the correct relationship between K1 , K2 and K3 is :","K1 : K3 = 2 : 3,
-K2 : K3 = 2 : 5",K1 < K2 < K3,"K1 : K2 = 5 : 2,
-K1 : K3 = 3 : 5",K1 > K2 > K3,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2020 Evening,MEDIUM,MODEL_REVIEWED
 9197,pyq_2023_jee_main_a_q050_d339a9,Chemistry,Organic Compounds Containing Oxygen,CHEM_U23,CHEM_U23_T02,"Phenols: Acidity, Electrophilic Substitution & Reimer-Tiemann Reaction",SINGLE_CHOICE,Suitable reaction condition for preparation of Methyl phenyl ether is,"Benzene, MeBr",", MeBr","Ph - Br,",", MeOH",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2023 JEE Main 2023 (Online) 10th April Morning Shift,EASY,MODEL_REVIEWED
 9246,pyq_2014_jee_main_a_q143_e813d8,Chemistry,Organic Compounds Containing Oxygen,CHEM_U23,CHEM_U23_T02,"Phenols: Acidity, Electrophilic Substitution & Reimer-Tiemann Reaction",SINGLE_CHOICE,williamson synthesis of ether is an example of :,Nucleophilic addition,Electrophilic addition,Electrophilic substitution,Nucleophilic substitution,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2014 JEE Main 2014 (Online) 19th April Morning Slot,EASY,MODEL_REVIEWED
 9262,pyq_2013_jee_main_a_q160_1120f4,Chemistry,Organic Compounds Containing Oxygen,CHEM_U23,CHEM_U23_T02,"Phenols: Acidity, Electrophilic Substitution & Reimer-Tiemann Reaction",SINGLE_CHOICE,"An unknown alcohol is treated with the “Lucas reagent” to determine whether the alcohol is primary,
@@ -10068,13 +9864,6 @@ battery is 2.5 V, the power dissipated within the internal resistance is :",0.50
 9441,pyq_2026_jee_main_b_q001_dac29e,Chemistry,Biomolecules,CHEM_U26,CHEM_U26_T04,"Nucleic Acids: Chemical Constitution of DNA & RNA, Biological Functions",SINGLE_CHOICE,The incorrect statement from the following with respect to carbohydrates is :,All monosaccharides are reducing sugars.,The monosaccharide units obtained from hydrolysis of oligosaccharides are always the same.,"Starch and cellulose are typical examples of polysaccharides, which are very high molecular
 weight compounds of more than ten monosaccharide units.","Open chain and cyclic structures co-exist at equilibrium that are responsible for certain
 properties as in the case of -glucose.",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2026 JEE Main 2026 (Online) 8th April Evening Shift,EASY,MODEL_REVIEWED
-9445,pyq_2026_jee_main_b_q005_e78467,Chemistry,Biomolecules,CHEM_U26,CHEM_U26_T04,"Nucleic Acids: Chemical Constitution of DNA & RNA, Biological Functions",SINGLE_CHOICE,Identify the incorrect statement about tertiary structure of proteins.,They can be fibrous or globular in structure.,"The main forces that stabilize the structure are hydrogen bonding, disulphide links, van der
-Waals and electrostatic forces of attraction.",The structure remains intact when exposed to pH changes.,"A linear polypeptide chain will convert to a secondary structure and then further folding of the
-secondary structure will convert to tertiary structure.
-
- Match the List-I with List-II 
- List-I 
- Amino acid",3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2026 JEE Main 2026 (Online) 5th April Evening Shift,EASY,MODEL_REVIEWED
 9449,pyq_2026_jee_main_b_q009_de3242,Chemistry,Biomolecules,CHEM_U26,CHEM_U26_T04,"Nucleic Acids: Chemical Constitution of DNA & RNA, Biological Functions",SINGLE_CHOICE,"Given below are two statements :
 Statement I : The structure of Maltose is given below:
 Statement II : The structure of Lactose is given below :
@@ -10232,12 +10021,6 @@ testing of halogens?",Nitric acid,Sodium hydroxide,Ammonia,Hydrochloric acid,1,,
 and the evolved ammonia was absorbed in 20 mL of 0.1 M HCl solution. The excess of the acid
 required 15 mL of 0.1 M NaOH solution for complete neutralization. The percentage of nitrogen in
 the compound is",59.0,47.4,23.7,29.5,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-10196,pyq_2026_jee_main_p_q001_9732d0,Chemistry,Principles Related to Practical Chemistry,CHEM_U28,CHEM_U28_T03,Titrimetric Exercises: Acids/Bases & KMnO4 vs Oxalic/Mohr's Salt,SINGLE_CHOICE,"Given below are two statements :
-Statement I : A mixture of  (sugar) and NaCl can be separated by dissolving sugar in
-alcohol, due to differential solubility.
-Statement II : Rose essence from rose petals is seperated by steam distillation due to its high
-volatility and insolubility in .
-In the light of the above statements, choose the correct answer from the options given below :",Both Statement I and Statement II are true,Both Statement I and Statement II are false,Statement I is true but Statement II is false,Statement I is false but Statement II is true,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2026 JEE Main 2026 (Online) 6th April Evening Shift,MEDIUM,MODEL_REVIEWED
 10204,pyq_2026_jee_main_p_q012_5c3869,Chemistry,Principles Related to Practical Chemistry,CHEM_U28,CHEM_U28_T03,Titrimetric Exercises: Acids/Bases & KMnO4 vs Oxalic/Mohr's Salt,SINGLE_CHOICE,"Identify the correct statements :
 A. Hydrated salts can be used as primary standard.
 B. Primary standard should not undergo any reaction with air.
@@ -10455,21 +10238,6 @@ JEE Main 2024 April",NO,,JEE Main 2024 09 Apr Shift 1,EASY,MODEL_REVIEWED
 Functions
 Solutions
 JEE Main 2024 January",NO,,JEE Main 2024 27 Jan Shift 1,EASY,MODEL_REVIEWED
-7609,pyq_2019_jee_main_201_q23_bd8859,Mathematics,"Sets, Relations and Functions",MATH_U01,MATH_U01_T04,"Functions, Domain, Range & Types (One-One, Onto, Bijective)",SINGLE_CHOICE,"The number of functions f from {1, 2, 3, ...., 20} onto {1, 2, 3, ...., 20} such that f(k) is a multiple of 3,
-whenever k is a multiple of 4, is :",65 (15)!,56 15,(15)!  6!,5!  6!,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-4199,pyq_eg_0aa57bb6d2,Mathematics,Complex Numbers and Quadratic Equations,MATH_U02,MATH_U02_T01,"Complex Numbers: Algebraic Properties, Modulus & Conjugate",SINGLE_CHOICE,"Consider the function  defined by . If  and  be respectively the
-number of points at which  is not continuous and  is not differentiable, then  is",0,1,2,3,2,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{1}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
 4270,pyq_eg_7ddfe71bad,Mathematics,Complex Numbers and Quadratic Equations,MATH_U02,MATH_U02_T01,"Complex Numbers: Algebraic Properties, Modulus & Conjugate",SINGLE_CHOICE,"Let a relation  on  be defined as:  if and only if  or . Consider
 the two statements:
 (I)  is reflexive but not symmetric.
@@ -11265,8 +11033,6 @@ P5 AB A B ABC
 are 6 points P6, P7, … , P11 on the side BC and 7 points P12, P13, … , P18 on the side of the triangle. The
 CA
 number of triangles, that can be formed using the points P1, P2, … , P18 as vertices, is :",776,796,751,771,3,,,Step-by-step verified derivation.,NO,,JEE Main 2024 04 Apr Shift 1,MEDIUM,MODEL_REVIEWED
-11616,pyq_2021_jee_main_p_q063_15dd0a,Mathematics,Permutations and Combinations,MATH_U04,MATH_U04_T03,"Combinations: Selection, Division/Distribution of Objects & Geometry Problems",SINGLE_CHOICE,"Let P1, P2, ......, P15 be 15 points on a circle. The number of distinct triangles formed by points Pi, Pj,
-Pk such that i +j + k  15, is :",12,419,443,455,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2021 JEE Main 2021 (Online) 1st September Evening Shift,MEDIUM,MODEL_REVIEWED
 11625,pyq_2021_jee_main_p_q072_cc02ae,Mathematics,Permutations and Combinations,MATH_U04,MATH_U04_T03,"Combinations: Selection, Division/Distribution of Objects & Geometry Problems",SINGLE_CHOICE,"A scientific committee is to be formed from 6 Indians and 8 foreigners, which includes at least 2
 Indians and double the number of foreigners as Indians. Then the number of ways, the committee
 can be formed, is :",1050,575,560,1625,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 24th February Morning Shift,MEDIUM,MODEL_REVIEWED
@@ -11368,8 +11134,6 @@ Solutions
 JEE Main 2024 January",NO,,JEE Main 2024 31 Jan Shift 2,MEDIUM,MODEL_REVIEWED
 11914,pyq_2026_jee_main_s_q009_f6922f,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"Let the sum of the first  terms of an A.P. be . Then the sum of squares of the first 10 terms
 of the A.P. is:",10220,12860,15220,19780,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2026 JEE Main 2026 (Online) 5th April Morning Shift,MEDIUM,MODEL_REVIEWED
-11950,pyq_2018_jee_main_s_q143_cfde5b,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"If x1, x2, . . ., xn and , , . . . ,  are two A.P.s such that x3 = h2 = 8 and x8 = h7 = 20, then x5.h10
-equals :",2560,2650,3200,1600,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2018 JEE Main 2018 (Online) 15th April Morning Slot,MEDIUM,MODEL_REVIEWED
 11951,pyq_2018_jee_main_s_q144_862845,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"If b is the first term of an infinite G.P. whose sum is five, then b lies in the interval :","( , 10]","(10, 0)","(0, 10)","[10, )",3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2018 JEE Main 2018 (Online) 15th April Morning Slot,EASY,MODEL_REVIEWED
 11958,pyq_2015_jee_main_s_q151_3c1ccd,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"The sum of the 3rd and the 4th terms of a G.P. is 60 and the product of its first three terms is 1000. If
 the first term of this G.P. is positive, then its 7th term is :",7290,320,640,2430,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2015 JEE Main 2015 (Online) 11th April Morning Slot,MEDIUM,MODEL_REVIEWED
@@ -11383,16 +11147,11 @@ terms is 30. If the last term exceeds the first term by 10, then the number of t
 16 + . . . . . ,  is :",4000,4020,4200,4220,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2014 JEE Main 2014 (Online) 11th April Morning Slot,MEDIUM,MODEL_REVIEWED
 11966,pyq_2014_jee_main_s_q159_e8832f,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"Given an A.P. whose terms are all positive integers. The sum of the first nine terms is greater than
 200 and less than 220. If the second term in it is 12, then its 4th term is :",8,16,20,24,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2014 JEE Main 2014 (Online) 9th April Morning Slot,MEDIUM,MODEL_REVIEWED
-11969,pyq_2013_jee_main_s_q162_2d7e2c,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"If a1, a2, a3, ...... , an, .... are in A.P, such that a4 - a7 + a10 = m, then the sum of first 13 terms of this
-A.P. is :",10m,12m,13m,15m,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2013 JEE Main 2013 (Online) 23th April Morning Slot,MEDIUM,MODEL_REVIEWED
 11970,pyq_2013_jee_main_s_q163_e204e3,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"Given sum of the first n terms of an A.P. is 2n + 3n2. Another A.P. is formed with the same first term
 and double of the common difference, the sum of n terms of the new A.P. is:",n + 4n2,6n2 - n,n2 + 4n,3n + 2n2,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2013 JEE Main 2013 (Online) 22th April Morning Slot,MEDIUM,MODEL_REVIEWED
 11976,pyq_2024_jee_main_s_q169_d3425c,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"A man saves ₹  200 in each of the first three months of his service. In each of the subsequent
 months his saving increases by ₹  40 more than the saving of immediately previous month. His total
 saving from the start of service will be ₹  11040 after",19 months,20 months,21 months,18 months,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-11977,pyq_2024_jee_main_s_q170_3cfb05,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"A person is to count 4500 currency notes. Let  denote the number of notes he counts in the 
-minute. If  =  = ....= = 150 and , ,.... are in an AP with common difference - 2, then the
-time taken by him to count all notes is",34 minutes,125 minutes,135 minutes,24 minutes,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 17118,Q_AF9E8942DA89,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T01,"Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",SINGLE_CHOICE,"Consider an A. P. of positive integers, whose sum of the first three terms is 54 and the sum of the first twenty
 terms lies between 1600 and 1800. Then its 
  term is :",90,84,122,108,1,,,Common difference will be natural number,NO,,JEE Main 2025 JEE Main 2025 January,MEDIUM,MODEL_REVIEWED
@@ -11451,19 +11210,6 @@ If the sum of the series + + … + is equal to 5 , then 50 d is equal to :
 Solutions
 JEE Main 2024 April",NO,,JEE Main 2024 09 Apr Shift 1,MEDIUM,MODEL_REVIEWED
 11984,pyq_2024_jee_main_s_q177_fc585c,Mathematics,Sequences and Series,MATH_U06,MATH_U06_T04,"Special Series: Sum of First n Natural Numbers, Squares, Cubes & Telescoping",SINGLE_CHOICE,The sum of integers from 1 to 100 that are divisible by 2 or 5 is :,3000,3050,3600,3250,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
-2108,pyq_eg_4ef7a5c81b,Mathematics,"Limit, Continuity and Differentiability",MATH_U07,MATH_U07_T01,"Real-Valued Functions, Graphs & Evaluation of Limits",SINGLE_CHOICE,"The bulk modulus of a liquid is 3  1010 Nm2. The pressure required to reduce the volume of liquid
-by 2% is :",3  108 Nm2,9  108 Nm2,6  108 Nm2,12  108 Nm2,3,,,"\textbf{1. Governing Principle:}
-From MATHEMATICS (Sets, Relations and Functions — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{6  108 Nm2}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 2194,pyq_eg_e86b53b353,Mathematics,"Limit, Continuity and Differentiability",MATH_U07,MATH_U07_T01,"Real-Valued Functions, Graphs & Evaluation of Limits",SINGLE_CHOICE,Which of the following physical quantities have the same dimensions?,Electric displacement  and surface charge density,Displacement current and electric field,Current density and surface charge density,Electric potential and energy,1,,,"\textbf{1. Governing Principle:}
 From MATHEMATICS (Sets, Relations and Functions — Core Concept Principles), apply the governing physical and mathematical theorems.
 
@@ -11924,8 +11670,6 @@ lies in which quadrant :",third,fourth,second,first,3,,,Evaluated according to o
 7624,pyq_2019_jee_main_201_q39_fb3592,Mathematics,"Limit, Continuity and Differentiability",MATH_U07,MATH_U07_T01,"Real-Valued Functions, Graphs & Evaluation of Limits",SINGLE_CHOICE,"All x satisfying the inequality (cot–1 x)2– 7(cot–1 x) + 10 > 0, lie in the interval :","(cot 2, )","(–, cot 5)  (cot 2, )","(cot 5, cot 4)","(– , cot 5)  (cot 4, cot 2)",1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Evening,EASY,MODEL_REVIEWED
 7626,pyq_2019_jee_main_201_q41_aa747c,Mathematics,"Limit, Continuity and Differentiability",MATH_U07,MATH_U07_T01,"Real-Valued Functions, Graphs & Evaluation of Limits",SINGLE_CHOICE,"If in a parallelogram ABDC, the coordinates of A, B and C are respectively (1, 2), (3, 4) and (2, 5), then
 the equation of the diagonal AD is :",5x + 3y – 11 = 0,5x – 3y + 1 = 0,3x – 5y + 7 = 0,3x + 5y – 13 = 0,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-7758,pyq_2019_jee_main_201_q39_d6f73e,Mathematics,"Limit, Continuity and Differentiability",MATH_U07,MATH_U07_T01,"Real-Valued Functions, Graphs & Evaluation of Limits",SINGLE_CHOICE,"If a1, a2, a3, ..... are in A.P. such that a1 + a7 + a16 = 40, then the sum of the first 15 terms of this A.P.
-is :",120,200,150,280,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 7885,pyq_2019_jee_main_201_q37_743998,Mathematics,"Limit, Continuity and Differentiability",MATH_U07,MATH_U07_T01,"Real-Valued Functions, Graphs & Evaluation of Limits",SINGLE_CHOICE,"If   nC4, nC5 and nC6 are in A.P., then n can be :",11,12,9,14,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,EASY,MODEL_REVIEWED
 7890,pyq_2019_jee_main_201_q42_c07e16,Mathematics,"Limit, Continuity and Differentiability",MATH_U07,MATH_U07_T01,"Real-Valued Functions, Graphs & Evaluation of Limits",SINGLE_CHOICE,"The number of integral values of m for which the quadratic expression, (1 + 2m)x2 – 2(1 + 3m)x +
 4(1 + m), x  R, is always positive, is :",7,8,3,6,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
@@ -12274,10 +12018,6 @@ Slope of
 equation of 
  is 
 point  is",NO,,JEE Main 2024 06 Apr Shift 2,MEDIUM,MODEL_REVIEWED
-7013,MATH_U10_SUB_MATH_10_01_7c458feb,Mathematics,Coordinate Geometry,MATH_U10,MATH_U10_T02,"Circles: Standard Equations, Tangents, Normals & Chord of Contact",SINGLE_CHOICE,"(5, ) ( −2)
-Let a , be the circumcenter of a triangle with vertices A(a, −2), B(a, 6) and C a , . Let α denote
-4 4
-the circumradius, β denote the area and γ denote the perimeter of the triangle. Then α + β + γ is",60,53,62,30,1,,,Step-by-step verified derivation.,NO,,JEE Main 2024 29 Jan Shift 1,MEDIUM,MODEL_REVIEWED
 7748,pyq_2019_jee_main_201_q28_7ed2c7,Mathematics,Coordinate Geometry,MATH_U10,MATH_U10_T02,"Circles: Standard Equations, Tangents, Normals & Chord of Contact",SINGLE_CHOICE,"A circle touching the x-axis at (3, 0) and making an intercept of length 8 on the y-axis passes
 through the point :","(1, 5)","( 2, 3)","(3, 5)","(3, 10)",4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 7877,pyq_2019_jee_main_201_q29_797d8d,Mathematics,Coordinate Geometry,MATH_U10,MATH_U10_T02,"Circles: Standard Equations, Tangents, Normals & Chord of Contact",SINGLE_CHOICE,"If a circle of radius R passes through the origin O and intersects the coordinate axes at A and B, then
@@ -12487,13 +12227,6 @@ positive integers. Let the mean and the variance of the observations be 6 and 84
 5 25 α
 to :",2,3,5,1,1,,,"(not possible) or 
 Hence",NO,,JEE Main 2024 01 Feb Shift 2,MEDIUM,MODEL_REVIEWED
-6996,MATH_U13_MATH_U13_SUB_02_cab76cd2,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"Let be 10 observations such that ∑10 and ∑∀k<j . Then the standard
-a1, a2, … . a10 ak = 50 ak ⋅aj = 1100
-k=1
-deviation of is equal to :
-a1, a2, . . , a10",5,√5,10,√115,2,,,"Statistics
-Solutions
-JEE Main 2024 January",NO,,JEE Main 2024 27 Jan Shift 1,MEDIUM,MODEL_REVIEWED
 6998,MATH_U13_MATH_U13_SUB_01_8bb158c7,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"Let the mean and the variance of 6 observation a, b, 68, 44, 48, 60 be 55 and 194 , respectively if a > b , then
 a + 3b is",200,190,180,210,3,,,"Statistics
 Solutions
@@ -12553,13 +12286,6 @@ then the age (in years) of the newly appointed teacher is :",25,30,35,40,3,,,Eva
 12070,pyq_2015_jee_main_s_q094_8c521f,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"A factory is operating in two shifts, day and night, with 70 and 30 workers respectively. If per day
 mean wage of the day shift workers is ₹  54 and per day mean wage of all the workers is ₹  60, then
 per day mean wage of the night shift workers (in ₹ ) is :",66,69,74,75,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2015 JEE Main 2015 (Online) 10th April Morning Slot,MEDIUM,MODEL_REVIEWED
-12072,pyq_2014_jee_main_s_q096_61d6f5,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"Let , M and 2 be respectively the mean, mode and variance of n observations x1, x2, . . . ., xn and di
-=  xi a, i = 1, 2, . . . ., n, where a is any number .
-Statement I : Variance of d1, d2, . . ., dn   is   2.
-Statement II : Mean and mode of d1, d2,   . . . ,  dn  are  a and  M  a, respectively",Statement I and Statement II are both false,Statement I and Statement II are both true,Statement I is true and Statement II is false,Statement I is false and Statement II is true,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2014 JEE Main 2014 (Online) 19th April Morning Slot,MEDIUM,MODEL_REVIEWED
-12073,pyq_2014_jee_main_s_q097_58d102,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"Let   and M.D. be the mean and the mean deviation about  of n observations xi, i = 1, 2, . . . . , n. If
-each of the observation is increased by 5, then the new mean and the mean deviation about the new
-mean, respectively, are :",",  M.D.","+ 5,  M.D.",",  M.D. + 5","+ 5,  M.D. + 5",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2014 JEE Main 2014 (Online) 12th April Morning Slot,MEDIUM,MODEL_REVIEWED
 12074,pyq_2014_jee_main_s_q098_4037bb,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"In a set of 2n distinct observations, each of the observation below the median of all the
 observations is increased by 5 and each of the remaining observations is decreased by 3. Then the
 mean of the new set of observations :",increases by 1.,decreases by 1.,decreases by 2.,increases by 2.,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2014 JEE Main 2014 (Online) 9th April Morning Slot,MEDIUM,MODEL_REVIEWED
@@ -12572,10 +12298,6 @@ recorded as 33, then the correct mean will be:",41,49,40.5,42.5,1,,,Evaluated ac
 12080,pyq_2013_jee_main_s_q104_129408,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"All the students of a class performed poorly in Mathematics. The teacher decided to give grace
 marks of 10 to each of the students. Which of the following statistical measures will not change
 even after the grace marks were given?",median,mode,variance,mean,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2013 JEE Main 2013 (Offline),MEDIUM,MODEL_REVIEWED
-12085,pyq_2024_jee_main_s_q109_2578a7,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"Let x1, x2,........., xn be n observations, and let  be their arithematic mean and  be their variance.
-Statement 1 : Variance of 2x1, 2x2,......., 2xn is 4.
-Statement 2 : : Arithmetic mean of 2x1, 2x2,......, 2xn is 4.","Statement 1 is false, statement 2 is true","Statement 1 is true, statement 2 is true; statement 2 is a correct explanation for statement 1","Statement 1 is true, statement 2 is true; statement 2 is not a correct explanation for statement 1","Statement 1 is true, statement 2 is false",4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-12086,pyq_2024_jee_main_s_q110_b23c19,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"If the mean deviation about the median of the numbers a, 2a,........., 50a is 50, then |a| equals",4,5,2,3,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 12090,pyq_2024_jee_main_s_q114_224a14,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"The mean of the numbers a, b, 8, 5, 10 is 6 and the variance is 6.80. Then which one of the following
 gives possible values of a and b?","a = 0, b = 7","a = 5, b = 2","a = 1, b = 6","a = 3, b = 4",4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 12091,pyq_2024_jee_main_s_q115_cb65b4,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T01,"Measures of Dispersion: Mean, Median, Mode & Mean Deviation",SINGLE_CHOICE,"The average marks of boys in a class is 52 and that of girls is 42. The average marks of boys and
@@ -12750,11 +12472,6 @@ each family is :",3,4,5,6,3,,,Evaluated according to official NTA key option (3)
 11776,pyq_2014_jee_main_p_q156_348a06,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T03,Probability of Events: Addition and Multiplication Theorems,SINGLE_CHOICE,"Let A and E be any two events with positive probabilities :
 Statement - 1 : P(E / A)  P(A/E)P(E)
 Statement - 2 : P(A/E) P(AE).",Both the statements are true,Both the statements are false,"Statement - 1 is true, Statement - 2 is false","Statement - 1 is false, statement - 2 is true",1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2014 JEE Main 2014 (Online) 19th April Morning Slot,MEDIUM,MODEL_REVIEWED
-11777,pyq_2014_jee_main_p_q157_53673d,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T03,Probability of Events: Addition and Multiplication Theorems,SINGLE_CHOICE,"A number x is chosen at random from the set {1, 2, 3, 4, . . . . . , 100}. Define the event : A = the
-chosen number x satisfies 
-Then P",0.71,0.70,0.51,0.20,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2014 JEE Main 2014 (Online) 12th April Morning Slot,MEDIUM,MODEL_REVIEWED
-11782,pyq_2013_jee_main_p_q162_28a117,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T03,Probability of Events: Addition and Multiplication Theorems,SINGLE_CHOICE,"A, B, C try to hit a target simultaneously but independently. Their respective probabilities of hitting
-the targets are , , . The probability that the target is hit by A or B but not by C is :",21/64,7/8,7/32,9/64,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2013 JEE Main 2013 (Online) 23th April Morning Slot,MEDIUM,MODEL_REVIEWED
 11799,pyq_2024_jee_main_p_q179_b86853,Mathematics,Statistics and Probability,MATH_U13,MATH_U13_T03,Probability of Events: Addition and Multiplication Theorems,SINGLE_CHOICE,"Let  and  two events such that  and  where  stands
 for complement of event . Then events  and  are :",equally likely and mutually exclusive,equally likely but not independent,independent but not equally likely,mutually exclusive and independent,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 7425,pyq_2019_jee_main_201_q40_eed45c,Mathematics,Trigonometry,MATH_U14,MATH_U14_T01,Trigonometrical Identities & Trigonometrical Functions,SINGLE_CHOICE,"The number of 6 digit numbers that can be formed using the digits 0, 1, 2, 5, 7 and 9 which are
@@ -12821,20 +12538,6 @@ ABY
 011
 101
 111",AND - Gate,OR - Gate,NAND - Gate,NOR - Gate,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2016 JEE Main 2016 (Online) 9th April Morning Slot,EASY,MODEL_REVIEWED
-3748,pyq_eg_3d8d8b9902,Mathematics,Mathematical Reasoning,MATH_U15,MATH_U15_T03,"Tautology, Contradiction, Logical Equivalence & Duality",SINGLE_CHOICE,"Among the statements
-(S1) :  is a tautology
-(S2) :  is a contradiction",neither (S1) and (S2) is True,only (S2) is True,both  and  are True,only (S1) is True,1,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{neither (S1) and (S2) is True}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,EASY,MODEL_REVIEWED
 4593,pyq_eg_b3e2fbfca7,Mathematics,Mathematical Reasoning,MATH_U15,MATH_U15_T03,"Tautology, Contradiction, Logical Equivalence & Duality",SINGLE_CHOICE,In the truth table of the above circuit the value of X and Y are :,"1, 1","0, 1","1, 0","0, 0",1,,,"\textbf{1. Governing Principle:}
 From PHYSICS (Electronic Devices — Semiconductors, Diodes & Logic Gates), apply the governing physical and mathematical theorems.
 
@@ -12913,20 +12616,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
 \textbf{Correct Option:} (3)",NO,,,EASY,MODEL_REVIEWED
-4552,pyq_eg_d38556f743,Mathematics,Applications of Derivatives,MATH_U16,MATH_U16_T01,Rate of Change of Quantities & Error Approximations,SINGLE_CHOICE,"For the function , between the following two statements
-(S1)  for only one value of  in .
-(S2)  is decreasing in  and increasing in .",Both (S1) and (S2) are incorrect.,Only (S1) is correct.,Only (S2) is correct.,Both (S1) and (S2) are correct.,2,,,"\textbf{1. Governing Principle:}
-From MATHEMATICS (Sets, Relations and Functions — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{Only (S1) is correct.}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
 6736,MATH_U07_SUB_MATH_07_01_20f0cf8c,Mathematics,Applications of Derivatives,MATH_U16,MATH_U16_T01,Rate of Change of Quantities & Error Approximations,SINGLE_CHOICE,"Let f(x) = 4 cos3 x + 3√3 cos2 x −10 . The number of points of local maxima of f in interval (0, 2π) is",3,4,1,2,1,,,local maxima at,NO,,JEE Main 2024 08 Apr Shift 1,MEDIUM,MODEL_REVIEWED
 10518,pyq_2021_jee_main_a_q075_b0eaa7,Mathematics,Applications of Derivatives,MATH_U16,MATH_U16_T01,Rate of Change of Quantities & Error Approximations,SINGLE_CHOICE,"The sum of all the local minimum values of the twice differentiable function f : R  R defined by
  is :",22,5,27,0,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2021 JEE Main 2021 (Online) 20th July Evening Shift,MEDIUM,MODEL_REVIEWED
@@ -12973,19 +12662,6 @@ following pairs is incorrectly matched?","Interval Function
 [2, ) 2x3 - 3x2 - 12x + 6","Interval Function
 3x2 - 2x + 1","Interval Function
 ( , - 4 )x3 + 6x2 + 6",3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-5221,pyq_eg_647615ab8a,Mathematics,Applications of Derivatives,MATH_U16,MATH_U16_T04,"Maxima and Minima (Local & Absolute), Optimization & Curve Sketching",SINGLE_CHOICE,"Let  be a function defined by . If  is the number of points of local
-minima and  is the number of points of local maxima of , then  is",3,4,2,5,1,,,"\textbf{1. Governing Principle:}
-From MATHEMATICS (Sets, Relations and Functions — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{3}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
 6737,MATH_U07_SUB_MATH_07_02_b22de78c,Mathematics,Applications of Derivatives,MATH_U16,MATH_U16_T04,"Maxima and Minima (Local & Absolute), Optimization & Curve Sketching",SINGLE_CHOICE,"−2)2/3(2x
 The number of critical points of the function f(x) = (x + 1) is",1,2,0,3,1,,,"Application of Derivatives
 Solutions
@@ -13000,19 +12676,6 @@ JEE Main 2024 January",NO,,JEE Main 2024 30 Jan Shift 2,MEDIUM,MODEL_REVIEWED
 m/s. The greatest height (in metres) attained by the stone, assuming the value of the gravitational
 acceleration g = 32 m/s2, is :",100,88,128,112,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2015 JEE Main 2015 (Online) 11th April Morning Slot,MEDIUM,MODEL_REVIEWED
 10578,pyq_2024_jee_main_a_q162_1f22c0,Mathematics,Applications of Derivatives,MATH_U16,MATH_U16_T04,"Maxima and Minima (Local & Absolute), Optimization & Curve Sketching",SINGLE_CHOICE,The real number  when added to its inverse gives the minimum sum at  equal :,-2,2,1,-1,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2024 JEE Main,EASY,MODEL_REVIEWED
-2538,pyq_eg_e1f0d1856d,Physics,Physics and Measurement,PHYS_U01,PHYS_U01_T01,"SI Units, Fundamental and Derived Units",SINGLE_CHOICE,"The distance of the Sun from earth is 1.5  1011 m and its angular diameter is (2000)″ when
-observed from the earth. The diameter of the Sun will be :",2.45  1010 m,1.45  1010 m,1.45  109 m,0.14  109 m,3,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{1.45  109 m}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 5763,pyq_eg_8f0b9212be,Physics,Physics and Measurement,PHYS_U01,PHYS_U01_T01,"SI Units, Fundamental and Derived Units",SINGLE_CHOICE,"In a vernier callipers, 50 vernier scale divisions are equal to 48 main scale divisions. If one main
 scale division , then the least count of the vernier callipers is  mm.",0.002,0.02,0.05,0.005,1,,,"\textbf{1. Governing Principle:}
 From PHYSICS (Physics and Measurement — Vernier Calipers & Screw Gauge Measurement), apply the governing physical and mathematical theorems.
@@ -13197,10 +12860,6 @@ direction. The speed of each of the moving particle will be :-",2 v,v / (2  ),v 
 8238,pyq_2019_jee_main_201_q54_f98cf8,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T02,"Kinetic Energy, Work-Energy Theorem & Power",SINGLE_CHOICE,"A body of mass 2 kg makes an elastic collision with a second body at rest and continues to move in
 the original direction but with one fourth of its original speed. What is the mass of the second body
 ?",1.2 kg,1.0 kg,1.8 kg,1.5 kg,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-7502,pyq_2019_jee_main_201_q52_804233,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T01,Center of Mass of Two-Particle System and Rigid Body,SINGLE_CHOICE,"Two stars of masses 3  1031 kg each, and at distance 2  1011 m rotate in a plane about their
-common centre of mass O. A meteorite passes through O moving perpendicular to the star’s
-rotation plane. In order to escape from the gravitational field of this double star, the minimum speed
-that meteorite should have at O is - (Take Gravitational constant; G = 6.67  10–11 Nm2 kg–2)",2.4  104 m/s,1.4  105 m/s,3.8  104 m/s,2.8  105 m/s,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 7694,pyq_2019_jee_main_201_q43_92cb72,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T01,Center of Mass of Two-Particle System and Rigid Body,SINGLE_CHOICE,"A gas mixture consists of 3 moles of oxygen and 5 moles of argon at temperature T. considering
 only translational and rotational modes, the total internal energy of the system is :",12 RT,20 RT,4 RT,15 RT,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 7771,pyq_2019_jee_main_201_q52_0d171a,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T01,Center of Mass of Two-Particle System and Rigid Body,SINGLE_CHOICE,"A diatomic gas with rigid molecules does 10 J of work when expanded at constant pressure. What
@@ -13225,9 +12884,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
 \textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
-8040,pyq_2019_jee_main_201_q55_1f680a,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T02,"Moment of Inertia, Radius of Gyration, Parallel & Perpendicular Axes Theorems",SINGLE_CHOICE,"A solid sphere and solid cylinder of identical radii approach an incline with the same linear velocity
-(see figure). Both roll without slipping all throughout. The two climb maximum heights hsph and hcyl
-on the incline. The ratio hsph/hcyl is given by :-",1,14/15,4/5,2/,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 8049,pyq_2019_jee_main_201_q64_42f16e,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T02,"Moment of Inertia, Radius of Gyration, Parallel & Perpendicular Axes Theorems",SINGLE_CHOICE,"A rectangular solid box of length 0.3 m is held horizontally, with one of its sides on the edge of a
 platform of height 5m. When released, it slips off the table in a very short time t = 0.01s, remaining
 essentially horizontal. The angle by which it would rotate when it hits the ground will be (in radians)
@@ -13463,8 +13119,6 @@ Comparing the derived expression with the standard choices confirms that Option 
 calorimeter of mass 128 g containing 240 g of water at a temperature of 8.4oC. Calculate the
 specific heat of the unknown metal if water temperature stabilizes at 21.5oC. (Specific heat of brass
 is 394 J kg–1 K–1)",458 J kg–1 K–1,1232 J kg–1 K–1,654 J kg–1 K–1,916 J kg–1 K–1,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-7780,pyq_2019_jee_main_201_q61_2a6d15,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T01,Equation of State of a Perfect Gas & Work Done on Compressing a Gas,SINGLE_CHOICE,"Find the magnetic field at point P due to a straight line segment AB of length 6 cm carrying a current
-of 5A. (See figure) (0 = 4 × 10–7 N-A–2)",1.5 × 10–5 T,3.0 × 10–5 T,2.0 × 10–5 T,2.5 × 10–5 T,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 7987,pyq_2019_jee_main_201_q72_c6632c,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T01,Equation of State of a Perfect Gas & Work Done on Compressing a Gas,SINGLE_CHOICE,"Two electric bulbs, rated at (25 W, 220 V) and (100 W, 220 V), are connected in series across a 220
 V voltage source. If the 25 W and 100 W bulbs draw powers P1 and P2 respectively, then :","P1 = 4W, P2 = 16 W","P1 = 16W, P2 = 4 W","P1 = 9W, P2 = 16 W","P1 = 16W, P2 = 9 W",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 8097,pyq_2019_jee_main_201_q48_0adf3d,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T01,Equation of State of a Perfect Gas & Work Done on Compressing a Gas,SINGLE_CHOICE,"For the circuit shown, with R1 = 1.0 , R2 = 2.0 , E1 = 2 V and E2 = E3 = 4 V, the potential difference
@@ -13489,17 +13143,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
 \textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
-7362,pyq_2019_jee_main_201_q45_1af2f5,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T02,"Kinetic Theory of Gases: Assumptions, Concept of Pressure",SINGLE_CHOICE,"In free space, a particle A of charge 1C is held fixed at a point P. Another particle B of the same
-charge and mass 4g is kept at a distance of 1 mm from P. If B is released, then its velocity at a
-distance of 9 mm from P is :",1.0 m/s,6.32  104 m/s,2.0  103 m/s,1.5  102 m/s,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-7701,pyq_2019_jee_main_201_q50_562a23,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T02,"Kinetic Theory of Gases: Assumptions, Concept of Pressure",SINGLE_CHOICE,"An object is at a distance of 20 m from a convex lens of focal length 0.3 m. The lens forms an
-image of the object. If the object moves away from the lens at a speed of 5 m/s, the speed and
-direction of the image will be :",1.16  10–3 m/s towards the lens,2.26  10–3 m/s away from the lens,3.22 × 10–3 m/s towards the lens,0.92  103 m/s away from the lens,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-7775,pyq_2019_jee_main_201_q56_8a2ce8,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T02,"Kinetic Theory of Gases: Assumptions, Concept of Pressure",SINGLE_CHOICE,"An electron, moving along the x-axis with an initial energy of 100 eV, enters a region of magnetic
-field  at S (See figure). The field extends between x = 0 and x = 2 cm. The
-electron is detected at the point Q on a screen placed 8 cm away from the point S. The distance d
-between P and Q (on the screen) is : (electron’s charge = 1.6 × 10–19 C, mass of electron = 9.1 × 10–
-31 kg)",2.25 cm,12.87 cm,1.22 cm,11.65 cm,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,HARD,MODEL_REVIEWED
 7830,pyq_2019_jee_main_201_q48_9758dc,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T02,"Kinetic Theory of Gases: Assumptions, Concept of Pressure",SINGLE_CHOICE,"A thin ring of 10 cm radius carries a uniformly distributed charge. The ring rotates at a constant
 angular speed of 40  rad s–1 about its axis, perpendicular to its plane. If the magnetic field at its
 centre is 3.8 × 10–9 T, then the charge carried by the ring is close to (0 = 4 × 10–7 N/A2 ).",7 × 10–6 C,4 × 10–5 C,2 × 10–6 C,3 × 10–5 C,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
@@ -13565,19 +13208,6 @@ Comparing the derived expression with the standard choices confirms that Option 
 7988,pyq_2019_jee_main_201_q73_83c8f9,Physics,Electrostatics,PHYS_U11,PHYS_U11_T01,"Electric Charges, Conservation of Charge, Coulomb's Law",SINGLE_CHOICE,"A particle of mass m moves in a circular orbit in a central potential field U(r) =  kr2. If Bohr 's
 quantization conditions are applied, radii of possible orbitls and energy levels vary with quantum
 number n as :","rn , En n","rn , En","rn n, En n","rn n2, En",1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-2393,pyq_eg_1e2c0c81ea,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"For a specific wavelength 670 nm of light coming from a galaxy moving with velocity v, the observed
-wavelength is 670.7 nm. The value of v is :",3  108 ms1,3  1010 ms1,3.13  105 ms1,4.48  105 ms1,3,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{3.13  105 ms1}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 8112,pyq_2019_jee_main_201_q63_dba5a1,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A wire of length 2L, is made by joining two wires A and B of same length but different radii r and 2r
 and made of the same material. It is vibrating at a frequency such that the joint of the two wires
 forms a node. If the number of antinodes in wire A is p and that in B is q then the ratio p : q is :",3 : 5,4 : 9,1 : 2,1 : 4,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
@@ -13616,8 +13246,6 @@ Comparing the derived expression with the standard choices confirms that Option 
 \textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 7386,pyq_2019_jee_main_201_q69_edbd6b,Physics,Current Electricity,PHYS_U12,PHYS_U12_T01,"Electric Current, Drift Velocity, Mobility & Ohm's Law",SINGLE_CHOICE,"A 2 mW laser operates at wavelength of 500 nm. The number of photons that will be emitted per
 second is : [Given Planck's constant h = 6.6 × 10–34 Js, speed of light c = 3.0 × 108 m/s]",5 × 1015,1.5 × 1016,1 × 1016,2 × 1016,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-7582,pyq_2019_jee_main_201_q62_37dcd7,Physics,Current Electricity,PHYS_U12,PHYS_U12_T01,"Electric Current, Drift Velocity, Mobility & Ohm's Law",SINGLE_CHOICE,"If the magnetic field of a plane electromagnetic wave is given by (the speed of light = 3 × 108 m/s) B
-= 100 × 10–6 sin  then the maximum electric field associated with it is -",4.5  104 N/C,4  104 N/C,6  104 N/C,3  104 N/C,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 7965,pyq_2019_jee_main_201_q50_1c632c,Physics,Current Electricity,PHYS_U12,PHYS_U12_T01,"Electric Current, Drift Velocity, Mobility & Ohm's Law",SINGLE_CHOICE,"A particle A of mass 'm' and charge 'q' is accelerated by a potential difference of 50 V. Another
 particle B of mass ' 4 m' and charge 'q' is accelerated by a potential difference of 2500 V. The ratio
 of de-Broglie wavelengths  is close to :",4.47,10.00,14.14,0.07,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
@@ -13669,20 +13297,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
 \textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
-2939,pyq_eg_81f26d7228,Physics,Current Electricity,PHYS_U12,PHYS_U12_T03,"Internal Resistance of a Cell, Potential Difference, EMF & Combinations of Cells",SINGLE_CHOICE,"Only 2% of the optical source frequency is the available channel bandwidth for an optical
-communicating system operating at 1000 nm. If an audio signal requires a bandwidth of 8 kHz, how
-many channels can be accommodated for transmission :",375  107,75  107,375  108,75  109,2,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{75  107}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
 3677,pyq_eg_cd603cd4d5,Physics,Current Electricity,PHYS_U12,PHYS_U12_T04,"Kirchhoff's Laws, Wheatstone Bridge & Meter Bridge",SINGLE_CHOICE,"Given below are two statements :
 Statement I: In a typical transistor, all three regions emitter, base and collector have same doping
 level.
@@ -14109,20 +13723,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
 \textbf{Correct Option:} (3)",NO,,,EASY,MODEL_REVIEWED
-5112,pyq_eg_a5b652d128,Physics,Physics and Measurement,PHYS_U01,PHYS_U01_T03,Dimensions of Physical Quantities & Principle of Homogeneity,SINGLE_CHOICE,"The expression given below shows the variation of velocity (v) with time (t),
-.
-The dimension of ABC is :",[M0L1T−2],[M0L2T−3],[M0L2T−2],[M0L1T−3],2,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{[M0L2T−3]}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
 5390,pyq_eg_a05ab9bfb8,Physics,Physics and Measurement,PHYS_U01,PHYS_U01_T03,Dimensions of Physical Quantities & Principle of Homogeneity,SINGLE_CHOICE,"The dimension of $\sqrt{\frac{\mu_0}{\varepsilon_0}}$ is equal to that of:
 ($\mu_0$ = Vacuum permeability and $\varepsilon_0$ = Vacuum permittivity)",Voltage,Inductance,Resistance,Capacitance,3,,,"\textbf{1. Governing Principle (Characteristic Impedance of Free Space):}
 The ratio $\sqrt{\frac{\mu_0}{\varepsilon_0}}$ represents the intrinsic characteristic wave impedance of free space, $Z_0$.
@@ -14824,13 +14424,6 @@ have maximum speed (for m/s) when  =",9.8 m,27 m,12 m,3.33 m,4,,,Evaluated accor
 the height by which the outer rail should be raised with respect to the inner rail is (Given, g = 10 m/s2 ) :",6.0 cm,5.4 cm,4.8 cm,4.2 cm,1,,,Step-by-step verified derivation.,NO,,JEE Main 2024 27 Jan Shift 1,MEDIUM,MODEL_REVIEWED
 6417,PHYS_U03_SUB_PHYS_03_03_913e78f4,Physics,Laws of Motion,PHYS_U03,PHYS_U03_T04,"Uniform Circular Motion, Centripetal Acceleration & Banking of Roads JEE Mains Assessment Platform — Official Curriculum Hierarchy Page 2 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics",SINGLE_CHOICE,"A heavy iron bar of weight 12 kg is having its one end on the ground and the other on the shoulder of a man.
 The rod makes an angle 60∘ with the horizontal, the weight experienced by the man is :",6 kg,12 kg,3 kg,6√3 kg,1,,,Torque about,NO,,JEE Main 2024 27 Jan Shift 2,MEDIUM,MODEL_REVIEWED
-12653,pyq_2021_jee_main_c_q044_9d5539,Physics,Laws of Motion,PHYS_U03,PHYS_U03_T04,"Uniform Circular Motion, Centripetal Acceleration & Banking of Roads JEE Mains Assessment Platform — Official Curriculum Hierarchy Page 2 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics",SINGLE_CHOICE,"A huge circular arc of length 4.4 ly subtends an angle of 4″ (4 seconds of arc) at the centre of the
-circle. How long it would take for a body to complete 4 revolutions if its speed is 8 AU per second?
-Given : 1 ly = 9.46  1015 m
-1 AU = 1.5  1011 m",4.1  108 s,4.5  1010 s,3.5  106 s,7.2  108 s,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th August Morning Shift,MEDIUM,MODEL_REVIEWED
-12659,pyq_2021_jee_main_c_q050_2dd62f,Physics,Laws of Motion,PHYS_U03,PHYS_U03_T04,"Uniform Circular Motion, Centripetal Acceleration & Banking of Roads JEE Mains Assessment Platform — Official Curriculum Hierarchy Page 2 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics",SINGLE_CHOICE,"A block of 200 g mass moves with a uniform speed in a horizontal circular groove, with vertical side
-walls of radius 20 cm. If the block takes 40 s to complete one round, the normal force by the side
-walls of the groove is :",9.859  102 N,0.0314 N,9.859  104 N,6.28  103 N,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2021 JEE Main 2021 (Online) 16th March Morning Shift,MEDIUM,MODEL_REVIEWED
 12662,pyq_2017_jee_main_c_q060_e5baa0,Physics,Laws of Motion,PHYS_U03,PHYS_U03_T04,"Uniform Circular Motion, Centripetal Acceleration & Banking of Roads JEE Mains Assessment Platform — Official Curriculum Hierarchy Page 2 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics",SINGLE_CHOICE,"A conical pendulum of length  makes an angle  = 45o w.r.t. Z-axis and moves in a circle in the XY
 plane. The radius of the circle is 0.4 m and its center is vertically below O. The speed of the
 pendulum, in its circular path, will be: (Take g = 10 ms−2 )",0.4 m/s,4 m/s,0.2 m/s,2 m/s,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2017 JEE Main 2017 (Online) 9th April Morning Slot,MEDIUM,MODEL_REVIEWED
@@ -14882,19 +14475,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (4) is the mathematically consistent solution.
 \textbf{Correct Option:} (4)",NO,,,MEDIUM,MODEL_REVIEWED
-4438,pyq_eg_a86b129f66,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T01,Work Done by Constant and Variable Forces,SINGLE_CHOICE,"A total of  heat is given to one mole of helium kept in a cylinder. The temperature of helium
-increases by . The work done by the gas is: Given, .",23.1 J,48 J,24.9 J,72.9 J,1,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Work Power Energy — Work-Energy Theorem for a Particle & System), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{23.1 J}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
 4927,pyq_eg_78af7aed67,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T01,Work Done by Constant and Variable Forces,SINGLE_CHOICE,"An ideal gas goes from an initial state to final state. During the process, the pressure of gas
 increases linearly with temperature.
 A. The work done by gas during the process is zero.
@@ -14967,18 +14547,6 @@ JEE Main 2024 April",NO,,JEE Main 2024 05 Apr Shift 1,MEDIUM,MODEL_REVIEWED
 equation v = α√x , where α is a constant. The total work done by all the forces applied on the particle during
 its displacement from x = 0 to x = d , will be :
 m",2α2 d,2α2,2 mα2 d,2,4,,,Step-by-step verified derivation.,NO,,JEE Main 2024 09 Apr Shift 1,HARD,MODEL_REVIEWED
-6540,PHYS_U04_SUB_PHYS_04_03_9c3f7e5a,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T01,Work Done by Constant and Variable Forces,SINGLE_CHOICE,"A block of mass slides over a distance of on a horizontal surface. If the co-efficient of friction
-100 kg 10 m
-between the surfaces is 0.4 , then the work done against friction (in ) is :
-J",4200,3900,4000,4500,3,,,"- 2024 (29 Jan Shift 1)
-A block of mass 
- slides over a distance of 
- on a horizontal surface. If the co-efficient of friction
-between the surfaces is 0.4 , then the work done against friction (in ) is :
-(1) 4200
-(2) 3900
-(3) 4000
-(4) 4500",NO,,JEE Main 2024 29 Jan Shift 1,MEDIUM,MODEL_REVIEWED
 7504,pyq_2019_jee_main_201_q54_44af27,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T01,Work Done by Constant and Variable Forces,SINGLE_CHOICE,"Half mole of an ideal monoatomic gas is heated at constant pressure of 1 atm from 20oC to 90oC.
 Work done by gas is close to – (Gas constant R = 8.31 J/mol.K)",581 J,73 J,146 J,291 J,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 7572,pyq_2019_jee_main_201_q52_fbc9a6,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T01,Work Done by Constant and Variable Forces,SINGLE_CHOICE,"A magnet of total magnetic moment 10-2 A-m2 is placed in a time varying magnetic field, B (cos
@@ -15024,19 +14592,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
 \textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
-2091,pyq_eg_d034765e5b,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T02,"Kinetic Energy, Work-Energy Theorem & Power",SINGLE_CHOICE,"A Carnot engine takes 5000 kcal of heat from a reservoir at 727C and gives heat to a sink at 127C.
-The work done by the engine is",3  106 J,Zero,12.6  106 J,8.4  106 J,3,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Work Power Energy — Work-Energy Theorem for a Particle & System), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{12.6  106 J}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 2383,pyq_eg_56c9d3be63,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T02,"Kinetic Energy, Work-Energy Theorem & Power",SINGLE_CHOICE,"A flask contains argon and oxygen in the ratio of 3 : 2 in mass and the mixture is kept at 27C. The
 ratio of their average kinetic energy per molecule respectively will be :",3 : 2,9 : 4,2 : 3,1 : 1,4,,,"\textbf{1. Governing Principle:}
 From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
@@ -15212,9 +14767,6 @@ Given E (in eV) = 1237/ (in nm)",4.5 eV,15.1 eV,3.0 eV,1.5 eV,4,,,Evaluated acco
 7635,pyq_2019_jee_main_201_q50_4c6ce2,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T02,"Kinetic Energy, Work-Energy Theorem & Power",SINGLE_CHOICE,"A pendulum is executing simple harmonic motion and its maximum kinetic energy is K1. If the
 length of the pendulum is doubled and it performs simple harmonic motion with the same
 amplitude as in the first case, its maximum kinetic energy is K2. Then :",=,K2 = 2K1,K2 = K1,K2 =,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-8307,pyq_2019_jee_main_201_q55_639d22,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T02,"Kinetic Energy, Work-Energy Theorem & Power",SINGLE_CHOICE,"The energy required to take a satellite to a height 'h' above Earth surface (radius of Earth = 6.4  103
-km) is E1 and kinetic energy required for the satellite to be in a circular orbit at this height is E2. The
-value of h for which E1 and E2 are equal, is",1.6  103 km,3.2  103 km,6.4  103 km,1.28  104 km,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 8319,pyq_2019_jee_main_201_q67_d6b26f,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T02,"Kinetic Energy, Work-Energy Theorem & Power",SINGLE_CHOICE,"The magnetic field associated with a light wave is given, at the origin, by B = B0 [sin(3.14  107)ct +
 sin(6.28  107)ct]. If this light falls on a silver plate having a work function of 4.7 eV, what will be the
 maximum kinetic energy of the photo electrons ?
@@ -15286,11 +14838,6 @@ dipole moment is 10–29 C.m. What is the potential energy of the electric dipol
 on a spring having spring constant k = 1.25  106 N/m. The body sticks to the platform and the
 spring's maximum compression is found to be x. Given that g = 10 ms–2 , the value of x will be close
 to :",8 cm,4 cm,40 cm,80 cm,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-8106,pyq_2019_jee_main_201_q57_83d165,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T03,"Potential Energy, Conservation of Mechanical Energy & Spring Force",SINGLE_CHOICE,"A thin strip 10 cm long is on a U shaped wire of negligible resistance and it is connected to a spring
-of spring constant 0.5 Nm–1 (see figure). The assembly is kept in a uniform magnetic field of 0.1 T.
-If the strip is pulled from its equilibrium position and released, the number of oscillations it
-performs before its amplitude decreases by a factor of e is N. If the mass of the strip is 50 grams,
-its resistance 10  and air drag negligible, N will be close to :",50000,1000,5000,10000,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 14587,pyq_2021_jee_main_w_q060_ee7541,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T03,"Potential Energy, Conservation of Mechanical Energy & Spring Force",SINGLE_CHOICE,"Given below is the plot of a potential energy function U(x) for a system, in which a particle is in one
 dimensional motion, while a conservative force F(x) acts on it. Suppose that Emech = 8 J, the
 incorrect statement for this system is :
@@ -15362,9 +14909,6 @@ The average force exerted by sand on the ball is _________ N.
 kept on a horizontal rough surface. The bullet gets embedded into the block and moves  before
 coming to rest. The coefficient of friction between the block and the surface is __________.
 (Given  )",0.65,0.25,0.50,0.90,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2023 JEE Main 2023 (Online) 8th April Evening Shift,MEDIUM,MODEL_REVIEWED
-14609,pyq_2014_jee_main_w_q094_975f56,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T04,Elastic and Inelastic Collisions in One and Two Dimensions,SINGLE_CHOICE,"The average mass of rain drops is 3.0  105 kg and their average terminal velocity is 9 m/s.
-Calculate the energy transferred by rain to each square meter of the surface at a place which
-receives 100 cm of rain in a year.",3.5  105J,4.05  104J,3.0  105 J,9.0  104 J,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2014 JEE Main 2014 (Online) 11th April Morning Slot,MEDIUM,MODEL_REVIEWED
 14633,pyq_2024_jee_main_w_q118_3f252c,Physics,"Work, Energy and Power",PHYS_U04,PHYS_U04_T04,Elastic and Inelastic Collisions in One and Two Dimensions,SINGLE_CHOICE,"A particle is acted upon by a force of constant magnitude which is always perpendicular to the
 velocity of the particle, the motion of the particles takes place in a plane. It follows that",its kinetic energy is constant,is acceleration is constant,its velocity is constant,it moves in a straight line,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
 2119,pyq_eg_7d7e60d7eb,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T01,Center of Mass of Two-Particle System and Rigid Body,SINGLE_CHOICE,"The equations of two waves are given by :
@@ -15595,59 +15139,6 @@ roller is moving towards right at a constant speed, the weight moves up with a :
 becomes air borne leaving at an angle of 30° with the horizontal. The ball strikes the ground at B.
 What is the value of the distance AB? (Moment of inertia of a spherical shell of mass m and radius
 R about its diameter = )",1.87 m,2.08 m,1.57 m,1.77 m,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2013 JEE Main 2013 (Online) 22th April Morning Slot,MEDIUM,MODEL_REVIEWED
-17485,Q_98289A5F3E00,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T02,"Moment of Inertia, Radius of Gyration, Parallel & Perpendicular Axes Theorems",SINGLE_CHOICE,"Which of the following are correct expression for torque acting on a body?
-B. 
-C. 
-D. 
-E. 
-( 
- position vector; 
- linear momentum;
- angular momentum; 
- angular acceleration;
- moment of inertia; 
- force; 
- time)
-Choose the correct answer from the options given below :","B, D and E Only",C and D Only,"B, C, D and E Only","A, B, D and E Only
- 
-Rotational Motion
-
-
-
-M
-Mr2
-1
-2
-Mr2
-3
-8
-Mr2
-3
-2
-2Mr2
-2 rad/s2
-kgm2
-= 10 m/s2
-→τ =
-(→r × →p )
-d
-dt
-→τ = →r ×
-dp
-dt
-→τ = I→α
-→τ = →r ×
-→
-F
-→r =
-→p =
-→
-L =
-→α =
-I =
-→
-F =
-t =",1,,,Derived from official JEE Main 2025 question bank.,NO,,JEE Main 2025 JEE Main 2025 April,MEDIUM,MODEL_REVIEWED
 2596,pyq_eg_7ae1580a7a,Physics,Rotational Motion,PHYS_U05,PHYS_U05_T03,"Torque, Angular Momentum & Conservation of Angular Momentum",SINGLE_CHOICE,"A hydrogen atom in its ground state absorbs 10.2 eV of energy. The angular momentum of electron
 of the hydrogen atom will increase by the value of :
 (Given, Planck's constant = 6.6  1034 Js).",2.10  1034 Js,1.05  1034 Js,3.15  1034 Js,4.2  1034 Js,2,,,"\textbf{1. Governing Principle:}
@@ -15872,8 +15363,6 @@ Comparing the derived expression with the standard choices confirms that Option 
  gravitational acceleration at surface",NO,,JEE Main 2024 04 Apr Shift 2,MEDIUM,MODEL_REVIEWED
 6369,PHYS_U06_SUB_PHYS_06_01_00ec3b64,Physics,Gravitation,PHYS_U06,PHYS_U06_T01,Universal Law of Gravitation & Acceleration due to Gravity (g),SINGLE_CHOICE,"In hydrogen like system the ratio of coul0mbian force and gravitational force between an electron and a proton
 is in the order of :",1039,1029,1019,1036,1,,,Step-by-step verified derivation.,NO,,JEE Main 2024 05 Apr Shift 1,MEDIUM,MODEL_REVIEWED
-13293,pyq_2021_jee_main_g_q106_169a2f,Physics,Gravitation,PHYS_U06,PHYS_U06_T01,Universal Law of Gravitation & Acceleration due to Gravity (g),SINGLE_CHOICE,"The planet Mars has two moons, if one of them has a period 7 hours, 30 minutes and an orbital
-radius of 9.0  103 km. Find the mass of Mars.",5.96  1019 kg,3.25  1021 kg,7.02  1025 kg,6.00  1023 kg,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th July Evening Shift,MEDIUM,MODEL_REVIEWED
 13324,pyq_2015_jee_main_g_q167_cd52fb,Physics,Gravitation,PHYS_U06,PHYS_U06_T01,Universal Law of Gravitation & Acceleration due to Gravity (g),SINGLE_CHOICE,"A very long (length L) cylindrical galaxy is made of uniformly distributed mass and has radius R ( R <
 < L). A star outside the galaxy is orbiting the galaxy in a plane perpendicular to the galaxy and
 passing through its centre. If the time period of star is T and its distance from the galaxy's axis is r,
@@ -16000,9 +15489,6 @@ from earth surface. If the distance of satellite from the earth centre is increa
 initial value, then the new angular momentum will be -",9L,8L,4L,3L,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2023 JEE Main 2023 (Online) 8th April Evening Shift,MEDIUM,MODEL_REVIEWED
 13302,pyq_2021_jee_main_g_q115_da6484,Physics,Gravitation,PHYS_U06,PHYS_U06_T04,"Escape Velocity, Orbital Velocity of Satellites & Kepler's Laws",SINGLE_CHOICE,"The time period of a satellite in a circular orbit of radius R is T. The period of another satellite in a
 circular orbit of radius 9R is :",9 T,27 T,12 T,3 T,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 18th March Morning Shift,MEDIUM,MODEL_REVIEWED
-13304,pyq_2021_jee_main_g_q117_35bd78,Physics,Gravitation,PHYS_U06,PHYS_U06_T04,"Escape Velocity, Orbital Velocity of Satellites & Kepler's Laws",SINGLE_CHOICE,"The maximum and minimum distances of a comet from the Sun are 1.6  1012 m and 8.0  1010 m
-respectively. If the speed of the comet at the nearest point is 6  104 ms1, the speed at the
-farthest point is :",3.0  103 m/s,6.0  103 m/s,1.5  103 m/s,4.5  103 m/s,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 16th March Morning Shift,MEDIUM,MODEL_REVIEWED
 13305,pyq_2021_jee_main_g_q118_e8aaa6,Physics,Gravitation,PHYS_U06,PHYS_U06_T04,"Escape Velocity, Orbital Velocity of Satellites & Kepler's Laws",SINGLE_CHOICE,"A planet revolving in elliptical orbit has :
 A. a constant velocity of revolution.
 B. has the least velocity when it is nearest to the sun.
@@ -16010,10 +15496,6 @@ C. its areal velocity is directly proportional to its velocity.
 D. areal velocity is inversely proportional to its velocity.
 E. to follow a trajectory such that the areal velocity is constant.
 Choose the correct answer from the options given below :",D only,E only,C only,A only,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 26th February Morning Shift,MEDIUM,MODEL_REVIEWED
-13308,pyq_2021_jee_main_g_q121_db22d3,Physics,Gravitation,PHYS_U06,PHYS_U06_T04,"Escape Velocity, Orbital Velocity of Satellites & Kepler's Laws",SINGLE_CHOICE,"Two satellites A and B of masses 200 kg and 400 kg are revolving round the earth at height of 600
-km and 1600 km respectively.
-If TA and TB are the time periods of A and B respectively then the value of TB TA :
-[Given : radius of earth = 6400 km, mass of earth = 6  1024 kg]",1.33  103 s,4.24  102 s,3.33  102 s,4.24  103 s,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 25th February Morning Shift,MEDIUM,MODEL_REVIEWED
 13309,pyq_2021_jee_main_g_q122_2b022a,Physics,Gravitation,PHYS_U06,PHYS_U06_T04,"Escape Velocity, Orbital Velocity of Satellites & Kepler's Laws",SINGLE_CHOICE,"Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason
 R.
 Assertion A : The escape velocities of planet A and B are same. But A and B are of unequal mass.
@@ -16121,10 +15603,6 @@ JEE Main 2024 January",NO,,JEE Main 2024 29 Jan Shift 2,MEDIUM,MODEL_REVIEWED
 g = 3.1 ms–2, what will be the tensile stress that would be developed in the wire ?",3.1 × 106 Nm–2,6.2 × 106 Nm–2,4.8 × 106 Nm–2,5.2 × 106 Nm–2,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 8365,pyq_2019_jee_main_201_q45_30b9db,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T01,"Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii",SINGLE_CHOICE,"A mixture of 2 moles of helium gas (atomic mass = 4 u), and 1 mole of argon gas (atomic mass =
 40 u) is kept at 300 K in a container. The ratio of their rms speeds  is close to :",3.16,0.32,0.45,2.24,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-13799,pyq_2021_jee_main_m_q038_0f4a91,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T01,"Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii",SINGLE_CHOICE,"Four identical hollow cylindrical columns of mild steel support a big structure of mass 50  103 kg.
-The inner and outer radii of each column are 50 cm and 100 cm respectively. Assuming uniform
-local distribution, calculate the compression strain of each column. [Use Y = 2.0  1011 Pa, g = 9.8
-m/s2]",3.60  108,2.60  107,1.87  103,7.07  104,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 31st August Evening Shift,MEDIUM,MODEL_REVIEWED
 13801,pyq_2021_jee_main_m_q040_323d48,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T01,"Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii",SINGLE_CHOICE,"Two blocks of masses 3 kg and 5 kg are connected by a metal wire going over a smooth pulley. The
 breaking stress of the metal is  Nm-2. What is the minimum radius of the wire ? (Take g =
 10 ms-2)",125 cm,1250 cm,12.5 cm,1.25 cm,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2021 JEE Main 2021 (Online) 26th August Evening Shift,MEDIUM,MODEL_REVIEWED
@@ -16133,8 +15611,6 @@ R.
 Assertion A : When a rod lying freely is heated, no thermal stress is developed in it.
 Reason R : On heating, the length of the rod increases.
 In the light of the above statements, choose the correct answer from the options given below :",A is true but R is false,A is false but R is true,Both A and B are true but R is NOT the correct explanation of A,Both A and R are true and R is the correct explanation of A,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2021 JEE Main 2021 (Online) 25th February Morning Shift,MEDIUM,MODEL_REVIEWED
-13818,pyq_2014_jee_main_m_q069_1a3c73,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T01,"Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii",SINGLE_CHOICE,"Steel ruptures when a shear of 3.5  108 N m2 is applied. The force needed to punch a 1 cm
-diameter hole in a steel sheet 0.3 cm thick is nearly :",1.4  104 N,2.7  104 N,3.3  104 N,1.1  104 N,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2014 JEE Main 2014 (Online) 12th April Morning Slot,MEDIUM,MODEL_REVIEWED
 13820,pyq_2014_jee_main_m_q071_b5a5c8,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T01,"Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii",SINGLE_CHOICE,"In materials like aluminium and copper, the correct order of magnitude of various elastic moduli is :",Young's moduli < shear moduli < bulk moduli.,Bulk moduli < shear moduli < Young's moduli.,Shear moduli < Young's moduli < bulk moduli.,Bulk moduli < Young's moduli < shear moduli,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2014 JEE Main 2014 (Online) 9th April Morning Slot,MEDIUM,MODEL_REVIEWED
 13822,pyq_2013_jee_main_m_q073_bafbfc,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T01,"Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii",SINGLE_CHOICE,"A copper wire of length 1.0 m and a steel wire of length 0.5 m having equal cross-sectional areas
 are joined end to end. The composite wire is stretched by a certain load which stretches the copper
@@ -16329,16 +15805,10 @@ Solutions
 JEE Main 2024 April",NO,,JEE Main 2024 09 Apr Shift 2,MEDIUM,MODEL_REVIEWED
 6452,PHYS_U07_SUB_PHYS_07_04_e9f04a4d,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T04,"Surface Tension, Surface Energy, Angle of Contact & Capillary Rise",SINGLE_CHOICE,"A small liquid drop of radius R is divided into 27 identical liquid drops. If the surface tension is T , then the
 work done in the process will be :",8πR2 T,3πR2 T,1 πR2T,4πR2 T,1,,,Volume constant,NO,,JEE Main 2024 29 Jan Shift 2,MEDIUM,MODEL_REVIEWED
-13697,pyq_2026_jee_main_m_q012_a63b47,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T04,"Surface Tension, Surface Energy, Angle of Contact & Capillary Rise",SINGLE_CHOICE,"When a part of a straight capillary tube is placed vertically in a liquid, the liquid raises upto certain
-height . If the inner radius of the capillary tube, density of the liquid and surface tension of the
-liquid decrease by  each, then the height of the liquid in the tube will change by .",+3,+1,-1,-3,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2026 JEE Main 2026 (Online) 22nd January Evening Shift,MEDIUM,MODEL_REVIEWED
 13713,pyq_2023_jee_main_m_q050_a0f222,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T04,"Surface Tension, Surface Energy, Angle of Contact & Capillary Rise",SINGLE_CHOICE,"Given below are two statements:
 Statement I : Pressure in a reservoir of water is same at all points at the same level of water.
 Statement II : The pressure applied to enclosed water is transmitted in all directions equally.
 In the light of the above statements, choose the correct answer from the options given below:",Both Statement I and Statement II are false,Statement I is false but Statement II is true,Statement I is true but Statement II is false,Both Statement I and Statement II are true,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2023 JEE Main 2023 (Online) 10th April Morning Shift,MEDIUM,MODEL_REVIEWED
-13725,pyq_2021_jee_main_m_q073_74345d,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T04,"Surface Tension, Surface Energy, Angle of Contact & Capillary Rise",SINGLE_CHOICE,"In Millikan's oil drop experiment, what is viscous force acting on an uncharged drop of radius 2.0 
-105 m and density 1.2  103 kgm3 ? Take viscosity of liquid = 1.8  105 Nsm2. (Neglect
-buoyancy due to air).",3.8  1011 N,3.9  1010 N,1.8  1010 N,5.8  1010 N,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th August Morning Shift,MEDIUM,MODEL_REVIEWED
 13732,pyq_2021_jee_main_m_q080_a3cf64,Physics,Properties of Solids and Liquids,PHYS_U07,PHYS_U07_T04,"Surface Tension, Surface Energy, Angle of Contact & Capillary Rise",SINGLE_CHOICE,"What will be the nature of flow of water from a circular tap, when its flow rate increased from 0.18
 L/min to 0.48 L/min? The radius of the tap and viscosity of water are 0.5 cm and 103 Pa s,
 respectively. (Density of water : 103 kg/m3)",Steady flow to unsteady flow,Unsteady to steady flow,Remains turbulent flow,Remains steady flow,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 16th March Evening Shift,MEDIUM,MODEL_REVIEWED
@@ -16599,7 +16069,6 @@ contains 1 g of oxygen. PA and PB are the pressures of the gases in A and B resp
 PB",16,8,4,32,1,,,"Kinetic Theory of Gases
 Solutions
 JEE Main 2024 January",NO,,JEE Main 2024 29 Jan Shift 1,MEDIUM,MODEL_REVIEWED
-7963,pyq_2019_jee_main_201_q48_969d73,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T01,Equation of State of a Perfect Gas & Work Done on Compressing a Gas,SINGLE_CHOICE,An ideal gas occupies a volume of 2m3 at a pressure of 3  106 Pa. The energy of the gas is :,6  104 J,9 106 J,3  102 J,108 J,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Morning,EASY,MODEL_REVIEWED
 13364,pyq_2026_jee_main_k_q006_646441,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T01,Equation of State of a Perfect Gas & Work Done on Compressing a Gas,SINGLE_CHOICE,"A mixture of carbon dioxide and oxygen has volume 8310 cm3, temperature 300 K, pressure 100
 kPa and mass 13.2 g. The number of moles of carbon dioxide and oxygen gases in the mixture
 respectively are ______.
@@ -16755,8 +16224,6 @@ JEE Main 2024 January",NO,,JEE Main 2024 27 Jan Shift 2,MEDIUM,MODEL_REVIEWED
 at 0C.",640 m/s,40 m/s,80 m/s,332 m/s,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th August Evening Shift,MEDIUM,MODEL_REVIEWED
 13401,pyq_2021_jee_main_k_q082_ee14b4,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T03,"Kinetic Energy and Temperature, RMS Speed of Gas Molecules",SINGLE_CHOICE,"The rms speeds of the molecules of Hydrogen, Oxygen and Carbon dioxide at the same temperature
 are VH, VO and VC respectively then :",VH > VO > VC,VC > VO > VH,VH = VO > VC,VH = VO = VC,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 26th August Morning Shift,MEDIUM,MODEL_REVIEWED
-13419,pyq_2018_jee_main_k_q128_dca08e,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T03,"Kinetic Energy and Temperature, RMS Speed of Gas Molecules",SINGLE_CHOICE,"The value closest to the thermal velocity of a Helium atom at room temperature (300 K) in ms-1 is :
-[kB =1.4  10-23 J/K; mHe = 7  10 -27 kg ]",1.3  104,1.3  103,1.3  105,1.3  102,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2018 JEE Main 2018 (Online) 15th April Evening Slot,MEDIUM,MODEL_REVIEWED
 13428,pyq_2014_jee_main_k_q137_fe1bf8,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T03,"Kinetic Energy and Temperature, RMS Speed of Gas Molecules",SINGLE_CHOICE,At room temperature a diatomic gas is found to have an r.m.s. speed of 1930 ms1.  The gas is :,H2,Cl2,O2,F2,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2014 JEE Main 2014 (Online) 12th April Morning Slot,EASY,MODEL_REVIEWED
 13431,pyq_2013_jee_main_k_q140_1d3caa,Physics,Kinetic Theory of Gases,PHYS_U09,PHYS_U09_T03,"Kinetic Energy and Temperature, RMS Speed of Gas Molecules",SINGLE_CHOICE,"In the isothermal expansion of 10 g of gas from volume V to 2V the work done by the gas is 575 J.
 What is the root mean square speed of the molecules of the gas at that temperature?",398 m/s,520 m/s,499 m/s,532 m/s,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2013 JEE Main 2013 (Online) 25th April Morning Slot,MEDIUM,MODEL_REVIEWED
@@ -17216,50 +16683,6 @@ repulsion?",Q = 2q,Q = 4q,Q = 3q,Q =,1,,,Evaluated according to official NTA key
 region of uniform line charge of 8 nC/m lying along the z-axis in free space.",0.424 nC m2,4.0 nC m2,47.88 C/m,0.07 nC m2,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 16th March Evening Shift,MEDIUM,MODEL_REVIEWED
 13067,pyq_2013_jee_main_e_q205_9a78ab,Physics,Electrostatics,PHYS_U11,PHYS_U11_T01,"Electric Charges, Conservation of Charge, Coulomb's Law",SINGLE_CHOICE,"Consider a finite insulated, uncharged conductor placed near a finite positively charged conductor.
 The uncharged body must have a potential :",less than the charged conductor and more than at infinity.,more than the charged conductor and less than at infinity.,more than the charged conductor and more than at infinity.,less than the charged conductor and less than at infinity.,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2013 JEE Main 2013 (Online) 23th April Morning Slot,MEDIUM,MODEL_REVIEWED
-2114,pyq_eg_f9a6c3a7a7,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A vertical electric field of magnitude 4.9  105 N/C just prevents a water droplet of a mass 0.1 g
-from falling. The value of charge on the droplet will be :
-(Given : g = 9.8 m/s2)",1.6  109 C,2.0  109 C,3.2  109 C,0.5  109 C,2,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Electrostatics — Electric Fields, Potentials & Capacitors), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{2.0  109 C}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
-2120,pyq_eg_4367529950,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A plane electromagnetic wave travels in a medium of relative permeability 1.61 and relative
-permittivity 6.44. If magnitude of magnetic intensity is 4.5  102 Am1 at a point, what will be the
-approximate magnitude of electric field intensity at that point?
-(Given : Permeability of free space 0 = 4  107 NA2, speed of light in vacuum c = 3  108 ms
-1)",16.96 Vm1,2.25  102 Vm1,8.48 Vm1,6.75  106 Vm1,3,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Electrostatics — Electric Fields, Potentials & Capacitors), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{8.48 Vm1}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
-2275,pyq_eg_ed24c84113,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"The electric field in an electromagnetic wave is given by E = 56.5 sin (t x/c) NC1. Find the
-intensity of the wave if it is propagating along x-axis in the free space.
-(Given : 0 = 8.85  1012C2N1m2)",5.65 Wm2,4.24 Wm2,1.9  107 Wm2,56.5 Wm2,2,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Electrostatics — Electric Fields, Potentials & Capacitors), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{4.24 Wm2}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
 2278,pyq_eg_5cb8d749ef,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A light wave travelling linearly in a medium of dielectric constant 4, is incident on the horizontal
 interface separating medium with air. The angle of incidence for which the total intensity of incident
 wave will be reflected back into the same medium will be :
@@ -17336,22 +16759,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
 \textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
-2754,pyq_eg_cbaac2b333,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A radar sends an electromagnetic signal of electric field (E0) = 2.25 V/m and magnetic field (B0) =
-1.5  108 T which strikes a target on line of sight at a distance of 3 km in a medium. After that, a
-part of signal (echo) reflects back towards the radar with same velocity and by same path. If the
-signal was transmitted at time t = 0 from radar, then after how much time echo will reach to the
-radar?",2.0  105 s,4.0  105 s,1.0  105 s,8.0  105 s,2,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Electrostatics — Electric Fields, Potentials & Capacitors), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{4.0  105 s}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,HARD,MODEL_REVIEWED
 2827,pyq_eg_fb39e2e2b7,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"Given below are two statements.
 Statement I : Electric potential is constant within and at the surface of each conductor.
 Statement II : Electric field just outside a charged conductor is perpendicular to the surface of the
@@ -17405,21 +16812,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
 \textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
-2976,pyq_eg_5899c26b2e,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"An expression for oscillating electric field in a plane electromagnetic wave is given as Ez = 300
-sin(5 103x 3 1011t) Vm1
-Then, the value of magnetic field amplitude will be :
-(Given : speed of light in Vacuum c = 3  108 ms1)",1  106 T,5  106 T,18  109 T,21  109 T,2,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Electrostatics — Electric Fields, Potentials & Capacitors), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{5  106 T}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
-\textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
 3534,pyq_eg_19c550b6f1,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"Given below are two statements :
 Statement I : Electromagnetic waves are not deflected by electric and magnetic field.
 Statement II : The amplitude of electric field and the magnetic field in electromagnetic waves are
@@ -17549,10 +16941,6 @@ An electric field is given by + + . The electric flux through a surface area lyi
 plane (in SI unit) is :",90,150,180,60,1,,,"Electrostatics
 Solutions
 JEE Main 2024 January",NO,,JEE Main 2024 29 Jan Shift 2,MEDIUM,MODEL_REVIEWED
-7569,pyq_2019_jee_main_201_q49_97a24d,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A parallel plate capacitor is of area 6 cm2 and a separation 3 mm. The gap is filled with three
-dielectric materials of equal thickness (see figure) with dielectric constants K1 = 10, K2 = 12 and K3
-= 14. The dielectric constant of a material which when fully inserted in above capacitor, gives same
-capacitance would be -",12,36,14,4,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,HARD,MODEL_REVIEWED
 7640,pyq_2019_jee_main_201_q55_fd0e40,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A 27 mW laser beam has a cross-sectional area of 10 mm2. The magnitude of the maximum
 electric field in this electromagnetic wave is given by :
 [Given permittivity of space 0 = 9  10–12 SI units, Speed of light c = 3  108 m/s]",2 kV/m,1 kV/m,1.4 kV/m,0.7 kV/m,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
@@ -17568,14 +16956,9 @@ pF? (given 0 = 8.86 × 10–12 C2/Nm2)",8.5,4.5,3.8,6.2,1,,,Evaluated according 
 8114,pyq_2019_jee_main_201_q65_6dff66,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A plane electromagnetic wave travels in free space along the x-direction. The electric field
 component of the wave at a particular point of space and time is E = 6 V m–1 along y-direction. Its
 corresponding magnetic field component, B would be :",2 × 10–8 T along y-direction,6 × 10–8 T along z-direction,2 × 10–8 T along z-direction,6 × 10–8 T along x-direction,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-8303,pyq_2019_jee_main_201_q51_7f790d,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A particle having the same charge as of electron moves in a circular path of radius 0.5 cm under the
-influence of a magnetic field of 0.5 T. If an electric field of 100 V/m makes it to move in a straight
-path, then the mass of the particle is (Given charge of electron = 1.6  1019 C)",9.1  1031 kg,1.6  1027 kg,1.6  1019 kg,2.0  1024 kg,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 12954,pyq_2026_jee_main_e_q004_eafede,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A rigid dipole undergoes a simple harmonic motion about its centre in the presence of an electric
 field . If another electric field  is introduced to the system, what will be the
 percentage change in the frequency of the oscillation (approximate)?",73%,63%,83%,53%,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2026 JEE Main 2026 (Online) 4th April Evening Shift,MEDIUM,MODEL_REVIEWED
-13023,pyq_2021_jee_main_e_q115_d36d23,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A cube is placed inside an electric field, . The side of the cube is 0.5 m and is placed in
-the field as shown in the given figure. The charge inside the cube is :",3.8  1011 C,8.3  1011 C,3.8  1012 C,8.3  1012 C,2,,,Evaluated according to official NTA key option (2).,YES,question-assets/candidates/ae51bdee-110f-4498-9ae1-75ce3327ddf7/f3b1520b-7f89-4530-9817-37ac451105ac/original.png,JEE Main 2021 JEE Main 2021 (Online) 1st September Evening Shift,MEDIUM,MODEL_REVIEWED
 13033,pyq_2021_jee_main_e_q125_4e766f,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"An electric dipole is placed on x-axis in proximity to a line charge of linear charge density 3.0  10
 6 C/m. Line charge is placed on z-axis and positive and negative charge of dipole is at a distance
 of 10 mm and 12 mm from the origin respectively. If total force of 4N is exerted on the dipole, find
@@ -17606,9 +16989,6 @@ equipotential surface.
 Statement 2: Electric lines of force at the equipotential surfaces are mutually perpendicular to each
 other.","Statement 1 is true, Statement 2 is true, Statement 2 is the correct explanation of Statement 1.","Statement 1 is true, Statement 2 is true, Statement 2 is not the correct explanation of Statement
 1.","Statement 1 is true, Statement 2 is false.","Statement 1 is false, Statement 2 is true.",1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2013 JEE Main 2013 (Online) 25th April Morning Slot,MEDIUM,MODEL_REVIEWED
-13073,pyq_2013_jee_main_e_q211_7d413f,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"A uniform electric field  exists between the plates of a charged condenser. A charged particle
-enters the space between the plates and perpendicular to . The path of the particle between the
-plates is a:",straight line,hyperbola,parabola,circle,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2013 JEE Main 2013 (Online) 9th April Morning Slot,MEDIUM,MODEL_REVIEWED
 13093,pyq_2024_jee_main_e_q231_b2090a,Physics,Electrostatics,PHYS_U11,PHYS_U11_T02,"Electric Field, Electric Field Lines & Electric Dipole",SINGLE_CHOICE,"Charges are placed on the vertices of a square as shown. Let  be the electric field and  the
 potential at the center. If the charges on  and  are interchanged with those on  and 
 respectively, then","changes,  remains unchanged","remains unchanged,  changes",both  and  change,and  remain unchanged,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
@@ -18012,8 +17392,6 @@ supply, the energy dissipation rate will become:",1/4 W,1/2 W,2 W,4 W,1,,,"...(i
  ...(ii)
 From (i) \& (ii),
 we get",NO,,JEE Main 2024 30 Jan Shift 2,MEDIUM,MODEL_REVIEWED
-7501,pyq_2019_jee_main_201_q51_ab27b9,Physics,Current Electricity,PHYS_U12,PHYS_U12_T02,"Electrical Resistance, V-I Characteristics, Resistivity & Temperature Dependence",SINGLE_CHOICE,"A current of 2 mA was passed through an unknown resistor which dissipated a power of 4.4 W.
-Dissipated power when an ideal power supply of 11 V is connected across it is -",11  10–5 W,11  10–3 W,11  105 W,11  10–4 W,1,,,Evaluated according to official NTA key option (1).,YES,question-assets/candidates/debb304a-b8b5-4ed8-ade8-dd111558656a/12c63913-8140-49aa-bfae-3b6b7ddea950/original.png,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
 7576,pyq_2019_jee_main_201_q56_bdee0e,Physics,Current Electricity,PHYS_U12,PHYS_U12_T02,"Electrical Resistance, V-I Characteristics, Resistivity & Temperature Dependence",SINGLE_CHOICE,"A uniform metallic wire has a resistance of 18  and is bent into an equilateral triangle. Then, the
 resistance between any two vertices of the triangle is -",12,2,4,8,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 7706,pyq_2019_jee_main_201_q55_03508f,Physics,Current Electricity,PHYS_U12,PHYS_U12_T02,"Electrical Resistance, V-I Characteristics, Resistivity & Temperature Dependence",SINGLE_CHOICE,"Two equal resistances when connected in series to a battery, consume electric power of 60 W. If
@@ -18219,19 +17597,6 @@ V = 4.2
 
  
  Energy stored in the battery when fully charged",NO,,JEE Main 2025 JEE Main 2025 April,MEDIUM,MODEL_REVIEWED
-2728,pyq_eg_8bfdd37a38,Physics,Current Electricity,PHYS_U12,PHYS_U12_T04,"Kirchhoff's Laws, Wheatstone Bridge & Meter Bridge",SINGLE_CHOICE,"Amplitude modulated wave is represented by . The
-total bandwidth of the amplitude modulated wave is :",10 kHz,20 MHz,20 kHz,10 MHz,3,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{20 kHz}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (3) is the mathematically consistent solution.
-\textbf{Correct Option:} (3)",NO,,,MEDIUM,MODEL_REVIEWED
 6294,PHYS_U12_SUB_PHYS_12_04_e7515034,Physics,Current Electricity,PHYS_U12,PHYS_U12_T04,"Kirchhoff's Laws, Wheatstone Bridge & Meter Bridge",SINGLE_CHOICE,"In a metre-bridge when a resistance in the left gap is 2Ω and unknown resistance in the right gap, the balance
 length is found to be 40 cm . On shunting the unknown resistance with 2Ω , the balance length changes by :",22.5 cm,20 cm,62.5 cm,65 cm,1,,,"First case 
 In second case 
@@ -18363,9 +17728,6 @@ section. The ratio of the magnetic field at a and 2a from axis of the wire is :
 7379,pyq_2019_jee_main_201_q62_bbbed3,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T01,"Biot-Savart Law & Ampere's Law Applications (Loop, Wire, Solenoid)",SINGLE_CHOICE,"The magnitude of the magnetic field at the centre of an equilateral triangular loop of side 1 m which
 is carrying a current of 10 A is :
 [Take 0 = 4 × 10–7 NA–2]",3 T,18 T,9 T,1 T,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Evening,MEDIUM,MODEL_REVIEWED
-13580,pyq_2021_jee_main_m_q091_6c19bc,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T01,"Biot-Savart Law & Ampere's Law Applications (Loop, Wire, Solenoid)",SINGLE_CHOICE,"A current of 1.5 A is flowing through a triangle, of side 9 cm each. The magnetic field at the centroid
-of the triangle is :
-(Assume that the current is flowing in the clockwise direction.)","3  107 T, outside the plane of triangle","107 T, outside the plane of triangle","105 T, inside the plane of triangle","3  105 T, inside the plane of triangle",4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 31st August Evening Shift,MEDIUM,MODEL_REVIEWED
 13599,pyq_2018_jee_main_m_q152_4b893f,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T01,"Biot-Savart Law & Ampere's Law Applications (Loop, Wire, Solenoid)",SINGLE_CHOICE,"A current of 1 A is flowing on the sides of an equilateral triangle of side 4.5  10-2 m. The magnetic
 field at the center of the triangle will be :",2  10-5 Wb/m2,Zero,8  10-5 Wb/m2,4  10-5 Wb/m2,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2018 JEE Main 2018 (Online) 15th April Evening Slot,MEDIUM,MODEL_REVIEWED
 13610,pyq_2015_jee_main_m_q163_8323c6,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T01,"Biot-Savart Law & Ampere's Law Applications (Loop, Wire, Solenoid)",SINGLE_CHOICE,"A 25 cm long solenoid has radius 2 cm and 500 total number of turns. It carries a current of 15 A. If
@@ -18463,9 +17825,6 @@ JEE Main 2024 April",NO,,JEE Main 2024 09 Apr Shift 2,MEDIUM,MODEL_REVIEWED
 7438,pyq_2019_jee_main_201_q53_006ad5,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T02,Force on a Moving Charge in Magnetic Field & Lorentz Force,SINGLE_CHOICE,"A proton, an electron, and a Helium nucleus, have the same energy. They are in circular orbits in a
 plane due to magnetic field perpendicualr to the plane. Let rp, re and rHe be their respective radii,
 then",re < rp < rHe,re < rp = rHe,re > rp > rHe,re > rp = rHe,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-7699,pyq_2019_jee_main_201_q48_53165f,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T02,Force on a Moving Charge in Magnetic Field & Lorentz Force,SINGLE_CHOICE,"In an experiment, electrons are accelerated, from rest, by applying a voltage of 500 V. Calculate the
-radius of the path if a magnetic field 100 mT is then applied. [Charge of the electron = 1.6  10–19 C
-Mass of the electron = 9.1  10–31 kg]",7.5  104 m,7.5  103 m,7.5 m,7.5  102 m,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 8253,pyq_2019_jee_main_201_q69_b956f4,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T02,Force on a Moving Charge in Magnetic Field & Lorentz Force,SINGLE_CHOICE,"The magnetic field of a plane electromagnetic wave is given by :
 B0 = 3 × 10–5 T and B1 = 2 × 10–6 T.
 The rms value of the force experienced by a stationary charge Q = 10–4 C at z = 0 is closest to :",0.6 N,0.9 N,3 × 10–2 N,0.1 N,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
@@ -18536,20 +17895,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (2) is the mathematically consistent solution.
 \textbf{Correct Option:} (2)",NO,,,MEDIUM,MODEL_REVIEWED
-2714,pyq_eg_6f3e6673bf,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T04,"Magnetic Dipole, Earth's Magnetic Field & Dia/Para/Ferromagnetic Substances JEE Mains Assessment Platform — Official Curriculum Hierarchy Page 3 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics",SINGLE_CHOICE,"The space inside a straight current carrying solenoid is filled with a magnetic material having
-magnetic susceptibility equal to 1.2  105. What is fractional increase in the magnetic field inside
-solenoid with respect to air as medium inside the solenoid?",1.2  105,1.2  103,1.8  103,2.4  105,1,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Magnetic Effects of Current and Magnetism — Magnetic Fields, Lorentz Force & Moving Charges), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{1.2  105}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
 4562,pyq_eg_6e799c9046,Physics,Magnetic Effects of Current and Magnetism,PHYS_U13,PHYS_U13_T04,"Magnetic Dipole, Earth's Magnetic Field & Dia/Para/Ferromagnetic Substances JEE Mains Assessment Platform — Official Curriculum Hierarchy Page 3 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics",SINGLE_CHOICE,"Paramagnetic substances:
 A. align themselves along the directions of external magnetic field.
 B. attract strongly towards external magnetic field.
@@ -18824,9 +18169,6 @@ resistor connected in series with an AC source, when resonance occurs
 Statement II : Maximum power is dissipated in a circuit containing pure resistor due to zero phase
 difference between current and voltage.
 In the light of the above statements, choose the correct answer from the options given below:",Statement I is false but Statement II is true,Both Statement I and Statement II are false,Statement I is true but Statement II is false,Both Statement I and Statement II are true,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2023 JEE Main 2023 (Online) 10th April Morning Shift,MEDIUM,MODEL_REVIEWED
-12396,pyq_2021_jee_main_a_q067_779259,Physics,Electromagnetic Induction and Alternating Currents,PHYS_U14,PHYS_U14_T03,"Alternating Currents: Peak & RMS Values, Reactance & Impedance",SINGLE_CHOICE,"A 100 resistance, a 0.1 F capacitor and an inductor are connected in series across a 250 V
-supply at variable frequency. Calculate the value of inductance of inductor at which resonance will
-occur. Given that the resonant frequency is 60 Hz.",0.70 H,70.3 mH,7.03  105 H,70.3 H,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th July Evening Shift,MEDIUM,MODEL_REVIEWED
 12401,pyq_2021_jee_main_a_q072_8c47de,Physics,Electromagnetic Induction and Alternating Currents,PHYS_U14,PHYS_U14_T03,"Alternating Currents: Peak & RMS Values, Reactance & Impedance",SINGLE_CHOICE,"For a series LCR circuit with R = 100 , L = 0.5 mH and C = 0.1 pF connected across 220V50 Hz
 AC supply, the phase angle between current and supplied voltage and the nature of the circuit is :","0, resistive circuit","90, predominantly inductive circuit","0, resonance circuit","90, predominantly capacitive circuit",4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 20th July Evening Shift,MEDIUM,MODEL_REVIEWED
 12403,pyq_2021_jee_main_a_q074_292c2f,Physics,Electromagnetic Induction and Alternating Currents,PHYS_U14,PHYS_U14_T03,"Alternating Currents: Peak & RMS Values, Reactance & Impedance",SINGLE_CHOICE,"In a series LCR resonance circuit, if we change the resistance only, from a lower to higher value :",The bandwidth of resonance circuit will increase.,The resonance frequency will increase.,The quality factor will increase.,The quality factor and the resonance frequency will remain constant.,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 18th March Morning Shift,EASY,MODEL_REVIEWED
@@ -18969,19 +18311,6 @@ Analyzing the problem constraints and substituting into the canonical equation:
 \textbf{3. Verification:}
 Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
 \textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
-4443,pyq_eg_d6d7d9c20d,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"In the given electromagnetic wave , intensity of the associated light
-beam is (in ) : (Given  )",486,729,243,972,1,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{486}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,EASY,MODEL_REVIEWED
 5399,pyq_eg_fdaa686975,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"The unit of  is :
 (I = intensity of an electromagnetic wave, c = speed of light)",Vm,NC-1,NC,Nm,2,,,"\textbf{1. Governing Principle:}
 From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
@@ -19055,16 +18384,6 @@ point (in space and time)
 (4)",NO,,JEE Main 2024 29 Jan Shift 2,MEDIUM,MODEL_REVIEWED
 12885,pyq_2023_jee_main_e_q051_cd4540,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,The energy of an electromagnetic wave contained in a small volume oscillates with,double the frequency of the wave,the frequency of the wave,half the frequency of the wave,zero frequency,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2023 JEE Main 2023 (Online) 10th April Morning Shift,EASY,MODEL_REVIEWED
 12886,pyq_2023_jee_main_e_q052_251c52,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,The waves emitted when a metal target is bombarded with high energy electrons are,Infrared rays,Radio Waves,Microwaves,X-rays,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2023 JEE Main 2023 (Online) 8th April Evening Shift,EASY,MODEL_REVIEWED
-12901,pyq_2021_jee_main_e_q089_d7e8db,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"A light beam is described by . An electron is allowed to move normal to the
-propagation of light beam with a speed of 3  107 ms1. What is the maximum magnetic force
-exerted on the electron?",1.28  1018 N,1.28  1021 N,12.8  1017 N,12.8  1018 N,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 26th August Evening Shift,MEDIUM,MODEL_REVIEWED
-12902,pyq_2021_jee_main_e_q090_e8e299,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"The relative permittivity of distilled water is 81. The velocity of light in it will be :
-(Given r = 1)",4.33  107 m/s,2.33  107 m/s,3.33  107 m/s,5.33  107 m/s,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th July Morning Shift,MEDIUM,MODEL_REVIEWED
-12903,pyq_2021_jee_main_e_q091_da2997,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"A linearly polarized electromagnetic wave in vacuum
-is incident normally on a perfectly reflecting wall at z = a. Choose the correct option",The wavelength is 5.4 m,The frequency of electromagnetic wave is 54  104 Hz.,The transmitted wave will be,The reflected wave will be,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 25th July Morning Shift,MEDIUM,MODEL_REVIEWED
-12904,pyq_2021_jee_main_e_q092_a9eb6e,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"Intensity of sunlight is observed as 0.092 Wm2 at a point in free space. What will be the peak value
-of magnetic field at the point?
-( )",2.77  108 T,1.96  108 T,8.31 T,5.88 T,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 22th July Evening Shift,MEDIUM,MODEL_REVIEWED
 12907,pyq_2021_jee_main_e_q095_428038,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"A plane electromagnetic wave propagating along y-direction can have the following pair of electric
 field  and magnetic field  components.","Ex, Bz or Ez, Bx","Ex, By or Ey, Bx","Ey, By or Ez, Bz","Ey, Bx or Ex, By",1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2021 JEE Main 2021 (Online) 18th March Evening Shift,MEDIUM,MODEL_REVIEWED
 12909,pyq_2021_jee_main_e_q097_3dd9c5,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"A plane electromagnetic wave of frequency 500 MHz is travelling in vacuum along y-direction. At a
@@ -19078,20 +18397,10 @@ due to electric (Ue) and magnetic (Um) fields is :",Ue = Um,Ue Um,Ue < Um,Ue > U
  = B0 sin (k x + t)
 Expression for corresponding electric field will be :
 Where c is speed of light.",= B0 c sin (k x + t) V/m,=  sin (k x + t) V/m,=  B0 c sin (kx +t) V/m,= B0 c sin (kx t) V/m,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2017 JEE Main 2017 (Online) 8th April Morning Slot,MEDIUM,MODEL_REVIEWED
-12922,pyq_2015_jee_main_e_q140_93d023,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"An electromagnetic wave travelling in the x-direction has frequency of 2  1014 Hz and electric field
-amplitude of 27 Vm1. From the options given below, which one describes the magnetic field for
-this wave ?","(x, t) = (3  108T) 
-sin [ 2 (1.5  108x  2  1014t)]","(x, t) = (9  108T) 
-sin [ 2 (1.5  106x  2  1014t)]","(x, t) = (9  108T) 
-sin [ 2 (1.5  108x  2  1014t)]","(x, t) = (9  108T) 
-sin [(1.5  106 x  2  1014t)]",2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2015 JEE Main 2015 (Online) 10th April Morning Slot,MEDIUM,MODEL_REVIEWED
 12925,pyq_2014_jee_main_e_q143_9cf3a6,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"A lamp emits monochromatic green light uniformly in all directions. The lamp is 3% efficient in
 converting electrical power to electromagnetic waves and consumes 100 W of power. The
 amplitude of the electric field associated with the electromagnetic radiation at a distance of 5 m
 from the lamp will be nearly :",1.34 V/m,2.68 V/m,4.02 V/m,5.36 V/m,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2014 JEE Main 2014 (Online) 12th April Morning Slot,MEDIUM,MODEL_REVIEWED
-12926,pyq_2014_jee_main_e_q144_a516cb,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"An electromagnetic wave of frequency 1  1014 hertz is propagating along z - axis. The amplitude
-of electric field is 4 V/m. If 0 = 8.8  1012 C2/N-m2, then average energy density of electric field
-will be :",35.2  1010 J/m3,35.2  1011 J/m3,35.2  1012 J/m3,35.2  1013 J/m3,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2014 JEE Main 2014 (Online) 11th April Morning Slot,MEDIUM,MODEL_REVIEWED
 12929,pyq_2014_jee_main_e_q147_45eec5,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,During the propagation of electromagnetic waves in a medium :,Electric energy density is double of the magnetic energy density.,Electric energy density is half of the magnetic energy density.,Electric energy density is equal to the magnetic energy density.,Both electric and magnetic energy of densities are zero.,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2014 JEE Main 2014 (Offline),EASY,MODEL_REVIEWED
 12933,pyq_2013_jee_main_e_q151_991a98,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,Select the correct statement from the following :,Electromagnetic waves cannot travel in vacuum.,Electromagnetic waves are longitudinal waves.,Electromagnetic waves are produced by charges moving with uniform velocity.,Electromagnetic waves carry both energy and momentum as they propagate through space.,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2013 JEE Main 2013 (Online) 23th April Morning Slot,EASY,MODEL_REVIEWED
 12934,pyq_2013_jee_main_e_q152_aab4b4,Physics,Electromagnetic Waves,PHYS_U15,PHYS_U15_T02,"Electromagnetic Waves: Characteristics, Transverse Nature & Speed",SINGLE_CHOICE,"A plane electromagnetic wave in a non-magnetic dielectric medium is given by
@@ -19768,9 +19077,6 @@ The radius of the atom in the excited state, in terms of Bohr radius a0 will be 
 7853,pyq_2019_jee_main_201_q71_ad2bb2,Physics,Dual Nature of Matter and Radiation,PHYS_U17,PHYS_U17_T01,"Photoelectric Effect, Hertz and Lenard's Observations & Einstein's Equation",SINGLE_CHOICE,"An excited He+ ion emits two photons in succession, with wavelengths 108.5 nm and 30.4 nm, in
 making a transition to ground state. The quantum number n, corresponding to its initial excited state
 is (for photon of wavelength , energy ) :",n = 4,n = 7,n = 5,n = 6,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
-12720,pyq_2021_jee_main_d_q100_17403e,Physics,Dual Nature of Matter and Radiation,PHYS_U17,PHYS_U17_T01,"Photoelectric Effect, Hertz and Lenard's Observations & Einstein's Equation",SINGLE_CHOICE,"A free electron of 2.6 eV energy collides with a H+ ion. This results in the formation of a hydrogen
-atom in the first excited state and a photon is released. Find the frequency of the emitted photon. (h
-= 6.6  1034 Js)",1.45  1016 MHz,0.19  1015 MHz,1.45  109 MHz,9.0  1027 MHz,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2021 JEE Main 2021 (Online) 31st August Evening Shift,MEDIUM,MODEL_REVIEWED
 12724,pyq_2021_jee_main_d_q104_288047,Physics,Dual Nature of Matter and Radiation,PHYS_U17,PHYS_U17_T01,"Photoelectric Effect, Hertz and Lenard's Observations & Einstein's Equation",SINGLE_CHOICE,"In a photoelectric experiment, increasing the intensity of incident light :",increases the number of photons incident and also increases the K.E. of the ejected electrons,increases the frequency of photons incident and increases the K.E. of the ejected electrons,"increases the frequency of photons incident and the K.E. of the ejected electrons remains
 unchanged","increases the number of photons incident and the K.E. of the ejected electrons remains
 unchanged",4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th August Morning Shift,EASY,MODEL_REVIEWED
@@ -19783,20 +19089,6 @@ excited state. The resulting photon is incident on a photosensitive metal of thr
 4000. What is the maximum kinetic energy of the emitted photoelectron?",7.61 eV,1.41 eV,3.3 eV,No photoelectron would be emitted,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 27th July Evening Shift,MEDIUM,MODEL_REVIEWED
 12783,pyq_2024_jee_main_d_q193_eaa3fb,Physics,Dual Nature of Matter and Radiation,PHYS_U17,PHYS_U17_T01,"Photoelectric Effect, Hertz and Lenard's Observations & Einstein's Equation",SINGLE_CHOICE,"According to Einstein's photoelectric equation, the plot of the kinetic energy of the emitted photo
 electrons from a metal  the frequency of the incident radiation gives a straight line whose slope",depends both on the intensity of the radiation and the metal used,depends on the intensity of the radiation,depends on the nature of the metal used,is the same for all metals and independent of the intensity of the radiation,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2024 JEE Main,MEDIUM,MODEL_REVIEWED
-2981,pyq_eg_1244e90022,Physics,Dual Nature of Matter and Radiation,PHYS_U17,PHYS_U17_T02,"Photons: Characteristics, Radiation Pressure & Threshold Frequency",SINGLE_CHOICE,"A source of monochromatic light liberates 9  1020 photon per second with wavelength 600 nm
-when operated at 400 W. The number of photons emitted per second with wavelength of 800 nm by
-the source of monochromatic light operating at same power will be :",12  1020,6  1020,9  1020,24  1020,1,,,"\textbf{1. Governing Principle:}
-From PHYSICS (Physics and Measurement — Core Concept Principles), apply the governing physical and mathematical theorems.
-
-\textbf{2. Analytical Formulation & Calculation:}
-Analyzing the problem constraints and substituting into the canonical equation:
-\[
-\text{Result} = \mathbf{12  1020}
-\]
-
-\textbf{3. Verification:}
-Comparing the derived expression with the standard choices confirms that Option (1) is the mathematically consistent solution.
-\textbf{Correct Option:} (1)",NO,,,MEDIUM,MODEL_REVIEWED
 3576,pyq_eg_83f2fe2822,Physics,Dual Nature of Matter and Radiation,PHYS_U17,PHYS_U17_T02,"Photons: Characteristics, Radiation Pressure & Threshold Frequency",SINGLE_CHOICE,"The threshold wavelength for photoelectric emission from a material is 5500 . Photoelectrons will
 be emitted, when this material is illuminated with monochromatic radiation from a
 A. 75 W infra-red lamp
@@ -19954,8 +19246,6 @@ atom is :",4 : 1,1 : 4,2 : 1,1 : 2,1,,,Step-by-step verified derivation.,NO,,JEE
 wavelength of the 2nd Balmer line (n = 4 to n = 2) will be :",642.7 nm,488.9 nm,889.2 nm,388.9 nm,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2019 Morning,MEDIUM,MODEL_REVIEWED
 12466,pyq_2026_jee_main_a_q017_b3494f,Physics,Atoms and Nuclei,PHYS_U18,PHYS_U18_T02,"Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum",SINGLE_CHOICE,"The smallest wavelength of Lyman series is 91 nm . The difference between the largest
 wavelengths of Paschen and Balmer series is nearly  nm.",1784,1875,1217,1550,3,,,Evaluated according to official NTA key option (3).,NO,,JEE Main 2026 JEE Main 2026 (Online) 22nd January Evening Shift,MEDIUM,MODEL_REVIEWED
-12497,pyq_2021_jee_main_a_q090_e8ab14,Physics,Atoms and Nuclei,PHYS_U18,PHYS_U18_T02,"Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum",SINGLE_CHOICE,"A particular hydrogen like ion emits radiation of frequency 2.92  1015 Hz when it makes transition
-from n = 3 to n = 1. The frequency in Hz of radiation emitted in transition from n = 2 to n = 1 will be :",0.44  1015,6.57  1015,4.38  1015,2.46  1015,4,,,Evaluated according to official NTA key option (4).,NO,,JEE Main 2021 JEE Main 2021 (Online) 26th August Morning Shift,MEDIUM,MODEL_REVIEWED
 12500,pyq_2021_jee_main_a_q093_835c0d,Physics,Atoms and Nuclei,PHYS_U18,PHYS_U18_T02,"Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum",SINGLE_CHOICE,"Imagine that the electron in a hydrogen atom is replaced by a muon (). The mass of muon particle
 is 207 times that of an electron and charge is equal to the charge of an electron. The ionization
 potential of this hydrogen atom will be :",13.6 eV,2815.2 eV,331.2 eV,27.2 eV,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2021 JEE Main 2021 (Online) 18th March Morning Shift,MEDIUM,MODEL_REVIEWED
@@ -19979,11 +19269,6 @@ atom/ion :","kinetic energy decreases, potential energy increases but total ener
 12522,pyq_2014_jee_main_a_q133_3a9877,Physics,Atoms and Nuclei,PHYS_U18,PHYS_U18_T02,"Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum",SINGLE_CHOICE,"If the binding energy of the electron in a hydrogen atom is 13.6 eV, the energy required to remove
 the electron from the first excited state of  Li++ is :",122.4 eV,30.6 eV,13.6 eV,3.4 eV,2,,,Evaluated according to official NTA key option (2).,NO,,JEE Main 2014 JEE Main 2014 (Online) 9th April Morning Slot,MEDIUM,MODEL_REVIEWED
 12525,pyq_2013_jee_main_a_q136_0b7aa7,Physics,Atoms and Nuclei,PHYS_U18,PHYS_U18_T02,"Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum",SINGLE_CHOICE,A 12.5 eV electron beam is used to bombard gaseous hydrogen at room temperature. It will emit:,2 lines in the Lyman series and 1 line in the Balmer series,3 lines in the Lyman series,1 line in the Lyman series and 2 lines in the Balmer series,3 lines in the Balmer series,1,,,Evaluated according to official NTA key option (1).,NO,,JEE Main 2013 JEE Main 2013 (Online) 25th April Morning Slot,EASY,MODEL_REVIEWED
-17595,Q_C7D674BFF363,Physics,Atoms and Nuclei,PHYS_U18,PHYS_U18_T02,"Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum",SINGLE_CHOICE,"Given below are two statements: one is labelled as Assertion A and the other is labelled as
-Reason R.
-Assertion A: The Bohr model is applicable to hydrogen and hydrogen-like atoms only.
-Reason R : The formulation of Bohr model does not include repulsive force between electrons.
-In the light of the above statements, choose the correct answer from the options given below :",Both  and  are true but  is NOT the correct explanation of .,is false but  is true.,Both  and  are true and  is the correct explanation of .,is true but  is false.,1,,,Derived from official JEE Main 2025 question bank.,NO,,JEE Main 2025 JEE Main 2025 April,MEDIUM,MODEL_REVIEWED
 425,fa4f5b10-24d2-4fbb-8f58-e81cdca9a669,Physics,Atoms and Nuclei,PHYS_U18,PHYS_U18_T03,"Composition and Size of Nucleus, Mass-Energy Relation & Mass Defect",SINGLE_CHOICE,The mass number of nucleus having radius equal to half of the radius of nucleus with mass number 192 is:,24,32,40,20,2,,,"R = R_0 A^{1/3}
 \frac{R_1}{R_2} = \left(\frac{A_1}{A_2}\right)^{1/3} = \frac{1}{2}
 A_1 = \frac{192}{8} = 24",NO,,JEE Main 2024 31 Jan Shift 2,MEDIUM,REGENERATED_VERIFIED

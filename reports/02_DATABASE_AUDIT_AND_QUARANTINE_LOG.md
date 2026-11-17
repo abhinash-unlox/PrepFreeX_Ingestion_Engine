@@ -2,15 +2,15 @@
 **Working Database:** `jee_mains_assesment_work` (PostgreSQL 18.6)  
 **Untouched Master:** `jee_mains_assesment` (100% Read-Only, Unaltered)  
 **Total Raw Questions in Completed Table:** 3,540  
-**Quarantined Broken Questions:** 539  
-**Clean, Active Eligible Questions:** 3,001  
+**Quarantined Broken Questions:** 641  
+**Clean, Active Eligible Questions:** 2,899  
 
 ---
 
 ## 1. Executive Summary
 During platform stress testing and full-length mock simulation, multiple classes of legacy PDF extraction defects surfaced (missing formulas, stripped variables, duplicate options, and watermarks). 
 
-To ensure absolute academic integrity for students taking exams, a two-pass deep forensic audit was performed across all 3,540 rows in `public.completed_questions`. A total of **539 defective questions** were permanently quarantined by setting:
+To ensure absolute academic integrity for students taking exams, a three-pass deep forensic audit was performed across all 3,540 rows in `public.completed_questions`. A total of **641 defective questions** were permanently quarantined by setting:
 ```sql
 UPDATE public.completed_questions
 SET assessment_status = 'BROKEN',
@@ -27,13 +27,14 @@ Zero quarantined questions can ever be selected or served in tests.
 
 ---
 
-## 2. Two-Pass Quarantine Breakdown
+## 2. Three-Pass Quarantine Breakdown
 
 | Audit Stage | Target Defects | Questions Quarantined | Clean Remaining |
 | :--- | :--- | :---: | :---: |
 | **Pass 1: Structural Audit** | Missing variables (`strain of .`), duplicate options, cut-off verbs (`is`), missing compound diagrams (I, II, III, IV), stripped scientific exponents (`105 V m1`, `3g cm3`), piecewise brackets (`⎧, ⎪, ⎨`). | 346 | 3,194 |
-| **Pass 2: Deep Forensic Audit** | Watermark leaks (MathonGo, URLs, page footers), missing nuclear equations before `(energy)`, empty chemical species lists (`(A) (B) (C)...`), stripped assertion-reason subjects (`is true but is false`), stripped equation bounds (`roots of in the interval`). | 193 | **3,001** |
-| **Total Quarantined** | All OCR & Extraction Failures | **539** | **3,001** |
+| **Pass 2: Deep Forensic Audit** | Watermark leaks (MathonGo, URLs, page footers), missing nuclear equations before `(energy)`, empty chemical species lists (`(A) (B) (C)...`), stripped assertion-reason subjects (`is true but is false`), stripped equation bounds (`roots of in the interval`). | 193 | 3,001 |
+| **Pass 3: Scientific Exponent & Diagram Audit** | Stripped scientific exponent notations in options (`1.73 1010`, `48.8 1011`), unlabelled Assertion-Reason choices (`is false but is true`), missing diagram references without S3 assets (`(see figure)`), empty unit parenthesis `(in )`, dangling field prepositions before period. | 102 | **2,899** |
+| **Total Quarantined** | All OCR & Extraction Failures | **641** | **2,899** |
 
 ---
 
