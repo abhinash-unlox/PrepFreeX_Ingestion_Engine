@@ -1,0 +1,10 @@
+{
+  "database_name": "jee_mains_assesment",
+  "backup_timestamp": "2026-11-12T13:07:09.625407+00:00",
+  "backup_file": "C:\\Users\\HP\\Desktop\\PrepFreeX_Ingestion_Engine\\backups\\prepfreex_jee_mains_assesment_pre_remediation.dump",
+  "file_size_bytes": 2398609,
+  "sha256": "9c072326a9e192e03e8ebfb8cf7b866c54fd243c385dbfc42276c2fbdab21742",
+  "command": "C:\\Program Files\\PostgreSQL\\18\\bin\\pg_dump.exe -h 127.0.0.1 -p 5432 -U postgres -F c -b -f backups\\prepfreex_jee_mains_assesment_pre_remediation.dump jee_mains_assesment",
+  "toc_entries_count": 139,
+  "verification_result": "SUCCESS"
+}

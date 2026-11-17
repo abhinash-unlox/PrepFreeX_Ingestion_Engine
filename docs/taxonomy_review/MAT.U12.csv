@@ -1,0 +1,6 @@
+code,level,name,description,example_stems,action
+MAT.U12,unit,VECTOR ALGEBRA,,,keep
+MAT.U12.T01,topic,Vectors and scalars,,,keep
+MAT.U12.T01.S01,subtopic,the addition of vectors,Includes problem-types on the addition of vectors. Excludes unrelated parts of Vectors and scalars.,Calculate the primary parameters for the addition of vectors given standard values. | Which of the following statements is correct regarding the addition of vectors?,keep
+MAT.U12.T01.S02,subtopic,components of a vector in two dimensions and,Includes problem-types on components of a vector in two dimensions and. Excludes unrelated parts of Vectors and scalars.,Calculate the primary parameters for components of a vector in two dimensions and given standard values. | Which of the following statements is correct regarding components of a vector in two dimensions and?,keep
+MAT.U12.T01.S03,subtopic,scalar and vector products,Includes problem-types on scalar and vector products. Excludes unrelated parts of Vectors and scalars.,Calculate the primary parameters for scalar and vector products given standard values. | Which of the following statements is correct regarding scalar and vector products?,keep

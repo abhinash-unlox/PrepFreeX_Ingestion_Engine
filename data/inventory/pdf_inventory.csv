@@ -1,0 +1,6 @@
+file_name,relative_path,sha256,size_mb,total_pages,text_layer,scanned_pages,figure_heavy_pages,is_duplicate,duplicate_role,duplicate_of,processing_status
+1. Alternating Current.pdf,1. Alternating Current.pdf,88a07af43190ed0b862483a159615dbc8e74bcaaadd8a2c9090a9fd36aa663ca,0.54,3,full,0,3,True,primary,,db_indexed (license: unverified)
+10. PART TEST - 01 (04-12-2025).pdf,10. PART TEST - 01 (04-12-2025).pdf,3a98bd06f3b647192320be3e35eed52d8028b077fd0bdca86e9b181d0965ac3f,15.18,38,none (scanned),38,0,True,primary,,unindexed
+Alternating Current - JEE Main 2026 (Jan) - MathonGo.pdf,Alternating Current - JEE Main 2026 (Jan) - MathonGo.pdf,88a07af43190ed0b862483a159615dbc8e74bcaaadd8a2c9090a9fd36aa663ca,0.54,3,full,0,3,True,duplicate,1. Alternating Current.pdf,db_indexed (license: unverified)
+JEE Main Part Test-1_.pdf,JEE Main Part Test-1_.pdf,3a98bd06f3b647192320be3e35eed52d8028b077fd0bdca86e9b181d0965ac3f,15.18,38,none (scanned),38,0,True,duplicate,10. PART TEST - 01 (04-12-2025).pdf,unindexed
+SYLLABUS.PDF,SYLLABUS.PDF,4ce0c562d245af9595571b1fce501d1b188767f8d33937813a74a3e52870a13f,1.12,11,full,0,1,False,unique,,unindexed

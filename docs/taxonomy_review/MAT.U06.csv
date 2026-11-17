@@ -1,0 +1,6 @@
+code,level,name,description,example_stems,action
+MAT.U06,unit,SEQUENCE AND SERIES,,,keep
+MAT.U06.T01,topic,Arithmetic and Geometric progressions,,,keep
+MAT.U06.T01.S01,subtopic,insertion of arithmetic,Includes problem-types on insertion of arithmetic. Excludes unrelated parts of Arithmetic and Geometric progressions.,Calculate the primary parameters for insertion of arithmetic given standard values. | Which of the following statements is correct regarding insertion of arithmetic?,keep
+MAT.U06.T01.S02,subtopic,geometric means between two given numbers,Includes problem-types on geometric means between two given numbers. Excludes unrelated parts of Arithmetic and Geometric progressions.,Calculate the primary parameters for geometric means between two given numbers given standard values. | Which of the following statements is correct regarding geometric means between two given numbers?,keep
+MAT.U06.T01.S03,subtopic,Relation between A.M and G.M,Includes problem-types on Relation between A.M and G.M. Excludes unrelated parts of Arithmetic and Geometric progressions.,Calculate the primary parameters for Relation between A.M and G.M given standard values. | Which of the following statements is correct regarding Relation between A.M and G.M?,keep

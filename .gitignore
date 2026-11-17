@@ -1,0 +1,54 @@
+# Environments & secrets (Single root .env)
+.env
+.env.*
+!.env.example
+.venv/
+env/
+venv/
+
+# Python caches & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# PrepFreeX Data Exclusions
+# 1. Raw JEE PDFs (kept locally, ignored by Git)
+*.pdf
+*.zip
+*.tar.gz
+*.dump
+*.sql
+!db/migrations/*.sql
+backups/*.dump
+data/raw/**
+!data/raw/**/.gitkeep
+
+# 2. Ingestion Job Artifacts & Rendered Pages
+data/jobs/**
+!data/jobs/.gitkeep
+
+# 3. Persistent Caches
+data/cache/**
+!data/cache/.gitkeep
+
+# 4. Local S3-mimic Object Storage
+data/objects/local/**
+!data/objects/local/.gitkeep
+
+# 5. Rendered Images
+*.png
+!reports/**/contact_sheets/*.png
+*.jpg
+*.jpeg
+*.webp
+
+# 6. MinIO AIStor license & local object data
+*.license
+minio-data/
+*.meta.json
+
+scratch/

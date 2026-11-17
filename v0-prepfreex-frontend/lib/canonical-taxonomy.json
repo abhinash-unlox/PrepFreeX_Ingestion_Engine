@@ -1,0 +1,3080 @@
+{
+  "Physics": [
+    {
+      "id": 12,
+      "unit_code": "PHYS_U01",
+      "chapter_name": "Physics and Measurement",
+      "chapter_slug": "physics_and_measurement",
+      "subject": "Physics",
+      "chapter_number": 1,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 65,
+          "topic_code": "PHYS_U01_T01",
+          "topic_name": "SI Units, Fundamental and Derived Units",
+          "topic_number": 1,
+          "unit_code": "PHYS_U01",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 66,
+          "topic_code": "PHYS_U01_T02",
+          "topic_name": "Errors in Measurement, Significant Figures & Vernier/Screw Gauge",
+          "topic_number": 2,
+          "unit_code": "PHYS_U01",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 67,
+          "topic_code": "PHYS_U01_T03",
+          "topic_name": "Dimensions of Physical Quantities & Principle of Homogeneity",
+          "topic_number": 3,
+          "unit_code": "PHYS_U01",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 68,
+          "topic_code": "PHYS_U01_T04",
+          "topic_name": "Dimensional Analysis and its Applications",
+          "topic_number": 4,
+          "unit_code": "PHYS_U01",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "unit_code": "PHYS_U02",
+      "chapter_name": "Kinematics",
+      "chapter_slug": "kinematics",
+      "subject": "Physics",
+      "chapter_number": 2,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 69,
+          "topic_code": "PHYS_U02_T01",
+          "topic_name": "Frame of Reference, Motion in Straight Line, Speed & Velocity",
+          "topic_number": 1,
+          "unit_code": "PHYS_U02",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 70,
+          "topic_code": "PHYS_U02_T02",
+          "topic_name": "Uniformly Accelerated Motion, Velocity-Time & Position-Time Graphs",
+          "topic_number": 2,
+          "unit_code": "PHYS_U02",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 71,
+          "topic_code": "PHYS_U02_T03",
+          "topic_name": "Relative Velocity in One and Two Dimensions",
+          "topic_number": 3,
+          "unit_code": "PHYS_U02",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 72,
+          "topic_code": "PHYS_U02_T04",
+          "topic_name": "Projectile Motion (Trajectory, Time of Flight, Range, Max Height)",
+          "topic_number": 4,
+          "unit_code": "PHYS_U02",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "unit_code": "PHYS_U03",
+      "chapter_name": "Laws of Motion",
+      "chapter_slug": "laws_of_motion",
+      "subject": "Physics",
+      "chapter_number": 3,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 73,
+          "topic_code": "PHYS_U03_T01",
+          "topic_name": "Newton's First and Second Laws of Motion & Momentum",
+          "topic_number": 1,
+          "unit_code": "PHYS_U03",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 74,
+          "topic_code": "PHYS_U03_T02",
+          "topic_name": "Newton's Third Law, Impulse & Conservation of Linear Momentum",
+          "topic_number": 2,
+          "unit_code": "PHYS_U03",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 75,
+          "topic_code": "PHYS_U03_T03",
+          "topic_name": "Law of Friction, Static and Kinetic Friction, Angle of Repose",
+          "topic_number": 3,
+          "unit_code": "PHYS_U03",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 76,
+          "topic_code": "PHYS_U03_T04",
+          "topic_name": "Uniform Circular Motion, Centripetal Acceleration & Banking of Roads JEE Mains Assessment Platform \u2014 Official Curriculum Hierarchy Page 2 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects \u2022 64 Units \u2022 256 Subtopics",
+          "topic_number": 4,
+          "unit_code": "PHYS_U03",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "unit_code": "PHYS_U04",
+      "chapter_name": "Work, Energy and Power",
+      "chapter_slug": "work_energy_and_power",
+      "subject": "Physics",
+      "chapter_number": 4,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 77,
+          "topic_code": "PHYS_U04_T01",
+          "topic_name": "Work Done by Constant and Variable Forces",
+          "topic_number": 1,
+          "unit_code": "PHYS_U04",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 78,
+          "topic_code": "PHYS_U04_T02",
+          "topic_name": "Kinetic Energy, Work-Energy Theorem & Power",
+          "topic_number": 2,
+          "unit_code": "PHYS_U04",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 79,
+          "topic_code": "PHYS_U04_T03",
+          "topic_name": "Potential Energy, Conservation of Mechanical Energy & Spring Force",
+          "topic_number": 3,
+          "unit_code": "PHYS_U04",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 80,
+          "topic_code": "PHYS_U04_T04",
+          "topic_name": "Elastic and Inelastic Collisions in One and Two Dimensions",
+          "topic_number": 4,
+          "unit_code": "PHYS_U04",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "unit_code": "PHYS_U05",
+      "chapter_name": "Rotational Motion",
+      "chapter_slug": "rotational_motion",
+      "subject": "Physics",
+      "chapter_number": 5,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 81,
+          "topic_code": "PHYS_U05_T01",
+          "topic_name": "Center of Mass of Two-Particle System and Rigid Body",
+          "topic_number": 1,
+          "unit_code": "PHYS_U05",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 82,
+          "topic_code": "PHYS_U05_T02",
+          "topic_name": "Moment of Inertia, Radius of Gyration, Parallel & Perpendicular Axes Theorems",
+          "topic_number": 2,
+          "unit_code": "PHYS_U05",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 83,
+          "topic_code": "PHYS_U05_T03",
+          "topic_name": "Torque, Angular Momentum & Conservation of Angular Momentum",
+          "topic_number": 3,
+          "unit_code": "PHYS_U05",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 84,
+          "topic_code": "PHYS_U05_T04",
+          "topic_name": "Kinematics & Dynamics of Rotational Motion, Rolling Motion without Slipping",
+          "topic_number": 4,
+          "unit_code": "PHYS_U05",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "unit_code": "PHYS_U06",
+      "chapter_name": "Gravitation",
+      "chapter_slug": "gravitation",
+      "subject": "Physics",
+      "chapter_number": 6,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 85,
+          "topic_code": "PHYS_U06_T01",
+          "topic_name": "Universal Law of Gravitation & Acceleration due to Gravity (g)",
+          "topic_number": 1,
+          "unit_code": "PHYS_U06",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 86,
+          "topic_code": "PHYS_U06_T02",
+          "topic_name": "Variation of g with Altitude, Depth and Rotation of Earth",
+          "topic_number": 2,
+          "unit_code": "PHYS_U06",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 87,
+          "topic_code": "PHYS_U06_T03",
+          "topic_name": "Gravitational Potential Energy & Gravitational Potential",
+          "topic_number": 3,
+          "unit_code": "PHYS_U06",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 88,
+          "topic_code": "PHYS_U06_T04",
+          "topic_name": "Escape Velocity, Orbital Velocity of Satellites & Kepler's Laws",
+          "topic_number": 4,
+          "unit_code": "PHYS_U06",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "unit_code": "PHYS_U07",
+      "chapter_name": "Properties of Solids and Liquids",
+      "chapter_slug": "properties_of_solids_and_liquids",
+      "subject": "Physics",
+      "chapter_number": 7,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 89,
+          "topic_code": "PHYS_U07_T01",
+          "topic_name": "Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii",
+          "topic_number": 1,
+          "unit_code": "PHYS_U07",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 90,
+          "topic_code": "PHYS_U07_T02",
+          "topic_name": "Pressure, Pascal's Law, Archimedes' Principle & Buoyancy",
+          "topic_number": 2,
+          "unit_code": "PHYS_U07",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 91,
+          "topic_code": "PHYS_U07_T03",
+          "topic_name": "Viscosity, Stokes' Law, Terminal Velocity, Streamline Flow & Bernoulli's",
+          "topic_number": 3,
+          "unit_code": "PHYS_U07",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 92,
+          "topic_code": "PHYS_U07_T04",
+          "topic_name": "Surface Tension, Surface Energy, Angle of Contact & Capillary Rise",
+          "topic_number": 4,
+          "unit_code": "PHYS_U07",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "unit_code": "PHYS_U08",
+      "chapter_name": "Thermodynamics",
+      "chapter_slug": "thermodynamics",
+      "subject": "Physics",
+      "chapter_number": 8,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 93,
+          "topic_code": "PHYS_U08_T01",
+          "topic_name": "Thermal Equilibrium, Zeroth Law of Thermodynamics & Concept of Temperature",
+          "topic_number": 1,
+          "unit_code": "PHYS_U08",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 94,
+          "topic_code": "PHYS_U08_T02",
+          "topic_name": "First Law of Thermodynamics, Internal Energy, Work & Heat",
+          "topic_number": 2,
+          "unit_code": "PHYS_U08",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 95,
+          "topic_code": "PHYS_U08_T03",
+          "topic_name": "Isothermal, Adiabatic, Isobaric & Isochoric Processes",
+          "topic_number": 3,
+          "unit_code": "PHYS_U08",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 96,
+          "topic_code": "PHYS_U08_T04",
+          "topic_name": "Second Law of Thermodynamics, Reversible/Irreversible & Carnot Engine",
+          "topic_number": 4,
+          "unit_code": "PHYS_U08",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "unit_code": "PHYS_U09",
+      "chapter_name": "Kinetic Theory of Gases",
+      "chapter_slug": "kinetic_theory_of_gases",
+      "subject": "Physics",
+      "chapter_number": 9,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 97,
+          "topic_code": "PHYS_U09_T01",
+          "topic_name": "Equation of State of a Perfect Gas & Work Done on Compressing a Gas",
+          "topic_number": 1,
+          "unit_code": "PHYS_U09",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 98,
+          "topic_code": "PHYS_U09_T02",
+          "topic_name": "Kinetic Theory of Gases: Assumptions, Concept of Pressure",
+          "topic_number": 2,
+          "unit_code": "PHYS_U09",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 99,
+          "topic_code": "PHYS_U09_T03",
+          "topic_name": "Kinetic Energy and Temperature, RMS Speed of Gas Molecules",
+          "topic_number": 3,
+          "unit_code": "PHYS_U09",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 100,
+          "topic_code": "PHYS_U09_T04",
+          "topic_name": "Degrees of Freedom, Law of Equipartition of Energy & Specific Heats",
+          "topic_number": 4,
+          "unit_code": "PHYS_U09",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "unit_code": "PHYS_U10",
+      "chapter_name": "Oscillations and Waves",
+      "chapter_slug": "oscillations_and_waves",
+      "subject": "Physics",
+      "chapter_number": 10,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 101,
+          "topic_code": "PHYS_U10_T01",
+          "topic_name": "Periodic and Oscillatory Motions, Simple Harmonic Motion (SHM)",
+          "topic_number": 1,
+          "unit_code": "PHYS_U10",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 102,
+          "topic_code": "PHYS_U10_T02",
+          "topic_name": "Energy in SHM (Kinetic and Potential), Simple Pendulum",
+          "topic_number": 2,
+          "unit_code": "PHYS_U10",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 103,
+          "topic_code": "PHYS_U10_T03",
+          "topic_name": "Wave Motion, Longitudinal and Transverse Waves, Speed of Wave",
+          "topic_number": 3,
+          "unit_code": "PHYS_U10",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 104,
+          "topic_code": "PHYS_U10_T04",
+          "topic_name": "Superposition of Waves, Standing Waves in Strings/Pipes & Beats",
+          "topic_number": 4,
+          "unit_code": "PHYS_U10",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "unit_code": "PHYS_U11",
+      "chapter_name": "Electrostatics",
+      "chapter_slug": "electrostatics",
+      "subject": "Physics",
+      "chapter_number": 11,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 105,
+          "topic_code": "PHYS_U11_T01",
+          "topic_name": "Electric Charges, Conservation of Charge, Coulomb's Law",
+          "topic_number": 1,
+          "unit_code": "PHYS_U11",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 106,
+          "topic_code": "PHYS_U11_T02",
+          "topic_name": "Electric Field, Electric Field Lines & Electric Dipole",
+          "topic_number": 2,
+          "unit_code": "PHYS_U11",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 107,
+          "topic_code": "PHYS_U11_T03",
+          "topic_name": "Gauss's Law and its Applications (Wire, Sheet, Spherical Shell)",
+          "topic_number": 3,
+          "unit_code": "PHYS_U11",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 108,
+          "topic_code": "PHYS_U11_T04",
+          "topic_name": "Electric Potential, Equipotential Surfaces & Capacitors (Series/Parallel)",
+          "topic_number": 4,
+          "unit_code": "PHYS_U11",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "unit_code": "PHYS_U12",
+      "chapter_name": "Current Electricity",
+      "chapter_slug": "current_electricity",
+      "subject": "Physics",
+      "chapter_number": 12,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 109,
+          "topic_code": "PHYS_U12_T01",
+          "topic_name": "Electric Current, Drift Velocity, Mobility & Ohm's Law",
+          "topic_number": 1,
+          "unit_code": "PHYS_U12",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 110,
+          "topic_code": "PHYS_U12_T02",
+          "topic_name": "Electrical Resistance, V-I Characteristics, Resistivity & Temperature Dependence",
+          "topic_number": 2,
+          "unit_code": "PHYS_U12",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 111,
+          "topic_code": "PHYS_U12_T03",
+          "topic_name": "Internal Resistance of a Cell, Potential Difference, EMF & Combinations of Cells",
+          "topic_number": 3,
+          "unit_code": "PHYS_U12",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 112,
+          "topic_code": "PHYS_U12_T04",
+          "topic_name": "Kirchhoff's Laws, Wheatstone Bridge & Meter Bridge",
+          "topic_number": 4,
+          "unit_code": "PHYS_U12",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "unit_code": "PHYS_U13",
+      "chapter_name": "Magnetic Effects of Current and Magnetism",
+      "chapter_slug": "magnetic_effects_of_current_and_magnetism",
+      "subject": "Physics",
+      "chapter_number": 13,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 113,
+          "topic_code": "PHYS_U13_T01",
+          "topic_name": "Biot-Savart Law & Ampere's Law Applications (Loop, Wire, Solenoid)",
+          "topic_number": 1,
+          "unit_code": "PHYS_U13",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 114,
+          "topic_code": "PHYS_U13_T02",
+          "topic_name": "Force on a Moving Charge in Magnetic Field & Lorentz Force",
+          "topic_number": 2,
+          "unit_code": "PHYS_U13",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 115,
+          "topic_code": "PHYS_U13_T03",
+          "topic_name": "Force on Current-Carrying Conductor & Torque on Current Loop (Galvanometer)",
+          "topic_number": 3,
+          "unit_code": "PHYS_U13",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 116,
+          "topic_code": "PHYS_U13_T04",
+          "topic_name": "Magnetic Dipole, Earth's Magnetic Field & Dia/Para/Ferromagnetic Substances JEE Mains Assessment Platform \u2014 Official Curriculum Hierarchy Page 3 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects \u2022 64 Units \u2022 256 Subtopics",
+          "topic_number": 4,
+          "unit_code": "PHYS_U13",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "unit_code": "PHYS_U14",
+      "chapter_name": "Electromagnetic Induction and Alternating Currents",
+      "chapter_slug": "electromagnetic_induction_and_alternating_currents",
+      "subject": "Physics",
+      "chapter_number": 14,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 117,
+          "topic_code": "PHYS_U14_T01",
+          "topic_name": "Electromagnetic Induction: Faraday's Law & Lenz's Law",
+          "topic_number": 1,
+          "unit_code": "PHYS_U14",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 118,
+          "topic_code": "PHYS_U14_T02",
+          "topic_name": "Motional EMF, Eddy Currents, Self & Mutual Inductance",
+          "topic_number": 2,
+          "unit_code": "PHYS_U14",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 119,
+          "topic_code": "PHYS_U14_T03",
+          "topic_name": "Alternating Currents: Peak & RMS Values, Reactance & Impedance",
+          "topic_number": 3,
+          "unit_code": "PHYS_U14",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 120,
+          "topic_code": "PHYS_U14_T04",
+          "topic_name": "LCR Series Circuit, Resonance, Quality Factor & Transformers",
+          "topic_number": 4,
+          "unit_code": "PHYS_U14",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "unit_code": "PHYS_U15",
+      "chapter_name": "Electromagnetic Waves",
+      "chapter_slug": "electromagnetic_waves",
+      "subject": "Physics",
+      "chapter_number": 15,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 121,
+          "topic_code": "PHYS_U15_T01",
+          "topic_name": "Displacement Current & Maxwell's Equations (Qualitative)",
+          "topic_number": 1,
+          "unit_code": "PHYS_U15",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 122,
+          "topic_code": "PHYS_U15_T02",
+          "topic_name": "Electromagnetic Waves: Characteristics, Transverse Nature & Speed",
+          "topic_number": 2,
+          "unit_code": "PHYS_U15",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 123,
+          "topic_code": "PHYS_U15_T03",
+          "topic_name": "Electromagnetic Spectrum: Radiowaves, Microwaves, Infrared, Visible",
+          "topic_number": 3,
+          "unit_code": "PHYS_U15",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 124,
+          "topic_code": "PHYS_U15_T04",
+          "topic_name": "Ultraviolet, X-Rays, Gamma Rays & Their Applications",
+          "topic_number": 4,
+          "unit_code": "PHYS_U15",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "unit_code": "PHYS_U16",
+      "chapter_name": "Optics",
+      "chapter_slug": "optics",
+      "subject": "Physics",
+      "chapter_number": 16,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 125,
+          "topic_code": "PHYS_U16_T01",
+          "topic_name": "Reflection of Light, Spherical Mirrors, Mirror Formula & Magnification",
+          "topic_number": 1,
+          "unit_code": "PHYS_U16",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 126,
+          "topic_code": "PHYS_U16_T02",
+          "topic_name": "Refraction of Light, Total Internal Reflection & Lenses (Lens Maker's Formula)",
+          "topic_number": 2,
+          "unit_code": "PHYS_U16",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 127,
+          "topic_code": "PHYS_U16_T03",
+          "topic_name": "Prism: Deviation and Dispersion; Optical Instruments (Microscope, Telescope)",
+          "topic_number": 3,
+          "unit_code": "PHYS_U16",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 128,
+          "topic_code": "PHYS_U16_T04",
+          "topic_name": "Wave Optics: Huygens' Principle, Interference (YDSE) & Diffraction",
+          "topic_number": 4,
+          "unit_code": "PHYS_U16",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "unit_code": "PHYS_U17",
+      "chapter_name": "Dual Nature of Matter and Radiation",
+      "chapter_slug": "dual_nature_of_matter_and_radiation",
+      "subject": "Physics",
+      "chapter_number": 17,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 129,
+          "topic_code": "PHYS_U17_T01",
+          "topic_name": "Photoelectric Effect, Hertz and Lenard's Observations & Einstein's Equation",
+          "topic_number": 1,
+          "unit_code": "PHYS_U17",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 130,
+          "topic_code": "PHYS_U17_T02",
+          "topic_name": "Photons: Characteristics, Radiation Pressure & Threshold Frequency",
+          "topic_number": 2,
+          "unit_code": "PHYS_U17",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 131,
+          "topic_code": "PHYS_U17_T03",
+          "topic_name": "Matter Waves: Wave-Particle Duality & de Broglie Wavelength",
+          "topic_number": 3,
+          "unit_code": "PHYS_U17",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 132,
+          "topic_code": "PHYS_U17_T04",
+          "topic_name": "Davisson-Germer Experiment (Experimental Verification of Matter Waves)",
+          "topic_number": 4,
+          "unit_code": "PHYS_U17",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "unit_code": "PHYS_U18",
+      "chapter_name": "Atoms and Nuclei",
+      "chapter_slug": "atoms_and_nuclei",
+      "subject": "Physics",
+      "chapter_number": 18,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 133,
+          "topic_code": "PHYS_U18_T01",
+          "topic_name": "Alpha-Particle Scattering Experiment & Rutherford's Atomic Model",
+          "topic_number": 1,
+          "unit_code": "PHYS_U18",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 134,
+          "topic_code": "PHYS_U18_T02",
+          "topic_name": "Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum",
+          "topic_number": 2,
+          "unit_code": "PHYS_U18",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 135,
+          "topic_code": "PHYS_U18_T03",
+          "topic_name": "Composition and Size of Nucleus, Mass-Energy Relation & Mass Defect",
+          "topic_number": 3,
+          "unit_code": "PHYS_U18",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 136,
+          "topic_code": "PHYS_U18_T04",
+          "topic_name": "Nuclear Fission, Nuclear Fusion & Radioactivity (Alpha, Beta, Gamma Decay)",
+          "topic_number": 4,
+          "unit_code": "PHYS_U18",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "unit_code": "PHYS_U19",
+      "chapter_name": "Electronic Devices",
+      "chapter_slug": "electronic_devices",
+      "subject": "Physics",
+      "chapter_number": 19,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 137,
+          "topic_code": "PHYS_U19_T01",
+          "topic_name": "Semiconductors: Intrinsic and Extrinsic (n-type and p-type)",
+          "topic_number": 1,
+          "unit_code": "PHYS_U19",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 138,
+          "topic_code": "PHYS_U19_T02",
+          "topic_name": "Semiconductor Diode: I-V Characteristics in Forward and Reverse Bias",
+          "topic_number": 2,
+          "unit_code": "PHYS_U19",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 139,
+          "topic_code": "PHYS_U19_T03",
+          "topic_name": "Diode as a Rectifier (Half-Wave, Full-Wave) & Zener Diode Regulation",
+          "topic_number": 3,
+          "unit_code": "PHYS_U19",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 140,
+          "topic_code": "PHYS_U19_T04",
+          "topic_name": "Optoelectronic Junction Devices: LED, Photodiode, Solar Cell & Logic Gates",
+          "topic_number": 4,
+          "unit_code": "PHYS_U19",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "unit_code": "PHYS_U20",
+      "chapter_name": "Communication Systems",
+      "chapter_slug": "communication_systems",
+      "subject": "Physics",
+      "chapter_number": 20,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 141,
+          "topic_code": "PHYS_U20_T01",
+          "topic_name": "Vernier Calipers & Screw Gauge Precision Measurements",
+          "topic_number": 1,
+          "unit_code": "PHYS_U20",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 142,
+          "topic_code": "PHYS_U20_T02",
+          "topic_name": "Simple Pendulum, Young's Modulus & Surface Tension Measurement",
+          "topic_number": 2,
+          "unit_code": "PHYS_U20",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 143,
+          "topic_code": "PHYS_U20_T03",
+          "topic_name": "Meter Bridge, Ohm's Law & Galvanometer Conversion into Voltmeter/Ammeter",
+          "topic_number": 3,
+          "unit_code": "PHYS_U20",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 144,
+          "topic_code": "PHYS_U20_T04",
+          "topic_name": "Focal Length of Mirrors/Lenses & Speed of Sound by Resonance Tube",
+          "topic_number": 4,
+          "unit_code": "PHYS_U20",
+          "subject": "Physics",
+          "eligible_question_count": 25
+        }
+      ]
+    }
+  ],
+  "Chemistry": [
+    {
+      "id": 57,
+      "unit_code": "CHEM_U01",
+      "chapter_name": "Some Basic Concepts in Chemistry",
+      "chapter_slug": "some_basic_concepts_in_chemistry",
+      "subject": "Chemistry",
+      "chapter_number": 1,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 145,
+          "topic_code": "CHEM_U01_T01",
+          "topic_name": "Matter, Dalton's Atomic Theory & Laws of Chemical Combination",
+          "topic_number": 1,
+          "unit_code": "CHEM_U01",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 146,
+          "topic_code": "CHEM_U01_T02",
+          "topic_name": "Atomic and Molecular Masses, Mole Concept & Percentage Composition",
+          "topic_number": 2,
+          "unit_code": "CHEM_U01",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 147,
+          "topic_code": "CHEM_U01_T03",
+          "topic_name": "Empirical and Molecular Formulae Calculations",
+          "topic_number": 3,
+          "unit_code": "CHEM_U01",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 148,
+          "topic_code": "CHEM_U01_T04",
+          "topic_name": "Chemical Equations, Stoichiometry & Limiting Reagent",
+          "topic_number": 4,
+          "unit_code": "CHEM_U01",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "unit_code": "CHEM_U02",
+      "chapter_name": "States of Matter",
+      "chapter_slug": "states_of_matter",
+      "subject": "Chemistry",
+      "chapter_number": 2,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 149,
+          "topic_code": "CHEM_U02_T01",
+          "topic_name": "Gas Laws: Boyle's Law, Charles's Law, Gay-Lussac's Law & Avogadro's Law",
+          "topic_number": 1,
+          "unit_code": "CHEM_U02",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 150,
+          "topic_code": "CHEM_U02_T02",
+          "topic_name": "Ideal Gas Equation, Dalton's Law of Partial Pressures & Graham's Law",
+          "topic_number": 2,
+          "unit_code": "CHEM_U02",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 151,
+          "topic_code": "CHEM_U02_T03",
+          "topic_name": "Kinetic Molecular Theory of Gases & Maxwell-Boltzmann Distribution of Speeds",
+          "topic_number": 3,
+          "unit_code": "CHEM_U02",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 152,
+          "topic_code": "CHEM_U02_T04",
+          "topic_name": "Real Gases: Deviation from Ideal Behavior, van der Waals Equation & Liquefaction",
+          "topic_number": 4,
+          "unit_code": "CHEM_U02",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "unit_code": "CHEM_U03",
+      "chapter_name": "Atomic Structure",
+      "chapter_slug": "atomic_structure",
+      "subject": "Chemistry",
+      "chapter_number": 3,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 153,
+          "topic_code": "CHEM_U03_T01",
+          "topic_name": "EM Radiation, Photoelectric Effect & Bohr Model of Hydrogen Atom",
+          "topic_number": 1,
+          "unit_code": "CHEM_U03",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 154,
+          "topic_code": "CHEM_U03_T02",
+          "topic_name": "Dual Nature of Matter, de Broglie Relation & Heisenberg Uncertainty",
+          "topic_number": 2,
+          "unit_code": "CHEM_U03",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 155,
+          "topic_code": "CHEM_U03_T03",
+          "topic_name": "Quantum Numbers (n, l, m, s), Shapes of s, p, d Orbitals",
+          "topic_number": 3,
+          "unit_code": "CHEM_U03",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 156,
+          "topic_code": "CHEM_U03_T04",
+          "topic_name": "Aufbau Principle, Pauli Exclusion, Hund's Rule & Stability of Orbitals JEE Mains Assessment Platform \u2014 Official Curriculum Hierarchy Page 4 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects \u2022 64 Units \u2022 256 Subtopics",
+          "topic_number": 4,
+          "unit_code": "CHEM_U03",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "unit_code": "CHEM_U04",
+      "chapter_name": "Chemical Bonding and Molecular Structure",
+      "chapter_slug": "chemical_bonding_and_molecular_structure",
+      "subject": "Chemistry",
+      "chapter_number": 4,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 157,
+          "topic_code": "CHEM_U04_T01",
+          "topic_name": "Kossel-Lewis Approach, Ionic Bonding & Lattice Enthalpy",
+          "topic_number": 1,
+          "unit_code": "CHEM_U04",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 158,
+          "topic_code": "CHEM_U04_T02",
+          "topic_name": "Covalent Bonding, Electronegativity, Fajan's Rule & Dipole Moment",
+          "topic_number": 2,
+          "unit_code": "CHEM_U04",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 159,
+          "topic_code": "CHEM_U04_T03",
+          "topic_name": "VSEPR Theory, Shapes of Molecules & Hybridization (s, p, d)",
+          "topic_number": 3,
+          "unit_code": "CHEM_U04",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 160,
+          "topic_code": "CHEM_U04_T04",
+          "topic_name": "Molecular Orbital Theory (MOT), Bond Order & Hydrogen Bonding",
+          "topic_number": 4,
+          "unit_code": "CHEM_U04",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "unit_code": "CHEM_U05",
+      "chapter_name": "Chemical Thermodynamics",
+      "chapter_slug": "chemical_thermodynamics",
+      "subject": "Chemistry",
+      "chapter_number": 5,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 161,
+          "topic_code": "CHEM_U05_T01",
+          "topic_name": "System and Surroundings, State Functions & Types of Processes",
+          "topic_number": 1,
+          "unit_code": "CHEM_U05",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 162,
+          "topic_code": "CHEM_U05_T02",
+          "topic_name": "First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions",
+          "topic_number": 2,
+          "unit_code": "CHEM_U05",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 163,
+          "topic_code": "CHEM_U05_T03",
+          "topic_name": "Hess's Law of Constant Heat Summation & Bond Enthalpies",
+          "topic_number": 3,
+          "unit_code": "CHEM_U05",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 164,
+          "topic_code": "CHEM_U05_T04",
+          "topic_name": "Second Law of Thermodynamics, Spontaneity, \u2206S, \u2206G & \u2206G\u00b0 with K",
+          "topic_number": 4,
+          "unit_code": "CHEM_U05",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "unit_code": "CHEM_U06",
+      "chapter_name": "Solutions",
+      "chapter_slug": "solutions",
+      "subject": "Chemistry",
+      "chapter_number": 6,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 165,
+          "topic_code": "CHEM_U06_T01",
+          "topic_name": "Methods of Expressing Concentration (Molality, Molarity, Mole Fraction)",
+          "topic_number": 1,
+          "unit_code": "CHEM_U06",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 166,
+          "topic_code": "CHEM_U06_T02",
+          "topic_name": "Vapour Pressure of Solutions & Raoult's Law (Ideal/Non-Ideal)",
+          "topic_number": 2,
+          "unit_code": "CHEM_U06",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 167,
+          "topic_code": "CHEM_U06_T03",
+          "topic_name": "Colligative Properties: Lowering of Vapour Pressure, Boiling/Freezing",
+          "topic_number": 3,
+          "unit_code": "CHEM_U06",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 168,
+          "topic_code": "CHEM_U06_T04",
+          "topic_name": "Osmotic Pressure, Abnormal Molecular Mass & van 't Hoff Factor",
+          "topic_number": 4,
+          "unit_code": "CHEM_U06",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "unit_code": "CHEM_U07",
+      "chapter_name": "Equilibrium",
+      "chapter_slug": "equilibrium",
+      "subject": "Chemistry",
+      "chapter_number": 7,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 169,
+          "topic_code": "CHEM_U07_T01",
+          "topic_name": "Physical Equilibrium (Solid-Liquid, Liquid-Gas) & Henry's Law",
+          "topic_number": 1,
+          "unit_code": "CHEM_U07",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 170,
+          "topic_code": "CHEM_U07_T02",
+          "topic_name": "Chemical Equilibrium, Kp, Kc, \u2206G\u00b0 Relationship & Le Chatelier's Principle",
+          "topic_number": 2,
+          "unit_code": "CHEM_U07",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 171,
+          "topic_code": "CHEM_U07_T03",
+          "topic_name": "Ionic Equilibrium: Weak/Strong Electrolytes, pH Scale & Ionization",
+          "topic_number": 3,
+          "unit_code": "CHEM_U07",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 172,
+          "topic_code": "CHEM_U07_T04",
+          "topic_name": "Common Ion Effect, Salt Hydrolysis, Buffer Solutions & Ksp",
+          "topic_number": 4,
+          "unit_code": "CHEM_U07",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "unit_code": "CHEM_U08",
+      "chapter_name": "Redox Reactions and Electrochemistry",
+      "chapter_slug": "redox_reactions_and_electrochemistry",
+      "subject": "Chemistry",
+      "chapter_number": 8,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 173,
+          "topic_code": "CHEM_U08_T01",
+          "topic_name": "Redox Reactions, Oxidation Numbers & Balancing Equations",
+          "topic_number": 1,
+          "unit_code": "CHEM_U08",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 174,
+          "topic_code": "CHEM_U08_T02",
+          "topic_name": "Electrolytic & Metallic Conduction, Molar Conductivity & Kohlrausch's Law",
+          "topic_number": 2,
+          "unit_code": "CHEM_U08",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 175,
+          "topic_code": "CHEM_U08_T03",
+          "topic_name": "Electrochemical Cells, Electrode Potential, EMF & Nernst Equation",
+          "topic_number": 3,
+          "unit_code": "CHEM_U08",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 176,
+          "topic_code": "CHEM_U08_T04",
+          "topic_name": "Cell Potential & Gibbs Energy Change, Dry Cells, Batteries & Fuel Cells",
+          "topic_number": 4,
+          "unit_code": "CHEM_U08",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "unit_code": "CHEM_U09",
+      "chapter_name": "Chemical Kinetics",
+      "chapter_slug": "chemical_kinetics",
+      "subject": "Chemistry",
+      "chapter_number": 9,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 177,
+          "topic_code": "CHEM_U09_T01",
+          "topic_name": "Rate of Reaction, Factors Affecting Rate & Order and Molecularity",
+          "topic_number": 1,
+          "unit_code": "CHEM_U09",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 178,
+          "topic_code": "CHEM_U09_T02",
+          "topic_name": "Rate Law, Rate Constant & Zero/First-Order Integrated Equations",
+          "topic_number": 2,
+          "unit_code": "CHEM_U09",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 179,
+          "topic_code": "CHEM_U09_T03",
+          "topic_name": "Half-Life of Reactions & Characteristic Graphs",
+          "topic_number": 3,
+          "unit_code": "CHEM_U09",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 180,
+          "topic_code": "CHEM_U09_T04",
+          "topic_name": "Temperature Dependence, Arrhenius Theory, Activation Energy & Collision Theory",
+          "topic_number": 4,
+          "unit_code": "CHEM_U09",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "unit_code": "CHEM_U10",
+      "chapter_name": "Surface Chemistry",
+      "chapter_slug": "surface_chemistry",
+      "subject": "Chemistry",
+      "chapter_number": 10,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 181,
+          "topic_code": "CHEM_U10_T01",
+          "topic_name": "Adsorption: Physisorption, Chemisorption & Factors Affecting Adsorption",
+          "topic_number": 1,
+          "unit_code": "CHEM_U10",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 182,
+          "topic_code": "CHEM_U10_T02",
+          "topic_name": "Freundlich & Langmuir Adsorption Isotherms, Adsorption from Solutions",
+          "topic_number": 2,
+          "unit_code": "CHEM_U10",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 183,
+          "topic_code": "CHEM_U10_T03",
+          "topic_name": "Catalysis: Homogeneous, Heterogeneous, Enzyme Catalysis & Shape-Selective Catalysts",
+          "topic_number": 3,
+          "unit_code": "CHEM_U10",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 184,
+          "topic_code": "CHEM_U10_T04",
+          "topic_name": "Colloids: Lyophilic/Lyophobic, Micelles, Coagulation (Hardy-Schulze Rule) & Emulsions",
+          "topic_number": 4,
+          "unit_code": "CHEM_U10",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "unit_code": "CHEM_U11",
+      "chapter_name": "Classification of Elements and Periodicity",
+      "chapter_slug": "classification_of_elements_and_periodicity",
+      "subject": "Chemistry",
+      "chapter_number": 11,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 185,
+          "topic_code": "CHEM_U11_T01",
+          "topic_name": "Modern Periodic Law, Present Form of Periodic Table & s,p,d,f Blocks",
+          "topic_number": 1,
+          "unit_code": "CHEM_U11",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 186,
+          "topic_code": "CHEM_U11_T02",
+          "topic_name": "Periodic Trends in Atomic Radii and Ionic Radii",
+          "topic_number": 2,
+          "unit_code": "CHEM_U11",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 187,
+          "topic_code": "CHEM_U11_T03",
+          "topic_name": "Ionization Enthalpy & Electron Gain Enthalpy Trends",
+          "topic_number": 3,
+          "unit_code": "CHEM_U11",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 188,
+          "topic_code": "CHEM_U11_T04",
+          "topic_name": "Valence, Oxidation States and Trends in Chemical Reactivity",
+          "topic_number": 4,
+          "unit_code": "CHEM_U11",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "unit_code": "CHEM_U12",
+      "chapter_name": "General Principles and Processes of Isolation of Metals",
+      "chapter_slug": "general_principles_and_processes_of_isolation_of_metals",
+      "subject": "Chemistry",
+      "chapter_number": 12,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 189,
+          "topic_code": "CHEM_U12_T01",
+          "topic_name": "Concentration of Ores: Gravity Separation, Magnetic Separation & Froth Floatation",
+          "topic_number": 1,
+          "unit_code": "CHEM_U12",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 190,
+          "topic_code": "CHEM_U12_T02",
+          "topic_name": "Extraction of Crude Metal: Calcination, Roasting & Thermodynamics (Ellingham Diagram)",
+          "topic_number": 2,
+          "unit_code": "CHEM_U12",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 191,
+          "topic_code": "CHEM_U12_T03",
+          "topic_name": "Electrochemical Principles of Metallurgy & Refining of Crude Metals",
+          "topic_number": 3,
+          "unit_code": "CHEM_U12",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 192,
+          "topic_code": "CHEM_U12_T04",
+          "topic_name": "Commercial Extraction of Aluminium, Copper, Zinc & Iron",
+          "topic_number": 4,
+          "unit_code": "CHEM_U12",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "unit_code": "CHEM_U13",
+      "chapter_name": "Hydrogen",
+      "chapter_slug": "hydrogen",
+      "subject": "Chemistry",
+      "chapter_number": 13,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 193,
+          "topic_code": "CHEM_U13_T01",
+          "topic_name": "Position of Hydrogen, Isotopes, Preparation & Properties of Dihydrogen",
+          "topic_number": 1,
+          "unit_code": "CHEM_U13",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 194,
+          "topic_code": "CHEM_U13_T02",
+          "topic_name": "Hydrides: Ionic, Covalent and Interstitial Hydrides",
+          "topic_number": 2,
+          "unit_code": "CHEM_U13",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 195,
+          "topic_code": "CHEM_U13_T03",
+          "topic_name": "Water: Structure, Physical & Chemical Properties, Temporary & Permanent Hardness",
+          "topic_number": 3,
+          "unit_code": "CHEM_U13",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 196,
+          "topic_code": "CHEM_U13_T04",
+          "topic_name": "Hydrogen Peroxide (H2O2): Preparation, Structure, Properties, Volume Strength & Heavy Water JEE Mains Assessment Platform \u2014 Official Curriculum Hierarchy Page 5 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects \u2022 64 Units \u2022 256 Subtopics",
+          "topic_number": 4,
+          "unit_code": "CHEM_U13",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "unit_code": "CHEM_U14",
+      "chapter_name": "s-Block Elements",
+      "chapter_slug": "s_block_elements",
+      "subject": "Chemistry",
+      "chapter_number": 14,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 197,
+          "topic_code": "CHEM_U14_T01",
+          "topic_name": "Group 1 (Alkali Metals): Electronic Config, Atomic/Ionic Radii, Ionization & Hydration",
+          "topic_number": 1,
+          "unit_code": "CHEM_U14",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 198,
+          "topic_code": "CHEM_U14_T02",
+          "topic_name": "Chemical Reactivity of Alkali Metals & Important Compounds (Na2CO3, NaCl, NaOH, NaHCO3)",
+          "topic_number": 2,
+          "unit_code": "CHEM_U14",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 199,
+          "topic_code": "CHEM_U14_T03",
+          "topic_name": "Group 2 (Alkaline Earth Metals): Electronic Config, Radii, Ionization & Anomalous Be",
+          "topic_number": 3,
+          "unit_code": "CHEM_U14",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 200,
+          "topic_code": "CHEM_U14_T04",
+          "topic_name": "Compounds of Alkaline Earth Metals (CaO, CaCO3, Plaster of Paris, Cement) & Biological Importance",
+          "topic_number": 4,
+          "unit_code": "CHEM_U14",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "unit_code": "CHEM_U15",
+      "chapter_name": "p-Block Elements",
+      "chapter_slug": "p_block_elements",
+      "subject": "Chemistry",
+      "chapter_number": 15,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 201,
+          "topic_code": "CHEM_U15_T01",
+          "topic_name": "Group 13 Elements (Boron Family): Trends, Diborane, Boric Acid & Borax",
+          "topic_number": 1,
+          "unit_code": "CHEM_U15",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 202,
+          "topic_code": "CHEM_U15_T02",
+          "topic_name": "Group 14 Elements (Carbon Family): Allotropes, Oxides, Silicates & Silicones",
+          "topic_number": 2,
+          "unit_code": "CHEM_U15",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 203,
+          "topic_code": "CHEM_U15_T03",
+          "topic_name": "Group 15 & 16 Elements (N & O Families): Properties, Hydrides, Oxides & Oxoacids",
+          "topic_number": 3,
+          "unit_code": "CHEM_U15",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 204,
+          "topic_code": "CHEM_U15_T04",
+          "topic_name": "Group 17 & 18 Elements (Halogens, Interhalogens, Noble Gas Compounds)",
+          "topic_number": 4,
+          "unit_code": "CHEM_U15",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "unit_code": "CHEM_U16",
+      "chapter_name": "d and f Block Elements",
+      "chapter_slug": "d_and_f_block_elements",
+      "subject": "Chemistry",
+      "chapter_number": 16,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 205,
+          "topic_code": "CHEM_U16_T01",
+          "topic_name": "Transition Elements: Electronic Configuration, Occurrence & Characteristics",
+          "topic_number": 1,
+          "unit_code": "CHEM_U16",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 206,
+          "topic_code": "CHEM_U16_T02",
+          "topic_name": "General Trends in 3d Series: Radii, Ionization, Oxidation States & Color",
+          "topic_number": 2,
+          "unit_code": "CHEM_U16",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 207,
+          "topic_code": "CHEM_U16_T03",
+          "topic_name": "Magnetic Properties, Catalysis, Interstitial Alloys & K2Cr2O7/KMnO4",
+          "topic_number": 3,
+          "unit_code": "CHEM_U16",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 208,
+          "topic_code": "CHEM_U16_T04",
+          "topic_name": "Inner Transition Elements: Lanthanoids & Actinoids Contraction",
+          "topic_number": 4,
+          "unit_code": "CHEM_U16",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "unit_code": "CHEM_U17",
+      "chapter_name": "Coordination Compounds",
+      "chapter_slug": "coordination_compounds",
+      "subject": "Chemistry",
+      "chapter_number": 17,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 209,
+          "topic_code": "CHEM_U17_T01",
+          "topic_name": "Werner's Theory, Ligands, Coordination Number & IUPAC Nomenclature",
+          "topic_number": 1,
+          "unit_code": "CHEM_U17",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 210,
+          "topic_code": "CHEM_U17_T02",
+          "topic_name": "Isomerism in Coordination Compounds (Structural & Stereoisomerism)",
+          "topic_number": 2,
+          "unit_code": "CHEM_U17",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 211,
+          "topic_code": "CHEM_U17_T03",
+          "topic_name": "Bonding: Valence Bond Theory & Crystal Field Theory (CFT)",
+          "topic_number": 3,
+          "unit_code": "CHEM_U17",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 212,
+          "topic_code": "CHEM_U17_T04",
+          "topic_name": "Color, Magnetic Properties & Applications in Qualitative Analysis",
+          "topic_number": 4,
+          "unit_code": "CHEM_U17",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "unit_code": "CHEM_U18",
+      "chapter_name": "Environmental Chemistry",
+      "chapter_slug": "environmental_chemistry",
+      "subject": "Chemistry",
+      "chapter_number": 18,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 213,
+          "topic_code": "CHEM_U18_T01",
+          "topic_name": "Atmospheric Pollution: Tropospheric Pollution, Gaseous Pollutants & Acid Rain",
+          "topic_number": 1,
+          "unit_code": "CHEM_U18",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 214,
+          "topic_code": "CHEM_U18_T02",
+          "topic_name": "Particulate Pollutants, Smog (Classical & Photochemical Smog) & Ozone Depletion",
+          "topic_number": 2,
+          "unit_code": "CHEM_U18",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 215,
+          "topic_code": "CHEM_U18_T03",
+          "topic_name": "Water Pollution: Causes, BOD, DO & International Standards for Drinking Water",
+          "topic_number": 3,
+          "unit_code": "CHEM_U18",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 216,
+          "topic_code": "CHEM_U18_T04",
+          "topic_name": "Soil Pollution, Industrial Waste Management & Principles of Green Chemistry",
+          "topic_number": 4,
+          "unit_code": "CHEM_U18",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "unit_code": "CHEM_U19",
+      "chapter_name": "Purification and Characterisation of Organic Compounds",
+      "chapter_slug": "purification_and_characterisation_of_organic_compounds",
+      "subject": "Chemistry",
+      "chapter_number": 19,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 217,
+          "topic_code": "CHEM_U19_T01",
+          "topic_name": "Purification: Crystallization, Sublimation, Distillation & Chromatography",
+          "topic_number": 1,
+          "unit_code": "CHEM_U19",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 218,
+          "topic_code": "CHEM_U19_T02",
+          "topic_name": "Qualitative Analysis: Detection of N, S, P and Halogens",
+          "topic_number": 2,
+          "unit_code": "CHEM_U19",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 219,
+          "topic_code": "CHEM_U19_T03",
+          "topic_name": "Quantitative Analysis: Estimation of C, H, N, Halogens, S and P",
+          "topic_number": 3,
+          "unit_code": "CHEM_U19",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 220,
+          "topic_code": "CHEM_U19_T04",
+          "topic_name": "Calculations of Empirical & Molecular Formulae and Numerical Problems",
+          "topic_number": 4,
+          "unit_code": "CHEM_U19",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "unit_code": "CHEM_U20",
+      "chapter_name": "Some Basic Principles of Organic Chemistry",
+      "chapter_slug": "some_basic_principles_of_organic_chemistry",
+      "subject": "Chemistry",
+      "chapter_number": 20,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 221,
+          "topic_code": "CHEM_U20_T01",
+          "topic_name": "Tetravalency of Carbon, Shapes of Molecules & Hybridization",
+          "topic_number": 1,
+          "unit_code": "CHEM_U20",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 222,
+          "topic_code": "CHEM_U20_T02",
+          "topic_name": "Classification, Homologous Series & Nomenclature (Trivial & IUPAC)",
+          "topic_number": 2,
+          "unit_code": "CHEM_U20",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 223,
+          "topic_code": "CHEM_U20_T03",
+          "topic_name": "Covalent Bond Fission, Free Radicals, Carbocations & Carbanions",
+          "topic_number": 3,
+          "unit_code": "CHEM_U20",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 224,
+          "topic_code": "CHEM_U20_T04",
+          "topic_name": "Electronic Displacement: Inductive, Electromeric, Resonance & Hyperconjugation",
+          "topic_number": 4,
+          "unit_code": "CHEM_U20",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "unit_code": "CHEM_U21",
+      "chapter_name": "Hydrocarbons",
+      "chapter_slug": "hydrocarbons",
+      "subject": "Chemistry",
+      "chapter_number": 21,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 225,
+          "topic_code": "CHEM_U21_T01",
+          "topic_name": "Alkanes: Conformations (Sawhorse, Newman) & Halogenation Mechanism",
+          "topic_number": 1,
+          "unit_code": "CHEM_U21",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 226,
+          "topic_code": "CHEM_U21_T02",
+          "topic_name": "Alkenes: Geometrical Isomerism, Electrophilic Addition & Ozonolysis",
+          "topic_number": 2,
+          "unit_code": "CHEM_U21",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 227,
+          "topic_code": "CHEM_U21_T03",
+          "topic_name": "Alkynes: Acidic Character, Addition of Hydrogen/Halogens & Polymerization",
+          "topic_number": 3,
+          "unit_code": "CHEM_U21",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 228,
+          "topic_code": "CHEM_U21_T04",
+          "topic_name": "Aromatic Hydrocarbons: Benzene, Aromaticity, Electrophilic Substitution & Friedel-Crafts",
+          "topic_number": 4,
+          "unit_code": "CHEM_U21",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "unit_code": "CHEM_U22",
+      "chapter_name": "Organic Compounds Containing Halogens",
+      "chapter_slug": "organic_compounds_containing_halogens",
+      "subject": "Chemistry",
+      "chapter_number": 22,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 229,
+          "topic_code": "CHEM_U22_T01",
+          "topic_name": "Haloalkanes & Haloarenes: Preparation, Properties & Nature of C-X Bond",
+          "topic_number": 1,
+          "unit_code": "CHEM_U22",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 230,
+          "topic_code": "CHEM_U22_T02",
+          "topic_name": "Mechanisms of Nucleophilic Substitution (SN1 and SN2 Reactions)",
+          "topic_number": 2,
+          "unit_code": "CHEM_U22",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 231,
+          "topic_code": "CHEM_U22_T03",
+          "topic_name": "Elimination Reactions & Reactions of Haloarenes",
+          "topic_number": 3,
+          "unit_code": "CHEM_U22",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 232,
+          "topic_code": "CHEM_U22_T04",
+          "topic_name": "Polyhalogen Compounds: Chloroform, Iodoform, Freons & DDT",
+          "topic_number": 4,
+          "unit_code": "CHEM_U22",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "unit_code": "CHEM_U23",
+      "chapter_name": "Organic Compounds Containing Oxygen",
+      "chapter_slug": "organic_compounds_containing_oxygen",
+      "subject": "Chemistry",
+      "chapter_number": 23,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 233,
+          "topic_code": "CHEM_U23_T01",
+          "topic_name": "Alcohols: Identification of 1\u00b0, 2\u00b0, 3\u00b0 Alcohols & Dehydration Mechanism",
+          "topic_number": 1,
+          "unit_code": "CHEM_U23",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 234,
+          "topic_code": "CHEM_U23_T02",
+          "topic_name": "Phenols: Acidity, Electrophilic Substitution & Reimer-Tiemann Reaction",
+          "topic_number": 2,
+          "unit_code": "CHEM_U23",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 235,
+          "topic_code": "CHEM_U23_T03",
+          "topic_name": "Ethers: Structure & Properties; Aldehydes/Ketones: Nucleophilic Addition",
+          "topic_number": 3,
+          "unit_code": "CHEM_U23",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 236,
+          "topic_code": "CHEM_U23_T04",
+          "topic_name": "Aldol, Cannizzaro, Clemmensen, Haloform & Carboxylic Acids Acidity JEE Mains Assessment Platform \u2014 Official Curriculum Hierarchy Page 6 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects \u2022 64 Units \u2022 256 Subtopics",
+          "topic_number": 4,
+          "unit_code": "CHEM_U23",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "unit_code": "CHEM_U24",
+      "chapter_name": "Organic Compounds Containing Nitrogen",
+      "chapter_slug": "organic_compounds_containing_nitrogen",
+      "subject": "Chemistry",
+      "chapter_number": 24,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 237,
+          "topic_code": "CHEM_U24_T01",
+          "topic_name": "Amines: Nomenclature, Classification & Structure",
+          "topic_number": 1,
+          "unit_code": "CHEM_U24",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 238,
+          "topic_code": "CHEM_U24_T02",
+          "topic_name": "Basic Character of Amines & Identification of 1\u00b0, 2\u00b0, 3\u00b0 Amines",
+          "topic_number": 2,
+          "unit_code": "CHEM_U24",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 239,
+          "topic_code": "CHEM_U24_T03",
+          "topic_name": "Diazonium Salts: Preparation & Properties",
+          "topic_number": 3,
+          "unit_code": "CHEM_U24",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 240,
+          "topic_code": "CHEM_U24_T04",
+          "topic_name": "Importance of Diazonium Salts in Synthetic Organic Chemistry",
+          "topic_number": 4,
+          "unit_code": "CHEM_U24",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "unit_code": "CHEM_U25",
+      "chapter_name": "Polymers",
+      "chapter_slug": "polymers",
+      "subject": "Chemistry",
+      "chapter_number": 25,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 241,
+          "topic_code": "CHEM_U25_T01",
+          "topic_name": "Classification of Polymers: Source, Structure, Molecular Forces & Polymerization",
+          "topic_number": 1,
+          "unit_code": "CHEM_U25",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 242,
+          "topic_code": "CHEM_U25_T02",
+          "topic_name": "Types of Polymerization: Addition (Free Radical, Cationic/Anionic) & Condensation",
+          "topic_number": 2,
+          "unit_code": "CHEM_U25",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 243,
+          "topic_code": "CHEM_U25_T03",
+          "topic_name": "Important Commercial Polymers: Polyethylene, Nylon, Bakelite, Dacron, Buna-S, Neoprene",
+          "topic_number": 3,
+          "unit_code": "CHEM_U25",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 244,
+          "topic_code": "CHEM_U25_T04",
+          "topic_name": "Biodegradable Polymers (PHBV, Nylon-2-Nylon-6) & Molecular Mass of Polymers",
+          "topic_number": 4,
+          "unit_code": "CHEM_U25",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "unit_code": "CHEM_U26",
+      "chapter_name": "Biomolecules",
+      "chapter_slug": "biomolecules",
+      "subject": "Chemistry",
+      "chapter_number": 26,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 245,
+          "topic_code": "CHEM_U26_T01",
+          "topic_name": "Carbohydrates: Aldoses, Ketoses, Glucose, Fructose, Sucrose, Lactose",
+          "topic_number": 1,
+          "unit_code": "CHEM_U26",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 246,
+          "topic_code": "CHEM_U26_T02",
+          "topic_name": "Proteins: Amino Acids, Peptide Bond, Primary to Quaternary Structure",
+          "topic_number": 2,
+          "unit_code": "CHEM_U26",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 247,
+          "topic_code": "CHEM_U26_T03",
+          "topic_name": "Vitamins Classification & Functions; Hormones (General Introduction)",
+          "topic_number": 3,
+          "unit_code": "CHEM_U26",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 248,
+          "topic_code": "CHEM_U26_T04",
+          "topic_name": "Nucleic Acids: Chemical Constitution of DNA & RNA, Biological Functions",
+          "topic_number": 4,
+          "unit_code": "CHEM_U26",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "unit_code": "CHEM_U27",
+      "chapter_name": "Chemistry in Everyday Life",
+      "chapter_slug": "chemistry_in_everyday_life",
+      "subject": "Chemistry",
+      "chapter_number": 27,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 249,
+          "topic_code": "CHEM_U27_T01",
+          "topic_name": "Drugs & Medicines: Drug-Target Interaction, Analgesics, Tranquilizers & Antipyretics",
+          "topic_number": 1,
+          "unit_code": "CHEM_U27",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 250,
+          "topic_code": "CHEM_U27_T02",
+          "topic_name": "Antimicrobials: Antibiotics, Antiseptics, Disinfectants & Antifertility Drugs",
+          "topic_number": 2,
+          "unit_code": "CHEM_U27",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 251,
+          "topic_code": "CHEM_U27_T03",
+          "topic_name": "Chemicals in Food: Artificial Sweetening Agents & Food Preservatives",
+          "topic_number": 3,
+          "unit_code": "CHEM_U27",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 252,
+          "topic_code": "CHEM_U27_T04",
+          "topic_name": "Cleansing Agents: Soaps, Synthetic Detergents (Anionic, Cationic, Non-ionic)",
+          "topic_number": 4,
+          "unit_code": "CHEM_U27",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "unit_code": "CHEM_U28",
+      "chapter_name": "Principles Related to Practical Chemistry",
+      "chapter_slug": "principles_related_to_practical_chemistry",
+      "subject": "Chemistry",
+      "chapter_number": 28,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 253,
+          "topic_code": "CHEM_U28_T01",
+          "topic_name": "Detection of Extra Elements (N, S, Halogens) & Functional Groups",
+          "topic_number": 1,
+          "unit_code": "CHEM_U28",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 254,
+          "topic_code": "CHEM_U28_T02",
+          "topic_name": "Preparation: Mohr's Salt, Potash Alum, Acetanilide, Iodoform",
+          "topic_number": 2,
+          "unit_code": "CHEM_U28",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 255,
+          "topic_code": "CHEM_U28_T03",
+          "topic_name": "Titrimetric Exercises: Acids/Bases & KMnO4 vs Oxalic/Mohr's Salt",
+          "topic_number": 3,
+          "unit_code": "CHEM_U28",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 256,
+          "topic_code": "CHEM_U28_T04",
+          "topic_name": "Qualitative Salt Analysis (Cations/Anions) & Enthalpy/Sol Experiments JEE Mains Assessment Platform \u2014 Official Curriculum Hierarchy Page 7 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects \u2022 64 Units \u2022 256 Subtopics",
+          "topic_number": 4,
+          "unit_code": "CHEM_U28",
+          "subject": "Chemistry",
+          "eligible_question_count": 25
+        }
+      ]
+    }
+  ],
+  "Mathematics": [
+    {
+      "id": 71,
+      "unit_code": "MATH_U01",
+      "chapter_name": "Sets, Relations and Functions",
+      "chapter_slug": "sets_relations_and_functions",
+      "subject": "Mathematics",
+      "chapter_number": 1,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 1,
+          "topic_code": "MATH_U01_T01",
+          "topic_name": "Sets & Their Representations (Subsets, Power Set, Universal Set)",
+          "topic_number": 1,
+          "unit_code": "MATH_U01",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 2,
+          "topic_code": "MATH_U01_T02",
+          "topic_name": "Set Operations, Union, Intersection & Cartesian Product",
+          "topic_number": 2,
+          "unit_code": "MATH_U01",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 3,
+          "topic_code": "MATH_U01_T03",
+          "topic_name": "Relations, Types of Relations & Equivalence Relations",
+          "topic_number": 3,
+          "unit_code": "MATH_U01",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 4,
+          "topic_code": "MATH_U01_T04",
+          "topic_name": "Functions, Domain, Range & Types (One-One, Onto, Bijective)",
+          "topic_number": 4,
+          "unit_code": "MATH_U01",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "unit_code": "MATH_U02",
+      "chapter_name": "Complex Numbers and Quadratic Equations",
+      "chapter_slug": "complex_numbers_and_quadratic_equations",
+      "subject": "Mathematics",
+      "chapter_number": 2,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 5,
+          "topic_code": "MATH_U02_T01",
+          "topic_name": "Complex Numbers: Algebraic Properties, Modulus & Conjugate",
+          "topic_number": 1,
+          "unit_code": "MATH_U02",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 6,
+          "topic_code": "MATH_U02_T02",
+          "topic_name": "Argand Plane, Polar Representation & Triangle Inequality",
+          "topic_number": 2,
+          "unit_code": "MATH_U02",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 7,
+          "topic_code": "MATH_U02_T03",
+          "topic_name": "Quadratic Equations in Real/Complex Field & Relation between Roots",
+          "topic_number": 3,
+          "unit_code": "MATH_U02",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 8,
+          "topic_code": "MATH_U02_T04",
+          "topic_name": "Nature of Roots, Formation of Equations & Common Roots",
+          "topic_number": 4,
+          "unit_code": "MATH_U02",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "unit_code": "MATH_U03",
+      "chapter_name": "Matrices and Determinants",
+      "chapter_slug": "matrices_and_determinants",
+      "subject": "Mathematics",
+      "chapter_number": 3,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 9,
+          "topic_code": "MATH_U03_T01",
+          "topic_name": "Matrices: Types, Operations (Addition, Multiplication) & Transpose",
+          "topic_number": 1,
+          "unit_code": "MATH_U03",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 10,
+          "topic_code": "MATH_U03_T02",
+          "topic_name": "Symmetric, Skew-Symmetric, Orthogonal & Nilpotent Matrices",
+          "topic_number": 2,
+          "unit_code": "MATH_U03",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 11,
+          "topic_code": "MATH_U03_T03",
+          "topic_name": "Determinants: Minors, Cofactors, Properties & Area of Triangle",
+          "topic_number": 3,
+          "unit_code": "MATH_U03",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 12,
+          "topic_code": "MATH_U03_T04",
+          "topic_name": "Adjoint & Inverse of Matrices, System of Linear Equations (Cramer's / Matrix Method)",
+          "topic_number": 4,
+          "unit_code": "MATH_U03",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "unit_code": "MATH_U04",
+      "chapter_name": "Permutations and Combinations",
+      "chapter_slug": "permutations_and_combinations",
+      "subject": "Mathematics",
+      "chapter_number": 4,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 13,
+          "topic_code": "MATH_U04_T01",
+          "topic_name": "Fundamental Principle of Counting (Multiplication & Addition Rules)",
+          "topic_number": 1,
+          "unit_code": "MATH_U04",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 14,
+          "topic_code": "MATH_U04_T02",
+          "topic_name": "Permutations: Arrangements under Constraints & Repetitions",
+          "topic_number": 2,
+          "unit_code": "MATH_U04",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 15,
+          "topic_code": "MATH_U04_T03",
+          "topic_name": "Combinations: Selection, Division/Distribution of Objects & Geometry Problems",
+          "topic_number": 3,
+          "unit_code": "MATH_U04",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 16,
+          "topic_code": "MATH_U04_T04",
+          "topic_name": "Circular Permutations, Derangements & Exponent of Prime in n!",
+          "topic_number": 4,
+          "unit_code": "MATH_U04",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "unit_code": "MATH_U05",
+      "chapter_name": "Mathematical Induction and Binomial Theorem",
+      "chapter_slug": "mathematical_induction_and_binomial_theorem",
+      "subject": "Mathematics",
+      "chapter_number": 5,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 17,
+          "topic_code": "MATH_U05_T01",
+          "topic_name": "Principle of Mathematical Induction & Statements Analysis",
+          "topic_number": 1,
+          "unit_code": "MATH_U05",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 18,
+          "topic_code": "MATH_U05_T02",
+          "topic_name": "Binomial Theorem for Positive Integral Index & General/Middle Terms",
+          "topic_number": 2,
+          "unit_code": "MATH_U05",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 19,
+          "topic_code": "MATH_U05_T03",
+          "topic_name": "Properties & Summation of Binomial Coefficients",
+          "topic_number": 3,
+          "unit_code": "MATH_U05",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 20,
+          "topic_code": "MATH_U05_T04",
+          "topic_name": "Multinomial Theorem, Divisibility & Remainder Problems",
+          "topic_number": 4,
+          "unit_code": "MATH_U05",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "unit_code": "MATH_U06",
+      "chapter_name": "Sequences and Series",
+      "chapter_slug": "sequences_and_series",
+      "subject": "Mathematics",
+      "chapter_number": 6,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 21,
+          "topic_code": "MATH_U06_T01",
+          "topic_name": "Arithmetic Progression (AP): nth Term, Sum of n Terms & Means",
+          "topic_number": 1,
+          "unit_code": "MATH_U06",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 22,
+          "topic_code": "MATH_U06_T02",
+          "topic_name": "Geometric Progression (GP): General Term, Finite/Infinite Sum & GM",
+          "topic_number": 2,
+          "unit_code": "MATH_U06",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 23,
+          "topic_code": "MATH_U06_T03",
+          "topic_name": "Arithmetico-Geometric Progression (AGP) & Relation between AM and GM",
+          "topic_number": 3,
+          "unit_code": "MATH_U06",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 24,
+          "topic_code": "MATH_U06_T04",
+          "topic_name": "Special Series: Sum of First n Natural Numbers, Squares, Cubes & Telescoping",
+          "topic_number": 4,
+          "unit_code": "MATH_U06",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "unit_code": "MATH_U07",
+      "chapter_name": "Limit, Continuity and Differentiability",
+      "chapter_slug": "limit_continuity_and_differentiability",
+      "subject": "Mathematics",
+      "chapter_number": 7,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 25,
+          "topic_code": "MATH_U07_T01",
+          "topic_name": "Real-Valued Functions, Graphs & Evaluation of Limits",
+          "topic_number": 1,
+          "unit_code": "MATH_U07",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 26,
+          "topic_code": "MATH_U07_T02",
+          "topic_name": "Continuity of Functions & Classification of Discontinuities",
+          "topic_number": 2,
+          "unit_code": "MATH_U07",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 27,
+          "topic_code": "MATH_U07_T03",
+          "topic_name": "Differentiability & Derivatives of Elementary Functions",
+          "topic_number": 3,
+          "unit_code": "MATH_U07",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 28,
+          "topic_code": "MATH_U07_T04",
+          "topic_name": "Chain Rule, Implicit Differentiation, Parametric & Second Order Derivatives",
+          "topic_number": 4,
+          "unit_code": "MATH_U07",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "unit_code": "MATH_U08",
+      "chapter_name": "Integral Calculus",
+      "chapter_slug": "integral_calculus",
+      "subject": "Mathematics",
+      "chapter_number": 8,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 29,
+          "topic_code": "MATH_U08_T01",
+          "topic_name": "Indefinite Integrals: Standard Formulae & Substitution Method",
+          "topic_number": 1,
+          "unit_code": "MATH_U08",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 30,
+          "topic_code": "MATH_U08_T02",
+          "topic_name": "Integration by Parts & Partial Fractions",
+          "topic_number": 2,
+          "unit_code": "MATH_U08",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 31,
+          "topic_code": "MATH_U08_T03",
+          "topic_name": "Fundamental Theorem of Calculus & Properties of Definite Integrals",
+          "topic_number": 3,
+          "unit_code": "MATH_U08",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 32,
+          "topic_code": "MATH_U08_T04",
+          "topic_name": "Definite Integrals as Limit of a Sum, Periodic Integrals & Leibniz Rule",
+          "topic_number": 4,
+          "unit_code": "MATH_U08",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "unit_code": "MATH_U09",
+      "chapter_name": "Differential Equations",
+      "chapter_slug": "differential_equations",
+      "subject": "Mathematics",
+      "chapter_number": 9,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 33,
+          "topic_code": "MATH_U09_T01",
+          "topic_name": "Order, Degree & Formation of Ordinary Differential Equations",
+          "topic_number": 1,
+          "unit_code": "MATH_U09",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 34,
+          "topic_code": "MATH_U09_T02",
+          "topic_name": "Solutions of Variable Separable Differential Equations",
+          "topic_number": 2,
+          "unit_code": "MATH_U09",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 35,
+          "topic_code": "MATH_U09_T03",
+          "topic_name": "Homogeneous Differential Equations & Reducible Forms",
+          "topic_number": 3,
+          "unit_code": "MATH_U09",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 36,
+          "topic_code": "MATH_U09_T04",
+          "topic_name": "Linear Differential Equations of First Order (Integrating Factor) Page 1 of 7 Confidential & Authoritative Syllabus Architecture | 3 Subjects \u2022 64 Units \u2022 256 Subtopics",
+          "topic_number": 4,
+          "unit_code": "MATH_U09",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "unit_code": "MATH_U10",
+      "chapter_name": "Coordinate Geometry",
+      "chapter_slug": "coordinate_geometry",
+      "subject": "Mathematics",
+      "chapter_number": 10,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 37,
+          "topic_code": "MATH_U10_T01",
+          "topic_name": "Straight Lines: Distance, Section Formula, Slope, Intercepts & Pair of Lines",
+          "topic_number": 1,
+          "unit_code": "MATH_U10",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 38,
+          "topic_code": "MATH_U10_T02",
+          "topic_name": "Circles: Standard Equations, Tangents, Normals & Chord of Contact",
+          "topic_number": 2,
+          "unit_code": "MATH_U10",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 39,
+          "topic_code": "MATH_U10_T03",
+          "topic_name": "Parabola: Standard Forms, Focus, Directrix, Tangents & Normals",
+          "topic_number": 3,
+          "unit_code": "MATH_U10",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 40,
+          "topic_code": "MATH_U10_T04",
+          "topic_name": "Ellipse and Hyperbola: Eccentricity, Directrices, Tangents & Asymptotes",
+          "topic_number": 4,
+          "unit_code": "MATH_U10",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "unit_code": "MATH_U11",
+      "chapter_name": "Three Dimensional Geometry",
+      "chapter_slug": "three_dimensional_geometry",
+      "subject": "Mathematics",
+      "chapter_number": 11,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 41,
+          "topic_code": "MATH_U11_T01",
+          "topic_name": "Coordinates in 3D, Distance Formula, Direction Cosines & Ratios",
+          "topic_number": 1,
+          "unit_code": "MATH_U11",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 42,
+          "topic_code": "MATH_U11_T02",
+          "topic_name": "Equation of Straight Lines in 3D & Angle Between Two Lines",
+          "topic_number": 2,
+          "unit_code": "MATH_U11",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 43,
+          "topic_code": "MATH_U11_T03",
+          "topic_name": "Shortest Distance Between Skew Lines & Intersection of Lines",
+          "topic_number": 3,
+          "unit_code": "MATH_U11",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 44,
+          "topic_code": "MATH_U11_T04",
+          "topic_name": "Equations of Planes, Line-Plane Intersection & Coplanarity",
+          "topic_number": 4,
+          "unit_code": "MATH_U11",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "unit_code": "MATH_U12",
+      "chapter_name": "Vector Algebra",
+      "chapter_slug": "vector_algebra",
+      "subject": "Mathematics",
+      "chapter_number": 12,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 45,
+          "topic_code": "MATH_U12_T01",
+          "topic_name": "Vectors & Scalars, Types, Addition, Position Vector & Direction Cosines",
+          "topic_number": 1,
+          "unit_code": "MATH_U12",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 46,
+          "topic_code": "MATH_U12_T02",
+          "topic_name": "Dot Product (Scalar Product) & Projection of Vectors",
+          "topic_number": 2,
+          "unit_code": "MATH_U12",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 47,
+          "topic_code": "MATH_U12_T03",
+          "topic_name": "Cross Product (Vector Product) & Area of Triangle/Parallelogram",
+          "topic_number": 3,
+          "unit_code": "MATH_U12",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 48,
+          "topic_code": "MATH_U12_T04",
+          "topic_name": "Scalar Triple Product, Vector Triple Product & Coplanarity",
+          "topic_number": 4,
+          "unit_code": "MATH_U12",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "unit_code": "MATH_U13",
+      "chapter_name": "Statistics and Probability",
+      "chapter_slug": "statistics_and_probability",
+      "subject": "Mathematics",
+      "chapter_number": 13,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 49,
+          "topic_code": "MATH_U13_T01",
+          "topic_name": "Measures of Dispersion: Mean, Median, Mode & Mean Deviation",
+          "topic_number": 1,
+          "unit_code": "MATH_U13",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 50,
+          "topic_code": "MATH_U13_T02",
+          "topic_name": "Calculation of Standard Deviation & Variance (Grouped/Ungrouped)",
+          "topic_number": 2,
+          "unit_code": "MATH_U13",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 51,
+          "topic_code": "MATH_U13_T03",
+          "topic_name": "Probability of Events: Addition and Multiplication Theorems",
+          "topic_number": 3,
+          "unit_code": "MATH_U13",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 52,
+          "topic_code": "MATH_U13_T04",
+          "topic_name": "Baye's Theorem & Probability Distribution of a Random Variable",
+          "topic_number": 4,
+          "unit_code": "MATH_U13",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "unit_code": "MATH_U14",
+      "chapter_name": "Trigonometry",
+      "chapter_slug": "trigonometry",
+      "subject": "Mathematics",
+      "chapter_number": 14,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 53,
+          "topic_code": "MATH_U14_T01",
+          "topic_name": "Trigonometrical Identities & Trigonometrical Functions",
+          "topic_number": 1,
+          "unit_code": "MATH_U14",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 54,
+          "topic_code": "MATH_U14_T02",
+          "topic_name": "Trigonometrical Equations and General Solutions",
+          "topic_number": 2,
+          "unit_code": "MATH_U14",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 55,
+          "topic_code": "MATH_U14_T03",
+          "topic_name": "Inverse Trigonometrical Functions & Principal Values",
+          "topic_number": 3,
+          "unit_code": "MATH_U14",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 56,
+          "topic_code": "MATH_U14_T04",
+          "topic_name": "Properties of Inverse Trigonometrical Functions",
+          "topic_number": 4,
+          "unit_code": "MATH_U14",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "unit_code": "MATH_U15",
+      "chapter_name": "Mathematical Reasoning",
+      "chapter_slug": "mathematical_reasoning",
+      "subject": "Mathematics",
+      "chapter_number": 15,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 57,
+          "topic_code": "MATH_U15_T01",
+          "topic_name": "Statements, Logical Connectives (Conjunction, Disjunction, Negation) & Truth Tables",
+          "topic_number": 1,
+          "unit_code": "MATH_U15",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 58,
+          "topic_code": "MATH_U15_T02",
+          "topic_name": "Conditional & Biconditional Statements, Converse, Inverse & Contrapositive",
+          "topic_number": 2,
+          "unit_code": "MATH_U15",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 59,
+          "topic_code": "MATH_U15_T03",
+          "topic_name": "Tautology, Contradiction, Logical Equivalence & Duality",
+          "topic_number": 3,
+          "unit_code": "MATH_U15",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 60,
+          "topic_code": "MATH_U15_T04",
+          "topic_name": "Quantifiers, Negation of Compound Statements & Validity of Statements",
+          "topic_number": 4,
+          "unit_code": "MATH_U15",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "unit_code": "MATH_U16",
+      "chapter_name": "Applications of Derivatives",
+      "chapter_slug": "applications_of_derivatives",
+      "subject": "Mathematics",
+      "chapter_number": 16,
+      "total_topics": 4,
+      "eligible_question_count": 50,
+      "topics": [
+        {
+          "id": 61,
+          "topic_code": "MATH_U16_T01",
+          "topic_name": "Rate of Change of Quantities & Error Approximations",
+          "topic_number": 1,
+          "unit_code": "MATH_U16",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 62,
+          "topic_code": "MATH_U16_T02",
+          "topic_name": "Tangents, Normals & Angle of Intersection of Curves",
+          "topic_number": 2,
+          "unit_code": "MATH_U16",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 63,
+          "topic_code": "MATH_U16_T03",
+          "topic_name": "Increasing and Decreasing Functions (Monotonicity) & Rolle's / LMVT Theorems",
+          "topic_number": 3,
+          "unit_code": "MATH_U16",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        },
+        {
+          "id": 64,
+          "topic_code": "MATH_U16_T04",
+          "topic_name": "Maxima and Minima (Local & Absolute), Optimization & Curve Sketching",
+          "topic_number": 4,
+          "unit_code": "MATH_U16",
+          "subject": "Mathematics",
+          "eligible_question_count": 25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+code,level,name,description,example_stems,action
+CHE.U20,unit,PRINCIPLES RELATED TO PRACTICAL CHEMISTRY,,,keep
+CHE.U20.T01,topic,"Detection of extra elements (Nitrogen, sulphur, halogens) in",,,keep
+CHE.U20.T02,topic,"Organic compounds: Acetanilide, p-nitro acetanilide, aniline yellow, iodoform.",,,keep
+CHE.U20.T03,topic,Chemical principles involved in the following experiments: 1,,,keep
+CHE.U20.T04,topic,Enthalpy of solution of CuSO4 2,,,keep
+CHE.U20.T05,topic,Enthalpy of neutralization of strong acid and strong,,,keep
+CHE.U20.T06,topic,Preparation of lyophilic and lyophobic sols. 4,,,keep
+CHE.U20.T07,topic,Kinetic study of the reaction of iodide ions,,,keep

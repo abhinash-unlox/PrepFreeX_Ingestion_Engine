@@ -1,0 +1,460 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PrepFreeX Question Import Bundle",
+  "type": "object",
+  "required": [
+    "source_document",
+    "questions"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "source_document": {
+      "type": "object",
+      "required": [
+        "file",
+        "title",
+        "license_status"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "file": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "publisher": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "exam": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "exam_year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "license_status": {
+          "type": "string",
+          "enum": [
+            "unverified",
+            "cleared",
+            "restricted"
+          ]
+        }
+      }
+    },
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "source_q_label",
+          "source_question_key",
+          "subject",
+          "question_type",
+          "stem_md",
+          "has_figure",
+          "figure_status",
+          "status",
+          "tags"
+        ],
+        "additionalProperties": true,
+        "properties": {
+          "source_q_label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_question_key": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_part": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_section": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_local_number": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "source_global_number": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "source_page_start": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "source_page_end": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "subject": {
+            "type": "string",
+            "enum": [
+              "mathematics",
+              "physics",
+              "chemistry"
+            ]
+          },
+          "unit_code": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "question_type": {
+            "type": "string",
+            "enum": [
+              "mcq_single",
+              "mcq_multi",
+              "numerical",
+              "assertion_reason",
+              "statement_based",
+              "match_list"
+            ]
+          },
+          "language": {
+            "type": "string"
+          },
+          "stem_md": {
+            "type": "string",
+            "minLength": 1
+          },
+          "stem_plain": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "position",
+                "text_md"
+              ],
+              "properties": {
+                "position": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "label_printed": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "text_md": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "answer": {
+            "type": [
+              "object",
+              "null"
+            ]
+          },
+          "source_explanation_md": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "explanation_md": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "explanation_source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "source",
+              "ai",
+              "human",
+              null
+            ]
+          },
+          "answer_key_verified": {
+            "type": "boolean"
+          },
+          "explanation_verified": {
+            "type": "boolean"
+          },
+          "difficulty": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1,
+            "maximum": 5
+          },
+          "difficulty_source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "source",
+              "ai_estimated",
+              "empirical",
+              null
+            ]
+          },
+          "cognitive_level": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "recall",
+              "understand",
+              "apply",
+              "analyze",
+              null
+            ]
+          },
+          "estimated_time_sec": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "has_figure": {
+            "type": "boolean"
+          },
+          "figure_status": {
+            "type": "string",
+            "enum": [
+              "none",
+              "pending",
+              "attached"
+            ]
+          },
+          "figure_description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "figure_source_page": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "draft",
+              "needs_review",
+              "verified",
+              "rejected",
+              "retired"
+            ]
+          },
+          "origin": {
+            "type": "string",
+            "enum": [
+              "pyq",
+              "coaching",
+              "ai_generated",
+              "original"
+            ]
+          },
+          "exam_name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "exam_year": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "exam_date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "exam_shift": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "formulas_used": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "common_mistakes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_publisher": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "code",
+                "is_primary",
+                "source"
+              ],
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "is_primary": {
+                  "type": "boolean"
+                },
+                "source": {
+                  "type": "string",
+                  "enum": [
+                    "human",
+                    "llm",
+                    "rule"
+                  ]
+                },
+                "confidence": {
+                  "type": [
+                    "number",
+                    "null"
+                  ],
+                  "minimum": 0,
+                  "maximum": 1
+                }
+              }
+            }
+          },
+          "classification_confidence": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 1
+          },
+          "classification_status": {
+            "type": "string",
+            "enum": [
+              "classified",
+              "needs_review",
+              "unclassified"
+            ]
+          },
+          "extraction_method": {
+            "type": "string"
+          },
+          "extraction_confidence": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 1
+          },
+          "flags": {
+            "type": "object"
+          },
+          "raw_extraction_text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "match_items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "side",
+                "item_key",
+                "position",
+                "text_md"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "side": {
+                  "type": "string",
+                  "enum": [
+                    "left",
+                    "right"
+                  ]
+                },
+                "item_key": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "position": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "text_md": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+code,level,name,description,example_stems,action
+PHY.U20,unit,Experimental Skills,,,keep
+PHY.U20.T01,topic,Familiarity with the basic approach and observations of,,,keep
+PHY.U20.T02,topic,Vernier calipers -its use to measure the internal,,,keep
+PHY.U20.T03,topic,Screw gauge-its use to determine the thickness/ diameter,,,keep
+PHY.U20.T04,topic,Simple pendulum-dissipation of energy by plotting a graph,,,keep
+PHY.U20.T05,topic,Metre scale - the mass of a given,,,keep
+PHY.U20.T06,topic,Young's modulus of elasticity of the material of,,,keep
+PHY.U20.T07,topic,Surface tension of water by capillary rise and,,,keep
+PHY.U20.T08,topic,Co-efficient of viscosity of a given viscous liquid,,,keep
+PHY.U20.T09,topic,Speed of sound in air at room temperature,,,keep
+PHY.U20.T10,topic,Specific heat capacity of a given (i) solid,,,keep

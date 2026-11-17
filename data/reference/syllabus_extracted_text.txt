@@ -1,0 +1,516 @@
+--- PAGE 1 ---
+JEE Mains Curriculum & Concept Structure
+Official Hierarchy of Chapters and Micro-Subtopics Drill Modules across Mathematics, Physics, and Chemistry
+MATHEMATICS (16 Units)
+MATH_U01
+Chapter 1:
+Sets, Relations and Functions
+1. Sets & Their Representations (Subsets, Power Set, Universal Set)
+2. Set Operations, Union, Intersection & Cartesian Product
+3. Relations, Types of Relations & Equivalence Relations
+4. Functions, Domain, Range & Types (One-One, Onto, Bijective)
+MATH_U02
+Chapter 2:
+Complex Numbers and
+Quadratic Equations
+1. Complex Numbers: Algebraic Properties, Modulus & Conjugate
+2. Argand Plane, Polar Representation & Triangle Inequality
+3. Quadratic Equations in Real/Complex Field & Relation between Roots
+4. Nature of Roots, Formation of Equations & Common Roots
+MATH_U03
+Chapter 3:
+Matrices and Determinants
+1. Matrices: Types, Operations (Addition, Multiplication) & Transpose
+2. Symmetric, Skew-Symmetric, Orthogonal & Nilpotent Matrices
+3. Determinants: Minors, Cofactors, Properties & Area of Triangle
+4. Adjoint & Inverse of Matrices, System of Linear Equations (Cramer's / Matrix Method)
+MATH_U04
+Chapter 4:
+Permutations and
+Combinations
+1. Fundamental Principle of Counting (Multiplication & Addition Rules)
+2. Permutations: Arrangements under Constraints & Repetitions
+3. Combinations: Selection, Division/Distribution of Objects & Geometry Problems
+4. Circular Permutations, Derangements & Exponent of Prime in n!
+MATH_U05
+Chapter 5:
+Mathematical Induction and
+Binomial Theorem
+1. Principle of Mathematical Induction & Statements Analysis
+2. Binomial Theorem for Positive Integral Index & General/Middle Terms
+3. Properties & Summation of Binomial Coefficients
+4. Multinomial Theorem, Divisibility & Remainder Problems
+MATH_U06
+Chapter 6:
+Sequences and Series
+1. Arithmetic Progression (AP): nth Term, Sum of n Terms & Means
+2. Geometric Progression (GP): General Term, Finite/Infinite Sum & GM
+3. Arithmetico-Geometric Progression (AGP) & Relation between AM and GM
+4. Special Series: Sum of First n Natural Numbers, Squares, Cubes & Telescoping
+MATH_U07
+Chapter 7:
+Limit, Continuity and
+Differentiability
+1. Real-Valued Functions, Graphs & Evaluation of Limits
+2. Continuity of Functions & Classification of Discontinuities
+3. Differentiability & Derivatives of Elementary Functions
+4. Chain Rule, Implicit Differentiation, Parametric & Second Order Derivatives
+MATH_U08
+Chapter 8:
+Integral Calculus
+1. Indefinite Integrals: Standard Formulae & Substitution Method
+2. Integration by Parts & Partial Fractions
+3. Fundamental Theorem of Calculus & Properties of Definite Integrals
+4. Definite Integrals as Limit of a Sum, Periodic Integrals & Leibniz Rule
+MATH_U09
+Chapter 9:
+Differential Equations
+1. Order, Degree & Formation of Ordinary Differential Equations
+2. Solutions of Variable Separable Differential Equations
+3. Homogeneous Differential Equations & Reducible Forms
+4. Linear Differential Equations of First Order (Integrating Factor)
+Page 1 of 7
+Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics
+
+
+--- PAGE 2 ---
+MATH_U10
+Chapter 10:
+Coordinate Geometry
+1. Straight Lines: Distance, Section Formula, Slope, Intercepts & Pair of Lines
+2. Circles: Standard Equations, Tangents, Normals & Chord of Contact
+3. Parabola: Standard Forms, Focus, Directrix, Tangents & Normals
+4. Ellipse and Hyperbola: Eccentricity, Directrices, Tangents & Asymptotes
+MATH_U11
+Chapter 11:
+Three Dimensional Geometry
+1. Coordinates in 3D, Distance Formula, Direction Cosines & Ratios
+2. Equation of Straight Lines in 3D & Angle Between Two Lines
+3. Shortest Distance Between Skew Lines & Intersection of Lines
+4. Equations of Planes, Line-Plane Intersection & Coplanarity
+MATH_U12
+Chapter 12:
+Vector Algebra
+1. Vectors & Scalars, Types, Addition, Position Vector & Direction Cosines
+2. Dot Product (Scalar Product) & Projection of Vectors
+3. Cross Product (Vector Product) & Area of Triangle/Parallelogram
+4. Scalar Triple Product, Vector Triple Product & Coplanarity
+MATH_U13
+Chapter 13:
+Statistics and Probability
+1. Measures of Dispersion: Mean, Median, Mode & Mean Deviation
+2. Calculation of Standard Deviation & Variance (Grouped/Ungrouped)
+3. Probability of Events: Addition and Multiplication Theorems
+4. Baye's Theorem & Probability Distribution of a Random Variable
+MATH_U14
+Chapter 14:
+Trigonometry
+1. Trigonometrical Identities & Trigonometrical Functions
+2. Trigonometrical Equations and General Solutions
+3. Inverse Trigonometrical Functions & Principal Values
+4. Properties of Inverse Trigonometrical Functions
+MATH_U15
+Chapter 15:
+Mathematical Reasoning
+1. Statements, Logical Connectives (Conjunction, Disjunction, Negation) & Truth Tables
+2. Conditional & Biconditional Statements, Converse, Inverse & Contrapositive
+3. Tautology, Contradiction, Logical Equivalence & Duality
+4. Quantifiers, Negation of Compound Statements & Validity of Statements
+MATH_U16
+Chapter 16:
+Applications of Derivatives
+1. Rate of Change of Quantities & Error Approximations
+2. Tangents, Normals & Angle of Intersection of Curves
+3. Increasing and Decreasing Functions (Monotonicity) & Rolle's / LMVT Theorems
+4. Maxima and Minima (Local & Absolute), Optimization & Curve Sketching
+PHYSICS (20 Units)
+PHYS_U01
+Chapter 1:
+Physics and Measurement
+1. SI Units, Fundamental and Derived Units
+2. Errors in Measurement, Significant Figures & Vernier/Screw Gauge
+3. Dimensions of Physical Quantities & Principle of Homogeneity
+4. Dimensional Analysis and its Applications
+PHYS_U02
+Chapter 2:
+Kinematics
+1. Frame of Reference, Motion in Straight Line, Speed & Velocity
+2. Uniformly Accelerated Motion, Velocity-Time & Position-Time Graphs
+3. Relative Velocity in One and Two Dimensions
+4. Projectile Motion (Trajectory, Time of Flight, Range, Max Height)
+PHYS_U03
+Chapter 3:
+Laws of Motion
+1. Newton's First and Second Laws of Motion & Momentum
+2. Newton's Third Law, Impulse & Conservation of Linear Momentum
+3. Law of Friction, Static and Kinetic Friction, Angle of Repose
+4. Uniform Circular Motion, Centripetal Acceleration & Banking of Roads
+JEE Mains Assessment Platform — Official Curriculum Hierarchy
+Page 2 of 7
+Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics
+
+
+--- PAGE 3 ---
+PHYS_U04
+Chapter 4:
+Work, Energy and Power
+1. Work Done by Constant and Variable Forces
+2. Kinetic Energy, Work-Energy Theorem & Power
+3. Potential Energy, Conservation of Mechanical Energy & Spring Force
+4. Elastic and Inelastic Collisions in One and Two Dimensions
+PHYS_U05
+Chapter 5:
+Rotational Motion
+1. Center of Mass of Two-Particle System and Rigid Body
+2. Moment of Inertia, Radius of Gyration, Parallel & Perpendicular Axes Theorems
+3. Torque, Angular Momentum & Conservation of Angular Momentum
+4. Kinematics & Dynamics of Rotational Motion, Rolling Motion without Slipping
+PHYS_U06
+Chapter 6:
+Gravitation
+1. Universal Law of Gravitation & Acceleration due to Gravity (g)
+2. Variation of g with Altitude, Depth and Rotation of Earth
+3. Gravitational Potential Energy & Gravitational Potential
+4. Escape Velocity, Orbital Velocity of Satellites & Kepler's Laws
+PHYS_U07
+Chapter 7:
+Properties of Solids and
+Liquids
+1. Elastic Behavior, Stress-Strain Relationship, Hooke's Law & Modulii
+2. Pressure, Pascal's Law, Archimedes' Principle & Buoyancy
+3. Viscosity, Stokes' Law, Terminal Velocity, Streamline Flow & Bernoulli's
+4. Surface Tension, Surface Energy, Angle of Contact & Capillary Rise
+PHYS_U08
+Chapter 8:
+Thermodynamics
+1. Thermal Equilibrium, Zeroth Law of Thermodynamics & Concept of Temperature
+2. First Law of Thermodynamics, Internal Energy, Work & Heat
+3. Isothermal, Adiabatic, Isobaric & Isochoric Processes
+4. Second Law of Thermodynamics, Reversible/Irreversible & Carnot Engine
+PHYS_U09
+Chapter 9:
+Kinetic Theory of Gases
+1. Equation of State of a Perfect Gas & Work Done on Compressing a Gas
+2. Kinetic Theory of Gases: Assumptions, Concept of Pressure
+3. Kinetic Energy and Temperature, RMS Speed of Gas Molecules
+4. Degrees of Freedom, Law of Equipartition of Energy & Specific Heats
+PHYS_U10
+Chapter 10:
+Oscillations and Waves
+1. Periodic and Oscillatory Motions, Simple Harmonic Motion (SHM)
+2. Energy in SHM (Kinetic and Potential), Simple Pendulum
+3. Wave Motion, Longitudinal and Transverse Waves, Speed of Wave
+4. Superposition of Waves, Standing Waves in Strings/Pipes & Beats
+PHYS_U11
+Chapter 11:
+Electrostatics
+1. Electric Charges, Conservation of Charge, Coulomb's Law
+2. Electric Field, Electric Field Lines & Electric Dipole
+3. Gauss's Law and its Applications (Wire, Sheet, Spherical Shell)
+4. Electric Potential, Equipotential Surfaces & Capacitors (Series/Parallel)
+PHYS_U12
+Chapter 12:
+Current Electricity
+1. Electric Current, Drift Velocity, Mobility & Ohm's Law
+2. Electrical Resistance, V-I Characteristics, Resistivity & Temperature Dependence
+3. Internal Resistance of a Cell, Potential Difference, EMF & Combinations of Cells
+4. Kirchhoff's Laws, Wheatstone Bridge & Meter Bridge
+PHYS_U13
+Chapter 13:
+Magnetic Effects of Current
+and Magnetism
+1. Biot-Savart Law & Ampere's Law Applications (Loop, Wire, Solenoid)
+2. Force on a Moving Charge in Magnetic Field & Lorentz Force
+3. Force on Current-Carrying Conductor & Torque on Current Loop (Galvanometer)
+4. Magnetic Dipole, Earth's Magnetic Field & Dia/Para/Ferromagnetic Substances
+JEE Mains Assessment Platform — Official Curriculum Hierarchy
+Page 3 of 7
+Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics
+
+
+--- PAGE 4 ---
+PHYS_U14
+Chapter 14:
+Electromagnetic Induction and
+Alternating Currents
+1. Electromagnetic Induction: Faraday's Law & Lenz's Law
+2. Motional EMF, Eddy Currents, Self & Mutual Inductance
+3. Alternating Currents: Peak & RMS Values, Reactance & Impedance
+4. LCR Series Circuit, Resonance, Quality Factor & Transformers
+PHYS_U15
+Chapter 15:
+Electromagnetic Waves
+1. Displacement Current & Maxwell's Equations (Qualitative)
+2. Electromagnetic Waves: Characteristics, Transverse Nature & Speed
+3. Electromagnetic Spectrum: Radiowaves, Microwaves, Infrared, Visible
+4. Ultraviolet, X-Rays, Gamma Rays & Their Applications
+PHYS_U16
+Chapter 16:
+Optics
+1. Reflection of Light, Spherical Mirrors, Mirror Formula & Magnification
+2. Refraction of Light, Total Internal Reflection & Lenses (Lens Maker's Formula)
+3. Prism: Deviation and Dispersion; Optical Instruments (Microscope, Telescope)
+4. Wave Optics: Huygens' Principle, Interference (YDSE) & Diffraction
+PHYS_U17
+Chapter 17:
+Dual Nature of Matter and
+Radiation
+1. Photoelectric Effect, Hertz and Lenard's Observations & Einstein's Equation
+2. Photons: Characteristics, Radiation Pressure & Threshold Frequency
+3. Matter Waves: Wave-Particle Duality & de Broglie Wavelength
+4. Davisson-Germer Experiment (Experimental Verification of Matter Waves)
+PHYS_U18
+Chapter 18:
+Atoms and Nuclei
+1. Alpha-Particle Scattering Experiment & Rutherford's Atomic Model
+2. Bohr's Model: Energy Levels, Radii, Velocities & Hydrogen Spectrum
+3. Composition and Size of Nucleus, Mass-Energy Relation & Mass Defect
+4. Nuclear Fission, Nuclear Fusion & Radioactivity (Alpha, Beta, Gamma Decay)
+PHYS_U19
+Chapter 19:
+Electronic Devices
+1. Semiconductors: Intrinsic and Extrinsic (n-type and p-type)
+2. Semiconductor Diode: I-V Characteristics in Forward and Reverse Bias
+3. Diode as a Rectifier (Half-Wave, Full-Wave) & Zener Diode Regulation
+4. Optoelectronic Junction Devices: LED, Photodiode, Solar Cell & Logic Gates
+PHYS_U20
+Chapter 20:
+Communication Systems
+1. Vernier Calipers & Screw Gauge Precision Measurements
+2. Simple Pendulum, Young's Modulus & Surface Tension Measurement
+3. Meter Bridge, Ohm's Law & Galvanometer Conversion into Voltmeter/Ammeter
+4. Focal Length of Mirrors/Lenses & Speed of Sound by Resonance Tube
+CHEMISTRY (28 Units)
+CHEM_U01
+Chapter 1:
+Some Basic Concepts in
+Chemistry
+1. Matter, Dalton's Atomic Theory & Laws of Chemical Combination
+2. Atomic and Molecular Masses, Mole Concept & Percentage Composition
+3. Empirical and Molecular Formulae Calculations
+4. Chemical Equations, Stoichiometry & Limiting Reagent
+CHEM_U02
+Chapter 2:
+States of Matter
+1. Gas Laws: Boyle's Law, Charles's Law, Gay-Lussac's Law & Avogadro's Law
+2. Ideal Gas Equation, Dalton's Law of Partial Pressures & Graham's Law
+3. Kinetic Molecular Theory of Gases & Maxwell-Boltzmann Distribution of Speeds
+4. Real Gases: Deviation from Ideal Behavior, van der Waals Equation & Liquefaction
+CHEM_U03
+Chapter 3:
+Atomic Structure
+1. EM Radiation, Photoelectric Effect & Bohr Model of Hydrogen Atom
+2. Dual Nature of Matter, de Broglie Relation & Heisenberg Uncertainty
+3. Quantum Numbers (n, l, m, s), Shapes of s, p, d Orbitals
+4. Aufbau Principle, Pauli Exclusion, Hund's Rule & Stability of Orbitals
+JEE Mains Assessment Platform — Official Curriculum Hierarchy
+Page 4 of 7
+Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics
+
+
+--- PAGE 5 ---
+CHEM_U04
+Chapter 4:
+Chemical Bonding and
+Molecular Structure
+1. Kossel-Lewis Approach, Ionic Bonding & Lattice Enthalpy
+2. Covalent Bonding, Electronegativity, Fajan's Rule & Dipole Moment
+3. VSEPR Theory, Shapes of Molecules & Hybridization (s, p, d)
+4. Molecular Orbital Theory (MOT), Bond Order & Hydrogen Bonding
+CHEM_U05
+Chapter 5:
+Chemical Thermodynamics
+1. System and Surroundings, State Functions & Types of Processes
+2. First Law of Thermodynamics, Heat Capacity & Enthalpies of Reactions
+3. Hess's Law of Constant Heat Summation & Bond Enthalpies
+4. Second Law of Thermodynamics, Spontaneity, ∆S, ∆G & ∆G° with K
+CHEM_U06
+Chapter 6:
+Solutions
+1. Methods of Expressing Concentration (Molality, Molarity, Mole Fraction)
+2. Vapour Pressure of Solutions & Raoult's Law (Ideal/Non-Ideal)
+3. Colligative Properties: Lowering of Vapour Pressure, Boiling/Freezing
+4. Osmotic Pressure, Abnormal Molecular Mass & van 't Hoff Factor
+CHEM_U07
+Chapter 7:
+Equilibrium
+1. Physical Equilibrium (Solid-Liquid, Liquid-Gas) & Henry's Law
+2. Chemical Equilibrium, Kp, Kc, ∆G° Relationship & Le Chatelier's Principle
+3. Ionic Equilibrium: Weak/Strong Electrolytes, pH Scale & Ionization
+4. Common Ion Effect, Salt Hydrolysis, Buffer Solutions & Ksp
+CHEM_U08
+Chapter 8:
+Redox Reactions and
+Electrochemistry
+1. Redox Reactions, Oxidation Numbers & Balancing Equations
+2. Electrolytic & Metallic Conduction, Molar Conductivity & Kohlrausch's Law
+3. Electrochemical Cells, Electrode Potential, EMF & Nernst Equation
+4. Cell Potential & Gibbs Energy Change, Dry Cells, Batteries & Fuel Cells
+CHEM_U09
+Chapter 9:
+Chemical Kinetics
+1. Rate of Reaction, Factors Affecting Rate & Order and Molecularity
+2. Rate Law, Rate Constant & Zero/First-Order Integrated Equations
+3. Half-Life of Reactions & Characteristic Graphs
+4. Temperature Dependence, Arrhenius Theory, Activation Energy & Collision Theory
+CHEM_U10
+Chapter 10:
+Surface Chemistry
+1. Adsorption: Physisorption, Chemisorption & Factors Affecting Adsorption
+2. Freundlich & Langmuir Adsorption Isotherms, Adsorption from Solutions
+3. Catalysis: Homogeneous, Heterogeneous, Enzyme Catalysis & Shape-Selective Catalysts
+4. Colloids: Lyophilic/Lyophobic, Micelles, Coagulation (Hardy-Schulze Rule) & Emulsions
+CHEM_U11
+Chapter 11:
+Classification of Elements and
+Periodicity
+1. Modern Periodic Law, Present Form of Periodic Table & s,p,d,f Blocks
+2. Periodic Trends in Atomic Radii and Ionic Radii
+3. Ionization Enthalpy & Electron Gain Enthalpy Trends
+4. Valence, Oxidation States and Trends in Chemical Reactivity
+CHEM_U12
+Chapter 12:
+General Principles and
+Processes of Isolation of
+Metals
+1. Concentration of Ores: Gravity Separation, Magnetic Separation & Froth Floatation
+2. Extraction of Crude Metal: Calcination, Roasting & Thermodynamics (Ellingham Diagram)
+3. Electrochemical Principles of Metallurgy & Refining of Crude Metals
+4. Commercial Extraction of Aluminium, Copper, Zinc & Iron
+CHEM_U13
+Chapter 13:
+Hydrogen
+1. Position of Hydrogen, Isotopes, Preparation & Properties of Dihydrogen
+2. Hydrides: Ionic, Covalent and Interstitial Hydrides
+3. Water: Structure, Physical & Chemical Properties, Temporary & Permanent Hardness
+4. Hydrogen Peroxide (H2O2): Preparation, Structure, Properties, Volume Strength & Heavy
+Water
+JEE Mains Assessment Platform — Official Curriculum Hierarchy
+Page 5 of 7
+Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics
+
+
+--- PAGE 6 ---
+CHEM_U14
+Chapter 14:
+s-Block Elements
+1. Group 1 (Alkali Metals): Electronic Config, Atomic/Ionic Radii, Ionization & Hydration
+2. Chemical Reactivity of Alkali Metals & Important Compounds (Na2CO3, NaCl, NaOH,
+NaHCO3)
+3. Group 2 (Alkaline Earth Metals): Electronic Config, Radii, Ionization & Anomalous Be
+4. Compounds of Alkaline Earth Metals (CaO, CaCO3, Plaster of Paris, Cement) & Biological
+Importance
+CHEM_U15
+Chapter 15:
+p-Block Elements
+1. Group 13 Elements (Boron Family): Trends, Diborane, Boric Acid & Borax
+2. Group 14 Elements (Carbon Family): Allotropes, Oxides, Silicates & Silicones
+3. Group 15 & 16 Elements (N & O Families): Properties, Hydrides, Oxides & Oxoacids
+4. Group 17 & 18 Elements (Halogens, Interhalogens, Noble Gas Compounds)
+CHEM_U16
+Chapter 16:
+d and f Block Elements
+1. Transition Elements: Electronic Configuration, Occurrence & Characteristics
+2. General Trends in 3d Series: Radii, Ionization, Oxidation States & Color
+3. Magnetic Properties, Catalysis, Interstitial Alloys & K2Cr2O7/KMnO4
+4. Inner Transition Elements: Lanthanoids & Actinoids Contraction
+CHEM_U17
+Chapter 17:
+Coordination Compounds
+1. Werner's Theory, Ligands, Coordination Number & IUPAC Nomenclature
+2. Isomerism in Coordination Compounds (Structural & Stereoisomerism)
+3. Bonding: Valence Bond Theory & Crystal Field Theory (CFT)
+4. Color, Magnetic Properties & Applications in Qualitative Analysis
+CHEM_U18
+Chapter 18:
+Environmental Chemistry
+1. Atmospheric Pollution: Tropospheric Pollution, Gaseous Pollutants & Acid Rain
+2. Particulate Pollutants, Smog (Classical & Photochemical Smog) & Ozone Depletion
+3. Water Pollution: Causes, BOD, DO & International Standards for Drinking Water
+4. Soil Pollution, Industrial Waste Management & Principles of Green Chemistry
+CHEM_U19
+Chapter 19:
+Purification and
+Characterisation of Organic
+Compounds
+1. Purification: Crystallization, Sublimation, Distillation & Chromatography
+2. Qualitative Analysis: Detection of N, S, P and Halogens
+3. Quantitative Analysis: Estimation of C, H, N, Halogens, S and P
+4. Calculations of Empirical & Molecular Formulae and Numerical Problems
+CHEM_U20
+Chapter 20:
+Some Basic Principles of
+Organic Chemistry
+1. Tetravalency of Carbon, Shapes of Molecules & Hybridization
+2. Classification, Homologous Series & Nomenclature (Trivial & IUPAC)
+3. Covalent Bond Fission, Free Radicals, Carbocations & Carbanions
+4. Electronic Displacement: Inductive, Electromeric, Resonance & Hyperconjugation
+CHEM_U21
+Chapter 21:
+Hydrocarbons
+1. Alkanes: Conformations (Sawhorse, Newman) & Halogenation Mechanism
+2. Alkenes: Geometrical Isomerism, Electrophilic Addition & Ozonolysis
+3. Alkynes: Acidic Character, Addition of Hydrogen/Halogens & Polymerization
+4. Aromatic Hydrocarbons: Benzene, Aromaticity, Electrophilic Substitution & Friedel-Crafts
+CHEM_U22
+Chapter 22:
+Organic Compounds
+Containing Halogens
+1. Haloalkanes & Haloarenes: Preparation, Properties & Nature of C-X Bond
+2. Mechanisms of Nucleophilic Substitution (SN1 and SN2 Reactions)
+3. Elimination Reactions & Reactions of Haloarenes
+4. Polyhalogen Compounds: Chloroform, Iodoform, Freons & DDT
+CHEM_U23
+Chapter 23:
+Organic Compounds
+Containing Oxygen
+1. Alcohols: Identification of 1°, 2°, 3° Alcohols & Dehydration Mechanism
+2. Phenols: Acidity, Electrophilic Substitution & Reimer-Tiemann Reaction
+3. Ethers: Structure & Properties; Aldehydes/Ketones: Nucleophilic Addition
+4. Aldol, Cannizzaro, Clemmensen, Haloform & Carboxylic Acids Acidity
+JEE Mains Assessment Platform — Official Curriculum Hierarchy
+Page 6 of 7
+Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics
+
+
+--- PAGE 7 ---
+CHEM_U24
+Chapter 24:
+Organic Compounds
+Containing Nitrogen
+1. Amines: Nomenclature, Classification & Structure
+2. Basic Character of Amines & Identification of 1°, 2°, 3° Amines
+3. Diazonium Salts: Preparation & Properties
+4. Importance of Diazonium Salts in Synthetic Organic Chemistry
+CHEM_U25
+Chapter 25:
+Polymers
+1. Classification of Polymers: Source, Structure, Molecular Forces & Polymerization
+2. Types of Polymerization: Addition (Free Radical, Cationic/Anionic) & Condensation
+3. Important Commercial Polymers: Polyethylene, Nylon, Bakelite, Dacron, Buna-S, Neoprene
+4. Biodegradable Polymers (PHBV, Nylon-2-Nylon-6) & Molecular Mass of Polymers
+CHEM_U26
+Chapter 26:
+Biomolecules
+1. Carbohydrates: Aldoses, Ketoses, Glucose, Fructose, Sucrose, Lactose
+2. Proteins: Amino Acids, Peptide Bond, Primary to Quaternary Structure
+3. Vitamins Classification & Functions; Hormones (General Introduction)
+4. Nucleic Acids: Chemical Constitution of DNA & RNA, Biological Functions
+CHEM_U27
+Chapter 27:
+Chemistry in Everyday Life
+1. Drugs & Medicines: Drug-Target Interaction, Analgesics, Tranquilizers & Antipyretics
+2. Antimicrobials: Antibiotics, Antiseptics, Disinfectants & Antifertility Drugs
+3. Chemicals in Food: Artificial Sweetening Agents & Food Preservatives
+4. Cleansing Agents: Soaps, Synthetic Detergents (Anionic, Cationic, Non-ionic)
+CHEM_U28
+Chapter 28:
+Principles Related to Practical
+Chemistry
+1. Detection of Extra Elements (N, S, Halogens) & Functional Groups
+2. Preparation: Mohr's Salt, Potash Alum, Acetanilide, Iodoform
+3. Titrimetric Exercises: Acids/Bases & KMnO4 vs Oxalic/Mohr's Salt
+4. Qualitative Salt Analysis (Cations/Anions) & Enthalpy/Sol Experiments
+JEE Mains Assessment Platform — Official Curriculum Hierarchy
+Page 7 of 7
+Confidential & Authoritative Syllabus Architecture | 3 Subjects • 64 Units • 256 Subtopics

@@ -1,0 +1,75 @@
+{
+  "description": "Gold tags for evaluation: MathonGo (exact subtopic level) and ALLEN Part Test 1 (unit level).",
+  "mathongo": [
+    {
+      "key": "Q1",
+      "expected_unit": "PHY.U14",
+      "expected_topic": "PHY.U14.T04",
+      "expected_subtopic": "PHY.U14.T04.S02",
+      "secondary": []
+    },
+    {
+      "key": "Q2",
+      "expected_unit": "PHY.U14",
+      "expected_topic": "PHY.U14.T05",
+      "expected_subtopic": "PHY.U14.T05.S01",
+      "secondary": []
+    },
+    {
+      "key": "Q3",
+      "expected_unit": "PHY.U14",
+      "expected_topic": "PHY.U14.T03",
+      "expected_subtopic": "PHY.U14.T03.S01",
+      "secondary": []
+    },
+    {
+      "key": "Q4",
+      "expected_unit": "PHY.U14",
+      "expected_topic": "PHY.U14.T02",
+      "expected_subtopic": "PHY.U14.T02.S01",
+      "secondary": []
+    },
+    {
+      "key": "Q5",
+      "expected_unit": "PHY.U14",
+      "expected_topic": "PHY.U14.T06",
+      "expected_subtopic": "PHY.U14.T06.S01",
+      "secondary": ["PHY.U14.T04.S01"]
+    }
+  ],
+  "allen": [
+    {"global_number": 1, "expected_unit": "MAT.U03"},
+    {"global_number": 3, "expected_unit": "MAT.U03"},
+    {"global_number": 20, "expected_unit": "MAT.U03"},
+    {"global_number": 5, "expected_unit": "MAT.U01"},
+    {"global_number": 6, "expected_unit": "MAT.U02"},
+    {"global_number": 16, "expected_unit": "MAT.U02"},
+    {"global_number": 11, "expected_unit": "MAT.U10"},
+    {"global_number": 14, "expected_unit": "MAT.U10"},
+    {"global_number": 26, "expected_unit": "PHY.U07"},
+    {"global_number": 33, "expected_unit": "PHY.U07"},
+    {"global_number": 28, "expected_unit": "PHY.U08"},
+    {"global_number": 43, "expected_unit": "PHY.U08"},
+    {"global_number": 30, "expected_unit": "PHY.U18"},
+    {"global_number": 46, "expected_unit": "PHY.U18"},
+    {"global_number": 31, "expected_unit": "PHY.U19"},
+    {"global_number": 34, "expected_unit": "PHY.U19"},
+    {"global_number": 37, "expected_unit": "PHY.U19"},
+    {"global_number": 42, "expected_unit": "PHY.U17"},
+    {"global_number": 45, "expected_unit": "PHY.U17"},
+    {"global_number": 51, "expected_unit": "CHE.U03"},
+    {"global_number": 59, "expected_unit": "CHE.U03"},
+    {"global_number": 60, "expected_unit": "CHE.U03"},
+    {"global_number": 70, "expected_unit": "CHE.U03"},
+    {"global_number": 54, "expected_unit": "CHE.U04"},
+    {"global_number": 56, "expected_unit": "CHE.U04"},
+    {"global_number": 57, "expected_unit": "CHE.U04"},
+    {"global_number": 58, "expected_unit": "CHE.U04"},
+    {"global_number": 64, "expected_unit": "CHE.U04"},
+    {"global_number": 61, "expected_unit": "CHE.U09"},
+    {"global_number": 52, "expected_unit": "CHE.U10"},
+    {"global_number": 66, "expected_unit": "CHE.U10"},
+    {"global_number": 67, "expected_unit": "CHE.U10"}
+  ]
+}
+

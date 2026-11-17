@@ -1,0 +1,2 @@
+file_name,relative_path,sha256,size_mb,total_pages,text_layer,scanned_pages,figure_heavy_pages,is_duplicate,duplicate_role,duplicate_of,processing_status
+SYLLABUS.PDF,SYLLABUS.PDF,4ce0c562d245af9595571b1fce501d1b188767f8d33937813a74a3e52870a13f,1.12,11,full,0,1,False,unique,,unindexed

@@ -1,0 +1,5 @@
+code,level,name,description,example_stems,action
+MAT.U05,unit,BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS,,,keep
+MAT.U05.T01,topic,Binomial theorem for a positive integral index,,,keep
+MAT.U05.T01.S01,subtopic,Binomial theorem for a positive integral index theory,Includes problem-types on Binomial theorem for a positive integral index theory. Excludes unrelated parts of Binomial theorem for a positive integral index.,Calculate the primary parameters for Binomial theorem for a positive integral index theory given standard values. | Which of the following statements is correct regarding Binomial theorem for a positive integral index theory?,keep
+MAT.U05.T01.S02,subtopic,Binomial theorem for a positive integral index problem,Includes problem-types on Binomial theorem for a positive integral index problem. Excludes unrelated parts of Binomial theorem for a positive integral index.,Calculate the primary parameters for Binomial theorem for a positive integral index problem given standard values. | Which of the following statements is correct regarding Binomial theorem for a positive integral index problem?,keep

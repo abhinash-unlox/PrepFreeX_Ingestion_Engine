@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-12T13:07:08.960118+00:00",
+  "database_name": "jee_mains_assesment",
+  "table_counts": {
+    "assessment_attempts": 0,
+    "attempt_responses": 0,
+    "chapters": 88,
+    "generated_question_mappings": 180,
+    "mock_test_questions": 9270,
+    "mock_tests": 112,
+    "question_options": 19929,
+    "questions": 9366,
+    "s3_images": 0,
+    "syllabus_units": 64,
+    "user_mastery": 0
+  },
+  "total_size_bytes": 36157119
+}

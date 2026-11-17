@@ -1,0 +1,9 @@
+code,level,name,description,example_stems,action
+CHE.U16,unit,ORGANIC COMPOUNDS CONTAINING HALOGENS,,,keep
+CHE.U16.T01,topic,General methods of preparation,,,keep
+CHE.U16.T01.S01,subtopic,properties and reactions,Includes problem-types on properties and reactions. Excludes unrelated parts of General methods of preparation.,Calculate the primary parameters for properties and reactions given standard values. | Which of the following statements is correct regarding properties and reactions?,keep
+CHE.U16.T01.S02,subtopic,nature of C-X bond,Includes problem-types on nature of C-X bond. Excludes unrelated parts of General methods of preparation.,Calculate the primary parameters for nature of C-X bond given standard values. | Which of the following statements is correct regarding nature of C-X bond?,keep
+CHE.U16.T01.S03,subtopic,mechanisms of substitution reactions,Includes problem-types on mechanisms of substitution reactions. Excludes unrelated parts of General methods of preparation.,Calculate the primary parameters for mechanisms of substitution reactions given standard values. | Which of the following statements is correct regarding mechanisms of substitution reactions?,keep
+CHE.U16.T02,topic,environmental effects of chloroform,,,keep
+CHE.U16.T02.S01,subtopic,iodoform,Includes problem-types on iodoform. Excludes unrelated parts of environmental effects of chloroform.,Calculate the primary parameters for iodoform given standard values. | Which of the following statements is correct regarding iodoform?,keep
+CHE.U16.T02.S02,subtopic,freons and DDT,Includes problem-types on freons and DDT. Excludes unrelated parts of environmental effects of chloroform.,Calculate the primary parameters for freons and DDT given standard values. | Which of the following statements is correct regarding freons and DDT?,keep
