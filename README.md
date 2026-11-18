@@ -301,31 +301,117 @@ The platform supports 6 distinct assessment types adhering to the official NTA J
 
 ---
 
-## 9. How to Run the Platform
+## 9. Quickstart & How to Run the Platform
+
+Follow these steps to set up and run the entire PrepFreeX platform locally from scratch.
 
 ### Prerequisites
-- Python 3.12+ (Installed on path)
-- Node.js 18+ & pnpm
-- PostgreSQL 18 (Local instance on port 5432)
-- MinIO Object Storage (Installed at `C:\tools\prepfreex-minio`)
+- **Python 3.11+ / 3.12+**
+- **Node.js 18+** & **pnpm** (`npm install -g pnpm`)
+- **PostgreSQL 15+** (Running locally on port `5432`)
+- **MinIO Object Storage** (Or local S3-compatible service on port `9000`)
+- **Groq API Key(s)** (Free tier supported; multi-key rotation recommended)
 
-### Step 1: Start Services
+---
 
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/gauravsinghtanwar1/PrepFreeX_Ingestion_Engine.git
+cd PrepFreeX_Ingestion_Engine
+```
+
+---
+
+### Step 2: Configure Environment Variables
+Copy the template configuration file:
+```bash
+cp .env.example .env
+```
+Edit `.env` with your local database credentials and Groq API keys:
+```env
+# PostgreSQL
+POSTGRES_HOST=127.0.0.1
+POSTGRES_PORT=5432
+POSTGRES_DB=jee_mains_assesment_work
+POSTGRES_USER=prepfreex_user
+POSTGRES_PASSWORD=YourPasswordHere
+DATABASE_URL=postgresql://prepfreex_user:YourPasswordHere@127.0.0.1:5432/jee_mains_assesment_work
+
+# Groq LLM Key Rotation (Supports single or multiple comma-separated keys)
+LLM_PROVIDER=groq
+GROQ_MODEL=openai/gpt-oss-20b
+GROQ_API_KEYS=gsk_key1,gsk_key2,gsk_key3,gsk_key4
+
+# MinIO S3 Asset Storage
+OBJECT_STORAGE_BACKEND=minio
+MINIO_ENDPOINT=http://127.0.0.1:9000
+MINIO_BUCKET=prepfreex-question-assets
+MINIO_ACCESS_KEY=your_minio_access_key
+MINIO_SECRET_KEY=your_minio_secret_key
+MINIO_USE_SSL=false
+```
+
+---
+
+### Step 3: Initialize PostgreSQL Database
+Create the database and apply the schema migrations:
 ```powershell
-# 1. Start MinIO Object Storage (Port 9000 API / 9001 Console)
+# In PostgreSQL CLI (psql)
+CREATE DATABASE jee_mains_assesment_work;
+
+# Apply migrations sequentially
+psql -U prepfreex_user -d jee_mains_assesment_work -f db/migrations/0001_initial_schema.sql
+psql -U prepfreex_user -d jee_mains_assesment_work -f db/migrations/0002_add_quarantine_tables.sql
+# ... (or apply all migrations in db/migrations/)
+```
+
+---
+
+### Step 4: Start Services (3 Terminal Windows)
+
+#### Terminal 1: Start MinIO Object Storage
+```powershell
+# If using the preconfigured MinIO script:
 powershell -File "C:\tools\prepfreex-minio\start-minio.ps1"
 
-# 2. Start FastAPI Backend (Port 8000)
-python -m uvicorn apps.api.main:app --host 127.0.0.1 --port 8000
+# Or standard MinIO server:
+minio server C:\PrepFreeX\minio-data --address ":9000" --console-address ":9001"
+```
 
-# 3. Start Next.js Frontend (Port 3000)
+#### Terminal 2: Start FastAPI Core Backend
+```powershell
+# From project root:
+python -m pip install -r requirements.txt
+python -m uvicorn apps.api.main:app --host 127.0.0.1 --port 8000 --reload
+```
+API Documentation and Swagger UI will be available at **`http://127.0.0.1:8000/docs`**.
+
+#### Terminal 3: Start Next.js Frontend
+```powershell
 cd v0-prepfreex-frontend
 pnpm install
 pnpm dev
 ```
+The student testing platform and reviewer UI will be live at **`http://localhost:3000`**.
 
-Open your browser at **`http://localhost:3000`**.  
-Default test credentials: `arjun.sharma@prepfreex.com` / `Password@123`.
+---
+
+### Step 5: Explore & Use the Platform
+
+1. **Student CBT Exam Simulation:**
+   - Open **`http://localhost:3000`** in your browser.
+   - Login with demo credentials: `arjun.sharma@prepfreex.com` / `Password@123`.
+   - Practice full-length mocks, sectional tests, or topic-level drills with official NTA timer and $+4/-1$ scoring.
+2. **Staging Review & Ingestion UI:**
+   - Click the **Staging Review** tab in the navigation bar.
+   - Click **`[⚡ Extract Next Questions from PDF]`** to run the 4-layer autonomous ingestion pipeline.
+   - View Qwen-extracted questions side-by-side with the AIR-1 Blind Solver mathematical derivations.
+   - Click any option card to override keys or click **`[↗ Promote Approved to Live]`** to merge verified questions directly into the production question bank.
+3. **Database Remediation Sweep:**
+   - Run the curriculum remediation engine across any legacy questions:
+     ```bash
+     python -u scripts/remediate_all_taxonomy.py
+     ```
 
 ---
 
