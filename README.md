@@ -460,5 +460,5 @@ pytest tests/test_assessment_scoring.py tests/test_taxonomy.py tests/test_determ
 ## 12. Contributors & Team
 
 - **Gaurav Singh Tanwar** ([@gauravsinghtanwar1](https://github.com/gauravsinghtanwar1)) — *Lead Architecture & Development*
-- **Sai Mallela** (`sai.mallela@unloxacademy.com`) — *Core Contributor*
+- **Sai Venkata Abhinash Mallela** ([@abhinash-unlox](https://github.com/abhinash-unlox)) — *Core Contributor*
 
