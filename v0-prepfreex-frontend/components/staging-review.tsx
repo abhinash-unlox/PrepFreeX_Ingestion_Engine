@@ -12,13 +12,13 @@ function MathSpan({ text }: { text: string }) {
   // Simple LaTeX rendering helper
   const parts = text.split(/(\$[^\$]+\$)/g);
   return (
-    <span>
+    <span className="whitespace-pre-wrap">
       {parts.map((part, idx) => {
         if (part.startsWith('$') && part.endsWith('$') && part.length > 2) {
           const rawMath = part.slice(1, -1);
           try {
             const html = katex.renderToString(rawMath, { throwOnError: false, displayMode: false });
-            return <span key={idx} dangerouslySetInnerHTML={{ __html: html }} className="inline-katex px-1" />;
+            return <span key={idx} dangerouslySetInnerHTML={{ __html: html }} className="inline-katex px-0.5" />;
           } catch (e) {
             return <code key={idx} className="text-violet-600 bg-slate-100 px-1 rounded">{part}</code>;
           }
@@ -38,7 +38,34 @@ export function StagingReviewView() {
   const [loading, setLoading] = useState<boolean>(true);
   const [promoting, setPromoting] = useState<boolean>(false);
   const [promoteMsg, setPromoteMsg] = useState<string | null>(null);
+  const [extracting, setExtracting] = useState<boolean>(false);
+  const [extractMsg, setExtractMsg] = useState<string | null>(null);
   const [expandedReasoning, setExpandedReasoning] = useState<Record<number, boolean>>({});
+
+  const handleExtractNext = async (pdfPath?: string) => {
+    setExtracting(true);
+    setExtractMsg(null);
+    try {
+      const res = await fetch('http://127.0.0.1:8000/api/v1/staging/ingest-next', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(pdfPath ? { pdf_path: pdfPath, max_pages: 2 } : { max_pages: 2 })
+      });
+      if (res.ok) {
+        const data = await res.json();
+        setExtractMsg(data.message || 'Extracted new questions successfully.');
+        setActiveTab('questions');
+        fetchData();
+      } else {
+        const err = await res.json();
+        setExtractMsg(err.detail || 'Failed to extract questions.');
+      }
+    } catch (err) {
+      setExtractMsg('Network error while running extraction pipeline.');
+    } finally {
+      setExtracting(false);
+    }
+  };
 
   const fetchData = async () => {
     setLoading(true);
@@ -94,6 +121,29 @@ export function StagingReviewView() {
     }
   };
 
+  const handleSelectAnswer = async (qid: number, optLabel: string) => {
+    try {
+      const res = await fetch(`http://127.0.0.1:8000/api/v1/staging/questions/${qid}/answer`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ correct_option: optLabel, auto_approve: true })
+      });
+      if (res.ok) {
+        const data = await res.json();
+        const updated = data.question;
+        setQuestions(prev => prev.map(q => q.id === qid ? {
+          ...q,
+          correct_option: updated.correct_option,
+          solver_status: updated.solver_status,
+          review_status: updated.review_status
+        } : q));
+        fetchData();
+      }
+    } catch (err) {
+      console.error('Failed to update answer:', err);
+    }
+  };
+
   const handlePromoteAll = async () => {
     setPromoting(true);
     setPromoteMsg(null);
@@ -131,7 +181,15 @@ export function StagingReviewView() {
             Air-gapped verification staging area. Guardrail validation, 3-tier taxonomy, and Blind Solver parity before live database promotion.
           </p>
         </div>
-        <div className="flex items-center gap-3">
+        <div className="flex flex-wrap items-center gap-3">
+          <button
+            onClick={() => handleExtractNext()}
+            disabled={extracting}
+            className="flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-violet-600 rounded-lg hover:bg-violet-700 disabled:opacity-50 transition-all shadow-xs cursor-pointer"
+          >
+            <Zap className={`h-4 w-4 ${extracting ? 'animate-bounce text-amber-300' : ''}`} />
+            {extracting ? 'Extracting & Verifying PDF...' : 'Extract Next Questions from PDF'}
+          </button>
           <button
             onClick={fetchData}
             disabled={loading}
@@ -150,6 +208,18 @@ export function StagingReviewView() {
           </button>
         </div>
       </div>
+
+      {extractMsg && (
+        <div className="p-4 bg-violet-50 border border-violet-200 text-violet-900 rounded-xl flex items-center justify-between text-sm shadow-2xs">
+          <span className="flex items-center gap-2">
+            <Zap className="h-4 w-4 text-violet-600 shrink-0" />
+            {extractMsg}
+          </span>
+          <button onClick={() => setExtractMsg(null)} className="text-violet-600 hover:text-violet-900 cursor-pointer">
+            <X className="h-4 w-4" />
+          </button>
+        </div>
+      )}
 
       {promoteMsg && (
         <div className="p-4 bg-emerald-50 border border-emerald-200 text-emerald-800 rounded-xl flex items-center justify-between text-sm">
@@ -317,46 +387,81 @@ export function StagingReviewView() {
                     </div>
 
                     {/* STEM */}
-                    <div className="text-base text-slate-900 leading-relaxed font-serif my-3">
+                    <div className="text-base text-slate-900 leading-relaxed font-serif my-3 whitespace-pre-wrap">
                       <MathSpan text={q.question_text_latex} />
                     </div>
 
+                    {/* DISCREPANCY QUICK-RESOLVER BANNER */}
+                    {hasDiscrepancy && (
+                      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 p-3 bg-amber-50/90 border border-amber-200 rounded-lg text-xs my-3 text-amber-900 shadow-2xs">
+                        <div className="flex items-center gap-2">
+                          <AlertTriangle className="h-4 w-4 text-amber-600 shrink-0" />
+                          <span>
+                            Qwen extracted <b>Option {q.correct_option}</b>, but AIR-1 Blind Solver derived <b>Option {q.solver_option}</b>.
+                          </span>
+                        </div>
+                        <div className="flex items-center gap-2 shrink-0">
+                          <button
+                            onClick={() => handleSelectAnswer(q.id, q.solver_option)}
+                            className="px-2.5 py-1 bg-amber-600 hover:bg-amber-700 text-white font-semibold rounded cursor-pointer transition-colors shadow-2xs"
+                          >
+                            Set to Solver ({q.solver_option}) & Approve
+                          </button>
+                          <button
+                            onClick={() => handleSelectAnswer(q.id, q.correct_option)}
+                            className="px-2.5 py-1 bg-white hover:bg-amber-100 text-amber-800 border border-amber-300 font-semibold rounded cursor-pointer transition-colors"
+                          >
+                            Keep Extracted ({q.correct_option})
+                          </button>
+                        </div>
+                      </div>
+                    )}
+
                     {/* OPTIONS */}
                     {opts.length > 0 && (
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-2 my-3">
-                        {opts.map((opt: any, optIdx: number) => {
-                          const optLabel = String.fromCharCode(65 + optIdx);
-                          const isExtractedKey = q.correct_option === optLabel;
-                          const isSolverKey = q.solver_option === optLabel;
+                      <div className="space-y-1 my-3">
+                        <div className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-1">
+                          Options (Click any option to set as correct answer):
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
+                          {opts.map((opt: any, optIdx: number) => {
+                            const optLabel = String.fromCharCode(65 + optIdx);
+                            const isSelectedCorrectKey = q.correct_option === optLabel;
+                            const isSolverKey = q.solver_option === optLabel;
 
-                          return (
-                            <div 
-                              key={optIdx} 
-                              className={`p-2.5 rounded-lg border text-sm flex items-start gap-2.5 ${
-                                isExtractedKey 
-                                  ? 'bg-emerald-50/50 border-emerald-300 text-emerald-950 font-medium'
-                                  : 'bg-slate-50/50 border-slate-200 text-slate-800'
-                              }`}
-                            >
-                              <span className="font-semibold text-xs rounded px-1.5 py-0.5 bg-white border border-slate-200 shrink-0">
-                                {optLabel}
-                              </span>
-                              <div className="grow">
-                                <MathSpan text={typeof opt === 'string' ? opt : (opt.text || '')} />
+                            return (
+                              <div 
+                                key={optIdx} 
+                                onClick={() => handleSelectAnswer(q.id, optLabel)}
+                                title={`Click to set Option ${optLabel} as the correct answer`}
+                                className={`p-3 rounded-lg border text-sm flex items-start gap-2.5 cursor-pointer transition-all hover:scale-[1.005] ${
+                                  isSelectedCorrectKey 
+                                    ? 'bg-emerald-50 border-emerald-400 ring-2 ring-emerald-500/20 text-emerald-950 font-medium'
+                                    : 'bg-slate-50/70 border-slate-200 text-slate-800 hover:bg-indigo-50/50 hover:border-indigo-300'
+                                }`}
+                              >
+                                <span className={`font-semibold text-xs rounded px-2 py-0.5 border shrink-0 transition-colors ${
+                                  isSelectedCorrectKey ? 'bg-emerald-600 text-white border-emerald-600' : 'bg-white text-slate-700 border-slate-200'
+                                }`}>
+                                  {optLabel}
+                                </span>
+                                <div className="grow">
+                                  <MathSpan text={typeof opt === 'string' ? opt : (opt.text || '')} />
+                                </div>
+                                {isSelectedCorrectKey && (
+                                  <span className="text-[10px] font-bold uppercase bg-emerald-200 text-emerald-800 px-2 py-0.5 rounded shrink-0 flex items-center gap-1 shadow-2xs">
+                                    <Check className="h-3 w-3" /> Correct Answer
+                                  </span>
+                                )}
+                                {isSolverKey && !isSelectedCorrectKey && (
+                                  <span className="text-[10px] font-bold uppercase bg-amber-100 text-amber-800 border border-amber-200 px-1.5 py-0.5 rounded shrink-0">
+                                    Solver Derived: {optLabel}
+                                  </span>
+                                )}
                               </div>
-                              {isExtractedKey && (
-                                <span className="text-[10px] font-bold uppercase bg-emerald-200 text-emerald-800 px-1.5 py-0.5 rounded shrink-0">
-                                  Extracted Ans
-                                </span>
-                              )}
-                              {isSolverKey && !isExtractedKey && (
-                                <span className="text-[10px] font-bold uppercase bg-amber-200 text-amber-800 px-1.5 py-0.5 rounded shrink-0">
-                                  Solver Ans
-                                </span>
-                              )}
-                            </div>
-                          );
-                        })}
+                            );
+                          })}
+                        </div>
                       </div>
                     )}
 
@@ -438,6 +543,7 @@ export function StagingReviewView() {
                   <th className="px-4 py-3 text-right">Extracted</th>
                   <th className="px-4 py-3 text-right">Passed</th>
                   <th className="px-4 py-3 text-right">Tokens</th>
+                  <th className="px-4 py-3 text-right">Action</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-slate-100 text-slate-700">
@@ -460,6 +566,19 @@ export function StagingReviewView() {
                     <td className="px-4 py-2.5 text-right font-mono">{m.extracted_questions}</td>
                     <td className="px-4 py-2.5 text-right font-mono text-emerald-600 font-semibold">{m.passed_guardrails}</td>
                     <td className="px-4 py-2.5 text-right font-mono text-purple-600">{Number(m.total_tokens_used || 0).toLocaleString()}</td>
+                    <td className="px-4 py-2.5 text-right">
+                      {m.status === 'PENDING' ? (
+                        <button
+                          onClick={() => handleExtractNext(m.pdf_path)}
+                          disabled={extracting}
+                          className="px-2.5 py-1 bg-violet-50 hover:bg-violet-100 text-violet-700 border border-violet-200 rounded font-semibold text-[11px] cursor-pointer transition-colors shadow-2xs"
+                        >
+                          Extract Now
+                        </button>
+                      ) : (
+                        <span className="text-slate-400 text-[11px] font-mono">Done</span>
+                      )}
+                    </td>
                   </tr>
                 ))}
               </tbody>
@@ -470,3 +589,4 @@ export function StagingReviewView() {
     </div>
   );
 }
+

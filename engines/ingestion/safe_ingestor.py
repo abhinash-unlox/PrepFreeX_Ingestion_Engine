@@ -13,13 +13,13 @@ from typing import Optional
 from apps.api.db import get_db_cursor
 from engines.ingestion.pdf_extractor import PDFQuestionExtractor
 from engines.ingestion.guardrails import validate_question_guardrails
-from engines.ingestion.hierarchical_classifier import HierarchicalClassifier
+from engines.ingestion.curriculum_engine import CurriculumEngine
 from engines.ingestion.blind_solver import BlindSolver
 
 class SafeIngestionPipeline:
     def __init__(self):
         self.extractor = PDFQuestionExtractor()
-        self.classifier = HierarchicalClassifier()
+        self.classifier = CurriculumEngine()
         self.solver = BlindSolver()
 
     def process_pdf(
@@ -87,8 +87,8 @@ class SafeIngestionPipeline:
                 else:
                     metrics["rejected_guardrails"] += 1
 
-                # --- LAYER 2: 3-TIER HIERARCHICAL CLASSIFICATION ---
-                class_res = self.classifier.classify_question(
+                # --- LAYER 2: CURRICULUM CLASSIFICATION ---
+                class_res = self.classifier.categorize_question(
                     stem=stem,
                     options=opts,
                     subject_hint=subject_hint,
@@ -208,3 +208,4 @@ class SafeIngestionPipeline:
         print(f"  - Solver Matched: {metrics['solver_matched']}")
         print(f"  - Total Tokens Consumed: {metrics['total_tokens_used']}")
         return metrics
+

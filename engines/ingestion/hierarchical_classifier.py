@@ -16,57 +16,13 @@ from apps.api.db import get_db_cursor
 
 CANONICAL_TAXONOMY_PATH = "v0-prepfreex-frontend/lib/canonical-taxonomy.json"
 
+from engines.ingestion.curriculum_engine import CurriculumEngine
+
 class HierarchicalClassifier:
     def __init__(self, api_keys: Optional[list[str]] = None):
-        raw_keys = api_keys or list(settings.groq_api_keys) or ([settings.groq_api_key] if settings.groq_api_key else [])
-        self.api_keys = [k for k in raw_keys if k]
-        self.key_cycle = itertools.cycle(self.api_keys) if self.api_keys else None
-        self.taxonomy = self._load_taxonomy()
-        self.model = "qwen/qwen3.8-27b"
-
-    def _load_taxonomy(self) -> dict:
-        if os.path.exists(CANONICAL_TAXONOMY_PATH):
-            with open(CANONICAL_TAXONOMY_PATH, "r", encoding="utf-8") as f:
-                return json.load(f)
-        return {}
-
-    def _call_groq_json(self, prompt: str) -> tuple[dict, dict]:
-        tok = {"prompt": 0, "completion": 0, "total": 0}
-        if not self.key_cycle:
-            return {}, tok
-
-        api_key = next(self.key_cycle)
-        headers = {
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json"
-        }
-        payload = {
-            "model": self.model,
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.0,
-            "response_format": {"type": "json_object"}
-        }
-
-        try:
-            resp = requests.post(
-                "https://api.groq.com/openai/v1/chat/completions",
-                json=payload,
-                headers=headers,
-                timeout=15
-            )
-            if resp.status_code == 200:
-                data = resp.json()
-                usage = data.get("usage", {})
-                tok = {
-                    "prompt": usage.get("prompt_tokens", 0),
-                    "completion": usage.get("completion_tokens", 0),
-                    "total": usage.get("total_tokens", 0)
-                }
-                parsed = json.loads(data["choices"][0]["message"]["content"])
-                return parsed, tok
-        except Exception:
-            pass
-        return {}, tok
+        self.engine = CurriculumEngine(api_keys=api_keys)
+        self.taxonomy = self.engine.taxonomy
+        self.model = self.engine.model
 
     def classify_question(
         self,
@@ -75,15 +31,18 @@ class HierarchicalClassifier:
         subject_hint: Optional[str] = None,
         chapter_hint: Optional[str] = None
     ) -> dict:
-        tokens_used = {"prompt": 0, "completion": 0, "total": 0}
-
-        # --- TIER 1: SUBJECT ---
-        subject = (subject_hint or "").upper()
+        return self.engine.categorize_question(
+            stem=stem,
+            options=options,
+            subject_hint=subject_hint,
+            chapter_hint=chapter_hint
+        )
         if subject not in ["PHYSICS", "CHEMISTRY", "MATHEMATICS"]:
             subject = self._infer_subject_deterministic(stem, options)
 
         # --- TIER 2: UNIT / CHAPTER ---
-        chapters_in_subj = self.taxonomy.get(subject, [])
+        subj_title = subject.title()
+        chapters_in_subj = self.taxonomy.get(subj_title) or self.taxonomy.get(subject, [])
         matched_chapter = None
 
         if chapter_hint:
@@ -97,7 +56,7 @@ class HierarchicalClassifier:
         if not matched_chapter and chapters_in_subj:
             options_prompt = "\n".join([f"- {c['unit_code']}: {c['chapter_name']}" for c in chapters_in_subj])
             prompt = f"""You are a master JEE curriculum classifier.
-Identify which canonical chapter this {subject} question belongs to:
+Identify which canonical chapter this {subject} question belongs to from the list below:
 
 QUESTION:
 {stem[:500]}
@@ -105,19 +64,29 @@ QUESTION:
 AVAILABLE CHAPTERS:
 {options_prompt}
 
-Output ONLY valid JSON:
-{{"unit_code": "<chosen_unit_code>"}}"""
+Output ONLY valid JSON with the exact unit_code (e.g. PHYS_U01, PHYS_U18):
+{{"unit_code": "<exact_unit_code_from_list>"}}"""
 
             parsed, t2_tok = self._call_groq_json(prompt)
             tokens_used["prompt"] += t2_tok["prompt"]
             tokens_used["completion"] += t2_tok["completion"]
             tokens_used["total"] += t2_tok["total"]
 
-            uc = parsed.get("unit_code")
+            uc = str(parsed.get("unit_code") or "").strip()
+            # 1. Exact match on unit_code
             for c in chapters_in_subj:
-                if c["unit_code"] == uc:
+                if c["unit_code"].upper() == uc.upper():
                     matched_chapter = c
                     break
+
+            # 2. Match on chapter name or substring
+            if not matched_chapter and uc:
+                for c in chapters_in_subj:
+                    if (uc.lower() in c["chapter_name"].lower() or 
+                        c["chapter_name"].lower() in uc.lower() or
+                        uc.upper() in c["unit_code"].upper()):
+                        matched_chapter = c
+                        break
 
         if not matched_chapter:
             matched_chapter = chapters_in_subj[0] if chapters_in_subj else {
@@ -187,11 +156,14 @@ Output ONLY valid JSON:
             fb = fallback_topics[0]
             return fb["topic_code"], fb["topic_name"]
 
+        clean_code = str(topic_code).strip()
+
         try:
             with get_db_cursor() as cur:
                 cur.execute("""
-                    SELECT topic_code, topic_name FROM public.chapter_topics WHERE topic_code = %s;
-                """, (topic_code,))
+                    SELECT topic_code, topic_name FROM public.chapter_topics 
+                    WHERE topic_code = %s OR topic_code ILIKE %s;
+                """, (clean_code, f"%{clean_code}%"))
                 row = cur.fetchone()
                 if row:
                     return row["topic_code"], row["topic_name"]
@@ -199,7 +171,9 @@ Output ONLY valid JSON:
             pass
 
         for fb in fallback_topics:
-            if fb["topic_code"] == topic_code:
+            if (fb["topic_code"].upper() == clean_code.upper() or
+                clean_code.lower() in fb["topic_name"].lower() or
+                fb["topic_name"].lower() in clean_code.lower()):
                 return fb["topic_code"], fb["topic_name"]
 
         fb = fallback_topics[0]

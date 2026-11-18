@@ -4,6 +4,7 @@ Solves questions without seeing the extracted answer key to detect Qwen extracti
 """
 
 from __future__ import annotations
+import re
 import json
 import itertools
 from typing import Optional
@@ -33,19 +34,13 @@ class BlindSolver:
             tokens_used: dict
         """
         tokens_used = {"prompt": 0, "completion": 0, "total": 0}
-        if not self.key_cycle:
+        if not self.api_keys:
             return {
                 "solver_option": None,
                 "reasoning": "Solver skipped (No API key)",
                 "solver_status": "SKIPPED",
                 "tokens_used": tokens_used
             }
-
-        api_key = next(self.key_cycle)
-        headers = {
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json"
-        }
 
         formatted_opts = ""
         for idx, o in enumerate(options[:4]):
@@ -75,56 +70,82 @@ Return your solution strictly as valid JSON:
             "response_format": {"type": "json_object"}
         }
 
-        try:
-            resp = requests.post(
-                "https://api.groq.com/openai/v1/chat/completions",
-                json=payload,
-                headers=headers,
-                timeout=25
-            )
-            if resp.status_code == 200:
-                data = resp.json()
-                usage = data.get("usage", {})
-                tokens_used = {
-                    "prompt": usage.get("prompt_tokens", 0),
-                    "completion": usage.get("completion_tokens", 0),
-                    "total": usage.get("total_tokens", 0)
-                }
-                parsed = json.loads(data["choices"][0]["message"]["content"])
-                sol_opt = (parsed.get("correct_option") or "").strip().upper()
-                if len(sol_opt) > 1:
-                    # e.g. "OPTION A" -> "A"
-                    for char in ["A", "B", "C", "D"]:
-                        if char in sol_opt:
-                            sol_opt = char
-                            break
-
-                reasoning = parsed.get("step_by_step_solution") or ""
-
-                # Parity Check
-                clean_extracted = (extracted_answer or "").strip().upper()
-                if clean_extracted and sol_opt:
-                    status = "MATCHED" if sol_opt == clean_extracted else "DISCREPANCY"
-                else:
-                    status = "UNVERIFIED"
-
-                return {
-                    "solver_option": sol_opt,
-                    "reasoning": reasoning,
-                    "solver_status": status,
-                    "tokens_used": tokens_used
-                }
-        except Exception as e:
-            return {
-                "solver_option": None,
-                "reasoning": f"Solver error: {e}",
-                "solver_status": "ERROR",
-                "tokens_used": tokens_used
+        max_attempts = max(3, len(self.api_keys) * 2)
+        for attempt in range(max_attempts):
+            api_key = next(self.key_cycle)
+            headers = {
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
             }
+
+            try:
+                resp = requests.post(
+                    "https://api.groq.com/openai/v1/chat/completions",
+                    json=payload,
+                    headers=headers,
+                    timeout=30
+                )
+                if resp.status_code == 200:
+                    data = resp.json()
+                    usage = data.get("usage", {})
+                    tokens_used = {
+                        "prompt": usage.get("prompt_tokens", 0),
+                        "completion": usage.get("completion_tokens", 0),
+                        "total": usage.get("total_tokens", 0)
+                    }
+                    parsed = json.loads(data["choices"][0]["message"]["content"])
+                    sol_opt = (parsed.get("correct_option") or "").strip().upper()
+                    if len(sol_opt) > 1:
+                        # e.g. "OPTION A" -> "A"
+                        for char in ["A", "B", "C", "D"]:
+                            if char in sol_opt:
+                                sol_opt = char
+                                break
+
+                    reasoning = parsed.get("step_by_step_solution") or ""
+
+                    # Parity Check
+                    clean_extracted = (extracted_answer or "").strip().upper()
+                    if question_type == "NUMERICAL":
+                        raw_val = str(parsed.get("final_answer_value") or parsed.get("correct_option") or "").strip()
+                        # Extract the primary numerical value, avoiding exponents in units like m/s^2 or cm^3
+                        num_match = re.search(r'[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?', raw_val)
+                        val_num = num_match.group(0) if num_match else raw_val
+                        ext_match = re.search(r'[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?', clean_extracted)
+                        ext_num = ext_match.group(0) if ext_match else clean_extracted
+                        if val_num and ext_num:
+                            try:
+                                status = "MATCHED" if abs(float(val_num) - float(ext_num)) < 1e-2 else "DISCREPANCY"
+                            except ValueError:
+                                status = "MATCHED" if val_num == ext_num else "DISCREPANCY"
+                            sol_opt = val_num
+                        else:
+                            status = "UNVERIFIED"
+                            sol_opt = raw_val
+                    elif clean_extracted and sol_opt:
+                        status = "MATCHED" if sol_opt == clean_extracted else "DISCREPANCY"
+                    else:
+                        status = "UNVERIFIED"
+
+                    return {
+                        "solver_option": sol_opt,
+                        "reasoning": reasoning,
+                        "solver_status": status,
+                        "tokens_used": tokens_used
+                    }
+                elif resp.status_code in (429, 500, 502, 503):
+                    import time
+                    time.sleep(1.0 + attempt * 0.5)
+                    continue
+            except Exception:
+                import time
+                time.sleep(1.0)
+                continue
 
         return {
             "solver_option": None,
-            "reasoning": "Solver failed to return 200 OK",
+            "reasoning": "Solver failed after rotating retry keys",
             "solver_status": "FAILED",
             "tokens_used": tokens_used
         }
+
