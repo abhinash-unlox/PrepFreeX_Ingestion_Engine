@@ -454,3 +454,11 @@ pytest tests/test_embibe_engine.py -v
 # Run full core test suite
 pytest tests/test_assessment_scoring.py tests/test_taxonomy.py tests/test_deterministic.py -v
 ```
+
+---
+
+## 12. Contributors & Team
+
+- **Gaurav Singh Tanwar** ([@gauravsinghtanwar1](https://github.com/gauravsinghtanwar1)) — *Lead Architecture & Development*
+- **Sai Mallela** (`sai.mallela@unloxacademy.com`) — *Core Contributor*
+
